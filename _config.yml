@@ -31,7 +31,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: +404251-0740023 # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -60,11 +60,11 @@ plugins:
 author:
   name   : "paolo adajar"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Undergraduate economist interested in education, IO, market design, development, and much more."
+  bio    : "Undergraduate economist at MIT interested in education, IO, market design, development, and much more."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://blindmewithscience.github.io/why/"
+      url: /why/
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/paolo_adajar"
