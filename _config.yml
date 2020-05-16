@@ -15,10 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: paolo adajar
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: >- # this means to ignore newlines until "baseurl:", description to show in Google search results
+  Undergraduate economics student at MIT interested in education, IO, market design, development, and much more.
 twitter_username: paolo_adajar
 github_username: blindmewithscience
 minimal_mistakes_skin: default
@@ -30,11 +28,12 @@ remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+paginate_path: /blog/page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+  - blog
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -60,33 +59,33 @@ plugins:
 author:
   name   : "paolo adajar"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Undergraduate economist at MIT interested in education, IO, market design, development, and much more."
+  bio    : "Undergraduate economics student at MIT interested in education, IO, market design, development, and much more."
   links:
-    - label: "Website"
+    - label: "website"
       icon: "fas fa-fw fa-link"
       url: /why/
-    - label: "Twitter"
+    - label: "twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/paolo_adajar"
-    - label: "GitHub"
+    - label: "github"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "LinkedIn"
+      url: "https://github.com/blindmewithscience"
+    - label: "linkedin"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/padajar/"
       
       
 footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+  # links:
+    # - label: "Twitter"
+      # icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+    # - label: "GitHub"
+      # icon: "fab fa-fw fa-github"
+      # url: "https://github.com/"
+    # - label: "Instagram"
+      # icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
 
 defaults:
   # _posts
