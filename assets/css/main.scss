@@ -1,10 +1,11 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
+# 3e69dc blue hex code
 ---
 @charset "utf-8";
 
-$masthead-link-color: #3e69dc;
-$link-color: #3e69dc;
+$masthead-link-color: #ff7800;
+$link-color: #ff7800;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
@@ -13,3 +14,9 @@ $link-color: #3e69dc;
   display: none;
 }
 
+.tg  {border:none;border-collapse:collapse;border-spacing:0;}
+.tg td{border-style:none;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
+  padding:10px 5px;word-break:normal;}
+.tg th{border-style:none;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vfn0{background-color:#efefef;border-color:#000000;text-align:left;vertical-align:top}
