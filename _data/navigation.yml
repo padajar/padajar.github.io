@@ -1,6 +1,8 @@
 main:
   - title: "blog"
     url: /blog/
+  - title: "economics"
+    url: /economics/
   - title: "resume"
     url: /resume/
   - title: "about"
