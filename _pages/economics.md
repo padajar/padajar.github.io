@@ -1,8 +1,7 @@
 ---
 permalink: /economics/
 title: "economics"
-layout: single
-author_profile: true
+# classes: wide wide2
 ---
 
 My work in economics has spanned from anti-trust to finance to policy to development to industrial organization. I'm also interested in education, market design, and game theory. Basically, I enjoy so many of the different things that economics does that I have no idea how I'll narrow it down.
@@ -34,9 +33,4 @@ NERA
 
 Government Accountability Office
 : *Student Intern --- Applied Research and Methods, Summer 2019*
-: I worked at GAO as part of the [MIT-DC Internship Program](http://web.mit.edu/summerwash/). This internship and program helped expose me to the world of policy, and helped me decide to get a minor in the field. During the internship, I got to talk with many PhDs working in public policy about their experiences and why they (mostly) ended up leaving academia, which has helped me in understadning my own career goals.
-
-MIT Department of Economics
-: *TA for 14.27 (Economics and E-Commerce), Fall 2019*
-: I very much love education, and this was my first chance to really teach economics. MIT Economics TAs are typically graduate students, and to my knowledge I'm one of only two undergraduate TAs for the department in recent memory. While my TAing wasn't perfect (making mistakes in office hours, imperfect recitation timing), I'd like to think I did a fairly good job in terms of helping students  — my final evaluation rating was a 5.8/7. 
-
+: I worked at GAO as part of the [MIT-DC Internship Program](http://web.mit.edu/summerwash/). This internship and program helped expose me to the world of policy, and helped me decide to get a minor in the field. During the internship, I got to talk with many PhDs working in public policy about their experiences and why they (mostly) ended up leaving academia, which has helped me in understanding my own career goals.
