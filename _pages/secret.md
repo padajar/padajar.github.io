@@ -1,8 +1,6 @@
 ---
 permalink: /secret/
 title: "Secret"
-layout: single
-author_profile: true
 search: false
 ---
 
