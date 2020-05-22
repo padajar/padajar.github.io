@@ -6,6 +6,7 @@ categories:
 tags:
   - ESP
   - personness
+classes: wide
 ---
 
 Hi! Welcome to my website! (And the first blog post on it!)
