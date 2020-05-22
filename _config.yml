@@ -61,19 +61,21 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Undergraduate economics student at MIT interested in education, IO, market design, development, and much more."
   links:
-    - label: "website"
-      icon: "fas fa-fw fa-link"
-      url: /why/
+    - label: "email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:paoloadajar@mit.edu"
+    - label: "linkedin"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/padajar/"
     - label: "twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/paolo_adajar"
     - label: "github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/blindmewithscience"
-    - label: "linkedin"
-      icon: "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/in/padajar/"
-      
+    - label: "website"
+      icon: "fas fa-fw fa-link"
+      url: /why/      
       
 footer:
   # links:
@@ -105,7 +107,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       
 collections:
   posts:
