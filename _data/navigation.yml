@@ -3,6 +3,10 @@ main:
     url: /blog/
   - title: "economics"
     url: /economics/
+  - title: "education"
+    url: /education/
+  - title: "more"
+    url: /more/
   - title: "resume"
     url: /resume/
   - title: "about"
