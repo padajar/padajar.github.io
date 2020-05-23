@@ -46,6 +46,7 @@ Deep Discussions
 	* [hugs](http://web.mit.edu/cor/www/hugs/)
 	* [YearCompass](https://www.yearcompass.com)
 	* [Although of course you end up becoming yourself](https://www.goodreads.com/work/quotes/7144014-although-of-course-you-end-up-becoming-yourself-a-road-trip-with-david), and a [blog post by petey](https://mitadmissions.org/blogs/entry/choosing-to-become-yourself/)
+	* [Wait But Why](https://waitbutwhy.com/)
 * Quarantine entertainment
 	* [Set with Friends](https://setwithfriends.com/) and the [Daily Set Puzzle](https://www.setgame.com/set/puzzle)
 	* [Jelle's Marble Runs](https://www.youtube.com/channel/UCYJdpnjuSWVOLgGT9fIzL0g)
