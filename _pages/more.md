@@ -11,9 +11,6 @@ Here's a list of a lot more random things about me, ranging from the semi-seriou
 MIT Consulting Group
 : Words to be added soon!
 
-Northeast Regional Middle School Science Bowl
-: Words to be added soon!
-
 Incube
 : Words to be added soon!
 
