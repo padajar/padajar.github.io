@@ -13,18 +13,18 @@ MIT Educational Studies Programs ([website](https://esp.mit.edu/))
 
 Northeast Regional Middle School Science Bowl ([website](https://www.mitsciencebowl.com/))
 : *Coordinator*
-: I loved science bowl in middle and high school, and by sheer coincidence, I've ended up as the coordinator for the Northeast Regional Middle School Science Bowl, one of 48 competitions across the country where middle school teams can qualify for the [National Science Bowl](https://science.osti.gov/wdts/nsb). Running this science bowl regional gives me chance for me to leave my mark on how these competitions operate. NERMSSB is only in its 5<sup>th</sup> year of organization, and so there's hopefully a lot of lessons I can bring from ESP to help it continue to be run well. Above all, NERMSSB is a great way to just have fun with other science bowl alumni being on the other side of the competition.
+: I loved science bowl in middle and high school, and by sheer coincidence, I've ended up as the coordinator for the Northeast Regional Middle School Science Bowl, one of 48 competitions across the country where middle school teams can qualify for the [National Science Bowl](https://science.osti.gov/wdts/nsb). Running this science bowl regional gives me a chance to leave my mark on how these competitions operate. NERMSSB is only in its 5<sup>th</sup> year of organization, and so there's hopefully a lot of lessons I can bring from ESP to help it continue to be run well. Above all, NERMSSB is a great way to just have fun with other science bowl alumni being on the other side of the competition.
 
 ## teaching
 
 TA for 14.27 (Economics and E-Commerce), Fall 2019
 : This was my first chance to teach economics in a meaningful capacity. MIT Economics TAs are typically graduate students, and to my knowledge I'm one of only two undergraduate TAs for the department in recent memory. While my TAing wasn't perfect (making mistakes in office hours, imperfect recitation timing), I'd like to think I did a fairly good job in terms of helping students. The most fun I had here was getting to design recitations to introduce students to game theory, and creating problems that relate to some of the economics research that I do about competition.
 
-Cybermath Academy/Star League Programs
-: Words to be added soon!
-
 MIT Global Teaching Labs — Italy
 : As part of [MIT GTL](http://misti.mit.edu/global-teaching-labs), I traveled to Italy and designed week-long courses about relativity and statistics to 3<sup>rd</sup>-5<sup>th</sup> years in high school. GTL was a great chance to teach in an environment with high stakes, as the students I taught would need to know this content for their end-of-year exams. More in-depth thoughts about GTL can be found on a blog made by members of ESP doing GTL, [Splash on Planes](https://espgtl.home.blog/author/paoloadajar/). 
+
+Cybermath Academy/Star League Programs
+: Math camps were my first experience with serious teaching: planning lessons, making exercises, and managing classrooms with middle and elementary school students. I first taught at these camps after my junior year of high school, and they're the reason that I grew interested in education. For three straight summers I helped students prepare for Mathcounts competitions, and enjoyed (almost) every bit of it. These programs helped me find my own teaching style (trying to be engaging, enthusiastic, and explaining concepts from intuition as much as possible) that I keep today.
 
 Serious classes taught at ESP Programs <a name="esp-classes"></a>
 : Quick Mafs
@@ -36,9 +36,7 @@ Serious classes taught at ESP Programs <a name="esp-classes"></a>
 : Learning about Teaching
 
 Not-so-serious classes taught at ESP Programs
-: Scrabble Tips and Tricks
 : Appreciation for any juice that is not Ruby Red 
 : Science Bowl
-: Liquid Nitrogen ice Cream
 : All 2 Letter Scrabble Words in 5 Minutes
 : The Music of Neil Cicierega
