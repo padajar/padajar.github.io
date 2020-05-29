@@ -9,7 +9,7 @@ Over the past 5 years, I've grown to care a lot about the field of education. I 
 
 MIT Educational Studies Programs ([website](https://esp.mit.edu/))
 : *Chair, Summer HSSP Director, Community Working Group Director*
-: ESP runs giant educational programs for middle and high school students with the motto "Teach Anything, Learn Anything." Some examples of classes taught at our programs can be found [down below](#esp-classes). I joined ESP because I thought it was the way to start teaching at their programs. It turns out that's not true at all, but I've stuck around ESP anyways. This club is filled with some of the most wonderful people I've met at MIT, people who care about keeping organizations running well, the state of education n the world, and just life in general. No matter how long I stay in ESP, there's always some way I feel like I'm growing or feeling like I'm contributing — serving as chair for the club or a mentor for new directors, implementing the MIT Minors Policy, or finding ways to bring a sense of community to our programs. I love ESP a lot, and joining this club was the best decision I ever made at MIT.
+: ESP runs giant educational programs for middle and high school students with the motto "Teach Anything, Learn Anything." Some examples of classes taught at our programs can be found [down below](#esp-classes). I joined ESP because I thought it was the way to start teaching at their programs. It turns out that's not true at all, but I've stuck around ESP anyways. This club is filled with some of the most wonderful people I've met at MIT, people who care about keeping organizations running well, the state of education n the world, and just life in general. No matter how long I stay in ESP, there's always some way I feel like I'm growing or feeling like I'm contributing — serving as Chair for the club or a mentor for new directors, implementing the MIT Minors Policy, or finding ways to bring a sense of community to our programs. I love ESP a lot, and joining this club was the best decision I ever made at MIT.
 
 Northeast Regional Middle School Science Bowl ([website](https://www.mitsciencebowl.com/))
 : *Coordinator*
@@ -17,7 +17,7 @@ Northeast Regional Middle School Science Bowl ([website](https://www.mitscienceb
 
 ## teaching
 
-TA for 14.27 (Economics and E-Commerce), Fall 2019
+TA for 14.27 (Economics and E-Commerce)
 : This was my first chance to teach economics in a meaningful capacity. MIT Economics TAs are typically graduate students, and to my knowledge I'm one of only two undergraduate TAs for the department in recent memory. While my TAing wasn't perfect (making mistakes in office hours, imperfect recitation timing), I'd like to think I did a fairly good job in terms of helping students. The most fun I had here was getting to design recitations to introduce students to game theory, and creating problems that relate to some of the economics research that I do about competition.
 
 MIT Global Teaching Labs — Italy
