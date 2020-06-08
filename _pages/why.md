@@ -9,6 +9,6 @@ search: false
 
 You just clicked a link to my website while ***on*** my website. Nice.
 
-But ... why?
+But ... why? I guess it doesn't matter now.
 
-Sending you back to the homepage in 10 seconds.
+Don't want to take up too much of your time. Sending you back to the homepage in 10 seconds.
