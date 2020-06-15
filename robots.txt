@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /why/
+Disallow: /secret/
