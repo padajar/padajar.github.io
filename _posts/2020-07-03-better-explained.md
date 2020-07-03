@@ -1,5 +1,5 @@
 ---
-title: "better explained economics"
+title: "better explained"
 ---
 
 I've recently found[^1] [Better Explained](https://betterexplained.com/), a website that tries to find explain math concepts in very non-traditional ways, but ways that help people truly grasp the underlying idea. Taken from the [about page](https://betterexplained.com/about/):
@@ -19,6 +19,6 @@ When looking at resources for economics online, it makes me a bit sad that there
 Maybe one thing that I'll try to do with this blog is to try and write intuitive explanations for some of my favorite concepts that I've seen in classes and new material that I find interesting as I learn it. In particular, I think that explanations of core econometrics concepts (particulaly regressions and instrumental variables) would be incredibly interesting. Other concepts, like Arrow's Impossibility Theorem, different macroeconomic models, and game theory concepts could also be interesting to try to explain from first principles as much as possible.  
 
 
-[^1] Refound? I feel like this kind of site is absolutely something I might have seen before. But I have no idea where, nor any memory of this site existing.
+[^1]: Refound? I feel like this kind of site is absolutely something I might have seen before. But I have no idea where, nor any memory of this site existing.
 
-[^2] The difficulty in this problem is that there are two Os -- the easiest way around it is to pretend that they're distinct, and then divide by 2. My student came up with this solution the same day I introduced the "combination" operation to them, and it made me very, very happy.
+[^2]: The difficulty in this problem is that there are two Os -- the easiest way around it is to pretend that they're distinct, and then divide by 2. My student came up with this solution the same day I introduced the "combination" operation to them, and it made me very, very happy.
