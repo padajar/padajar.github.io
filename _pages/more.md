@@ -24,38 +24,37 @@ Musicals
 : I love musicals! Favorite ones I’ve seen in person are Hadestown, Waitress, and Les Mis. I’ve seen 16 musicals in-person and know the soundtracks to dozens more.
 
 Rubik’s Cube Solving
-
 : Fastest 3×3 solve is 11.08s. I also like trying to solve blindfolded, and my fastest is in 3:31 (though I average much closer to 7 minutes).
 
 Scrabble
-
 : Word games are fun, and Scrabble is my favorite. I’ve taught Splash classes about strategy and two-letter words. One long-term goal of mine is to join competitive Scrabble tournaments.
 
 Jeopardy
-
 : I’ve always wanted to make it onto Jeopardy. My main weaknesses right now are in literature and pop culture, so I’m trying to slowly build up that knowledge to have a shot at qualifying. Fingers crossed.
 
 Deep Discussions
-
 : I love talking to people to learn more about who they are and how they see the world. One semester, I ran a small discussion series to bring strangers together to talk about big questions like “How do you define yourself?” and “What brings meaning to your life?”
 
 good things on the internet
 ---------------------------
 
-Webcomics
+Entertainment
 : [xkcd](https://xkcd.com/)
-: [Saturday Morning Breakfast Cereal](https://www.smbc-comics.com/)
+: [Saturday Morning Breakfast Cereal](https://www.smbc-comics.com/) 
+: [Set with Friends](https://setwithfriends.com/) and the [Daily SetPuzzle](https://www.setgame.com/set/puzzle)
+: [Jelle's Marble Runs](https://www.youtube.com/channel/UCYJdpnjuSWVOLgGT9fIzL0g) (go [O'rangers](https://jellesmarbleruns.fandom.com/wiki/O%27rangers))
 
-Links I keep coming back to
-: [hugs](http://web.mit.edu/cor/www/hugs/)
-: [YearCompass](https://www.yearcompass.com)
-: [Although of course you end up becoming yourself](https://www.goodreads.com/work/quotes/7144014-although-of-course-you-end-up-becoming-yourself-a-road-trip-with-david),
-and a [blog post by petey](https://mitadmissions.org/blogs/entry/choosing-to-become-yourself/)
+Thinking
 : [Wait But Why](https://waitbutwhy.com/)
+: [YearCompass](https://www.yearcompass.com)
+: [Although of course you end up becoming yourself](https://mitadmissions.org/blogs/entry/choosing-to-become-yourself/) and [this quote](https://www.goodreads.com/work/quotes/7144014-although-of-course-you-end-up-becoming-yourself-a-road-trip-with-david) he links to from the book 
 
-Quarantine entertainment
-: [Set with Friends](https://setwithfriends.com/) and the [Daily Set
-Puzzle](https://www.setgame.com/set/puzzle)
-: [Jelle's Marble
-Runs](https://www.youtube.com/channel/UCYJdpnjuSWVOLgGT9fIzL0g)
-: [UNDERTALE](https://undertale.com/)
+Rabbit holes I've been meaning to explpore
+: The website of [bill wurtz](https://billwurtz.com/), maker of [history of the entire world, i guess](https://www.youtube.com/watch?v=xuCn8ux2gbs)
+: [lesswrong.com](https://www.lesswrong.com/)
+: [Wikipedia's list of list of lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists)
+: [Infinite Jest](https://www.goodreads.com/book/show/6759.Infinite_Jest) (does this count as an internet rabbit hole? no, but it's on this list anyway.)
+: [this blog](https://zyxyvy.wordpress.com/)
+
+Wholesomeness
+: [hugs](http://web.mit.edu/cor/www/hugs/)
