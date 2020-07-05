@@ -116,6 +116,10 @@ collections:
     output: true
     permalink: /:year/:month/:day/:title/
 
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "padajar"
 
 category_archive:
   type: liquid
