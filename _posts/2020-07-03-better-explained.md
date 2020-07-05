@@ -1,5 +1,11 @@
 ---
 title: "better explained"
+categories: 
+  - education
+  - economics
+tags:
+  - pedagogy
+  - rabbit holes
 ---
 
 I've recently found[^1] [Better Explained](https://betterexplained.com/), a website that tries to find explain math concepts in very non-traditional ways, but ways that help people truly grasp the underlying idea. Taken from the [about page](https://betterexplained.com/about/):
