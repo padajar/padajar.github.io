@@ -1,5 +1,5 @@
 ---
-title: "on choices, arbitraryness, and storytelling"
+title: "on choices, arbitrariness, and storytelling"
 ---
 
 As I think more about applying to grad school and reflecting on my own MIT
@@ -63,7 +63,7 @@ other than a list.
 
 -   Putting more energy into things when the different in outcomes is small
 
--   Feeling like you’re closing off doors by makig any decisoin
+-   Feeling like you’re closing off doors by making any decision
 
 Why do we worry about choices?
 
@@ -92,7 +92,7 @@ summary
 -   rather than taking htis all as reasons for not making choices with much
     thought, it measn that we should think very carefully about hohw we think
 
-arbitraryness
+arbitrariness
 -------------
 
 When I lived in Iowa, one of my teachers recommended that I take an online AP
