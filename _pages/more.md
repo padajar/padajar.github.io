@@ -14,6 +14,7 @@ MIT Consulting Group
 
 Incube
 : As part of a competition run by the ETH Entrepreneurship Club, I lived in a 270-square-foot glass box for 5 straight days with 4 other people as part of an entrepreneurship hackathon to "reimagine the future of ambulances." (Yeah, it's as wild as it sounds. To get a sense of what *real* people thought about it, check out some press coverage from [MIT News](http://news.mit.edu/2018/mit-student-entrepreneurs-think-inside-box-incube-1005), [Boston Globe](http://epaper.bostonglobe.com/infinity/article_popover_share.aspx?guid=b0189b60-e457-4a2f-8f1c-a223b14b1832), [BostInno](https://www.americaninno.com/boston/think-inside-a-box-mit-students-reimagine-the-ambulance-of-the-future/), [NBC Boston](https://www.nbcboston.com/news/local/why-mit-students-are-living-in-a-box-this-weekend/116370/), and [The Tech](https://thetech.com/2018/09/27/incube-competition-photos)). Working with Stryker, my team proposed Augmedic, an integrated vital sign monitoring system, winning second place in an international competition against 4 other "cubes." I joined Incube to push me *way* out of my comfort zone, never having done a hackathon or anything related to entrepreneurship before (not to mention living in a box). Incube was an incredibly interesting life experience, and one that has become by default "fun fact" to share during icebreakers. 
+
 interests
 ---------
 
@@ -55,6 +56,7 @@ Rabbit holes I've been meaning to explpore
 : [Wikipedia's list of list of lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists)
 : [Infinite Jest](https://www.goodreads.com/book/show/6759.Infinite_Jest) (does this count as an internet rabbit hole? no, but it's on this list anyway.)
 : [this blog](https://zyxyvy.wordpress.com/)
+: [Better Explained](https://betterexplained.com/) (here'a a [blog post](https://padajar.com/2020/07/03/better-explained/) about it)
 
 Wholesomeness
 : [hugs](http://web.mit.edu/cor/www/hugs/)
