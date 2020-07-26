@@ -2,7 +2,8 @@
 title: "beginnings"
 categories:
   - meta
-  - introspection
+  - thinking
+  - self
 tags:
   - ESP
   - personness
