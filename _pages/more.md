@@ -58,5 +58,6 @@ Rabbit holes I've been meaning to explpore
 : [this blog](https://zyxyvy.wordpress.com/)
 : [Better Explained](https://betterexplained.com/) (here'a a [blog post](https://padajar.com/2020/07/03/better-explained/) about it)
 
-Wholesomeness
+wholesome links
 : [hugs](http://web.mit.edu/cor/www/hugs/)
+: [my favorite train video](https://www.youtube.com/watch?v=cD3QlR98--A)
