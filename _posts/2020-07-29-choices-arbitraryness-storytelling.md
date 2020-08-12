@@ -15,7 +15,7 @@ tags:
   - long
 ---
 
-As I think more about applying to grad school and reflecting on my own MIT experience, there’s been a few different themes that keep coming up. I guess this post is meant to just showcase the ways that these different ideas have influenced and continue to influence my life.
+As I think more about applying to grad school and reflecting on my own MIT experience, there’s been a few different themes that keep coming up. These themes have influenced and continue to influence my life, and I figured that it was worthwhile to try and talk about them all in some semi-cohesive manner.
 
 ## choices
 
@@ -62,12 +62,12 @@ Looking at my own decision-making process about “big” things — choosing ca
 
 - **Putting too much effort into choices when the net gain is small**. At an abstract level, if you know the relative gain from choosing one choice over another is $\varepsilon$, you shouldn't be spending more than $\varepsilon$ time trying to figure out which of the two choices is better; if you do, then choosing either option (randomly) at the beginning would have been better than spending your time on this decision.  
 
-  Someone I've met had an extreme way of solving this problem; simply giving up the choice process entirely. He lets other people choose his orders at restaurants because the effort in deciding on something that is good is not commensurate to the gain of actually choosing the best option. I personally believe that goes a bit too far; but the idea at the core of this behavior is important to remember. I think it’s very hard to evaluate the costs (mental energy, time of decision making, potential gains lost by delaying decisions), but they are there. It’s very easy to fall into this trap — over engineering slides, trying to choose between different job offers, etc. I think the problem is particularly worse when the “stakes” of the decision are bigger, like jobs or colleges.
+  I've met someone who had an extreme way of solving this problem; simply giving up the choice process entirely. He lets other people choose his orders at restaurants because the effort in deciding on something that is good is not commensurate to the gain of actually choosing the best option. I personally believe that goes a bit too far; but the idea at the core of this behavior is important to remember. I think it’s very hard to evaluate the costs (mental energy, time of decision making, potential gains lost by delaying decisions), but they are there. It’s very easy to fall into this trap — over engineering slides, trying to choose between different job offers, etc. I think the problem is particularly worse when the “stakes” of the decision are bigger, like jobs or colleges.
 
 - **The “closing off doors” feeling**. I’ve repeatedly heard advice that roughly follows "Don’t worry too much about choosing X; it’s not a permanent decision, and you can always change it later." Throughout my life, X has been many different things, from majors to careers to what clubs I want to join. In an objective sense, this statement is true. No matter what path I go on, I can always choose something else at some later point should I wish to change. Particularly for first jobs out of college, I hear this advice especially holds; I’ve often heard that most people change workplaces within a few years of leaving college (assuming they enter the workforce). Most things in life are not binding, not lifelong decisions; they’re choices you have to optimize for in the now and then reevaluate later.  
 
   At the same time, there is a real opportunity cost to making some decisions. Consider a problem I had freshman year: deciding what to major in. Let’s say I was choosing to major in economics or physics. While the two do have some similarities (analyzing complex systems, differential equations, tough math), they definitely are not quite the same. In terms of real terms, choosing one definitely limits your ability to choose different things down the line, in terms of research experiences and summer experiences. At a practical level, me graduating from economics makes a pivot into physics later on (probably a PhD) seems incredibly difficult. There’s this feeling of wanting to keep all possible doors open as far as you can, to put off choosing until some unknown time in the future where you’ll actually know how to choose. But that day still hasn’t come, and trying to keep all doors open just simply is a case of “jack of all trades, master of none.” 
- 
+
   With regards to this problem in choices, a lot of people bring up the [sunk cost fallacy]( https://en.wikipedia.org/wiki/Sunk_cost). This is definitely an important fallacy to keep in mind — it makes no sense to continue with a path solely because you’re already on it. But there is one condition that makes a version of the sunk fallacy exist: time. In college, there are only 4 years for me to study things. The more time I spend in one major, the less time I have to take classes, read papers, do research, and enjoy my time in the other one. In an “economic” sense, as I spend more time in one option, the relative benefits of other options decrease when there are finite time horizons. The decrease in relative benefits makes staying the current course appear more attractive. Essentially, it’s hard to change courses when there’s only so much you can do in a day. 
 
 I would not say I am a person who knows how to make choices well — the fact that I keep observing these fail-points in my own decision-making processes should be testaments to the contrary. Of course, I still try to think hard and come to "correct" decisions, even when one might not exist, while trying to not overthink the problem at hand. But at the end of the day, I still find myself falling into each of these traps (if not more). 
@@ -92,7 +92,7 @@ But how do we then reconcile the fact that so many things truly are due to rando
 
 ## storytelling
 
-When I took Relativity (8.033) at MIT, the professor ended the class by giving us four pieces of advice. One of those pieces of advice was to “learn how to tell a story.” This skill would be invaluable, he said, for figuring out how to get people to listen to you.
+When I took [Relativity (8.033)](http://student.mit.edu/catalog/search.cgi?search=8.033), the professor ended the class by giving us four pieces of advice. One of those pieces of advice was to “learn how to tell a story.” This skill would be invaluable, he said, for figuring out how to get people to listen to you.
 
 A few months ago, I called the Distinguished Fellowships Office at MIT to chat with them about programs like the Fulbright, Rhodes, Marshall, and others. One of the key pieces of advice they gave was to craft some narrative to explain why it is I wanted to do things.
 
@@ -102,8 +102,8 @@ I don’t know about the rest of the world, but when I make decisions, my world 
 
 I’ve had to do my fair share of storytelling in my life — college applications, consulting, even research — all try to paint a certain picture, tell a story of how something came to be. In a sense, it feels *insincere* to try and tell stories like this. Sure, I can always look back at my actions and make arguments for how different actions and circumstances led me to the person I am today. But I certainly didn’t (and don’t) have the foresight to know exactly how the choices I made would create me. 
 
-In my acting class this semester, we read a play called “Everybody” and we each had to record a monologue from it. This play touches on many themes, from friendship to materialism to the meaning of life itself. The play begins with Death telling the main character, Everybody, that they are dying, but God wants to hear an account of their full life. After Death leaves, everybody begins contemplating their life to try and create an account.
- 
+In my [acting class (21M.600)](http://student.mit.edu/catalog/search.cgi?search=21m.600) this semester, we read [Everybody](https://en.wikipedia.org/wiki/Everybody_(play)), a play that touches on many themes, from friendship to materialism to the meaning of life itself. The play begins with Death telling the main character, Everybody, that they are dying, but God wants to hear an account of their full life. After Death leaves, Everybody begins contemplating the nature of their life. (As part of this assignment, we each had to record a monologue — I chose this one.) 
+
 > You weren’t even fully aware of yourself as a self until what? Like early childhood? And then you certainly did not have some sense of life as a thing which could have a purpose until what? Late teens? And then your sense of self wasn’t really even solidified until all of the gray matter in your brain has been used up which was what? Twenty six, twenty seven? So this assignment is sort of like a trap! This seems like entrapment! Like human life is entrapment!  
 > It’s like you are expected to have had those instincts to pay attention to yourself just buried inside yourself — like a natural thing? Like it’s supposed to be coded into your DNA? So you know what? No. You are not going to beat yourself up for not having been genetically programmed to care about your own life beyond the necessity of survival and to the point of obsessiveness — to the point of pure, paralyzing self-consciousness. Tracking your every move, day in and day out, from birth onward, attempting to rationalize everything into one whole airtight personal macrophilosophy of being? No!
 
@@ -121,11 +121,11 @@ These two forces in my life — one pulling me towards over-planning my life in 
 
 To be honest, I'd rather be on the side of doing the things I love; I just can't figure out why doing that is so hard. Shouldn't doing the things I want to do just be the default?
 
-Or maybe it's just that I just can’t decide what I want to do. And we're back full circle to choices.
+Or maybe it's just that I just can’t decide what I want to do, and I've just been spending my time in the in-between. And we're back full circle to choices.
 
 ---
 
-I don't think there really is a conclusion to all of this. I can't end this with a "solution" or even "advice" -- obviously, I haven't figured out how to deal with these in my own life. Some of these things aren't even well-defined problems, much less ones with well-defined solutions. I think I just mostly wanted to acknowledge the existence of these forces in my life, these things that constrain the things I do, things that change the paths I go down in life.
+I don't think there really is a conclusion to all of this. I can't end this with a "solution" or even "advice" — obviously, I haven't figured out how to deal with these in my own life. Some of these things aren't even well-defined problems, much less ones with well-defined solutions. I think I just mostly wanted to acknowledge the existence of these forces in my life, these things that constrain the things I do, these things that change the paths I go down in life.
 
 [^1]: His example also goes further, and includes a £21 budget item for coffee. The idea is same, but just more extreme.
 
