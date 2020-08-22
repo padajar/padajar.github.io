@@ -26,7 +26,7 @@ So I guess that's my goal. To put a human face on a resume. To be an actual pers
 
 So, hello!
 
-[^1]: Though I have tried at least 3 distinct times before. Those all didn't work out so well. As did my many applications to be an [MIT Admissions Blogger](https://mitadmissions.org/blogs/). (Update, 9/1/2020: This is no longer the case. Test [blog post]({% post_url 2020-08-30-mit-admissions-blogger %}) !)
+[^1]: Though I have tried at least 3 distinct times before. Those all didn't work out so well. As did my many applications to be an [MIT Admissions Blogger](https://mitadmissions.org/blogs/).
 
 
 
