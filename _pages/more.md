@@ -50,13 +50,13 @@ Thinking
 : [YearCompass](https://www.yearcompass.com)
 : [Although of course you end up becoming yourself](https://mitadmissions.org/blogs/entry/choosing-to-become-yourself/) and [this quote](https://www.goodreads.com/work/quotes/7144014-although-of-course-you-end-up-becoming-yourself-a-road-trip-with-david) he links to from the book 
 
-Rabbit holes I've been meaning to explpore
+Rabbit holes I've been meaning to explore
 : The website of [bill wurtz](https://billwurtz.com/), maker of [history of the entire world, i guess](https://www.youtube.com/watch?v=xuCn8ux2gbs)
 : [lesswrong.com](https://www.lesswrong.com/)
 : [Wikipedia's list of list of lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists)
 : [Infinite Jest](https://www.goodreads.com/book/show/6759.Infinite_Jest) (does this count as an internet rabbit hole? no, but it's on this list anyway.)
 : [this blog](https://zyxyvy.wordpress.com/)
-: [Better Explained](https://betterexplained.com/) (here'a a [blog post](https://padajar.com/2020/07/03/better-explained/) about it)
+: [Better Explained](https://betterexplained.com/) (here's a [blog post]({% post_url 2020-07-03-better-explained %}) about it)
 
 wholesome links
 : [hugs](http://web.mit.edu/cor/www/hugs/)
