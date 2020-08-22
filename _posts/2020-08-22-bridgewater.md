@@ -1,5 +1,5 @@
 ---
-title: "categories"
+title: "bridgewater"
 categories:
   - economics
   - work
