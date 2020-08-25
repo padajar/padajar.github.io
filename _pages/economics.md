@@ -23,12 +23,12 @@ J-PAL Southeast Asia: Transjakarta Bus Optimization
 ## work
 Bridgewater Associates
 : *Investment Engineer Intern, Summer 2020*
-: Bridgewater is a company known for its [culture of "radical transparency."](https://www.bridgewater.com/media-archive/culture/) Interning at Bridgewater gives me a chance to grow a lot as a person as I learn how to better respond to feedback. Regarding the work itself, I'm think I'll enjoy creating frameworks to understand financial markets. I also think I'll learn a lot in my first position that requires me to code in a meaningful capacity. 
+: Bridgewater is a company known for its [culture of "radical transparency."](https://www.bridgewater.com/media-archive/culture/) Interning at Bridgewater gave me a chance to grow a lot as a person as I learn how to better respond to feedback. Regarding the work itself, I think I learned a lot from my first experiences in the financial world and with being in industry and building systems for understanding the economy; you can read more of my thoughts on [this blog post]({% post_url 2020-08-22-bridgewater %}).
 
 NERA
 : *Anti-trust Intern, Winter 2020*
 : I'd worked a lot in anti-trust because of my research about concentration measures, but NERA was a chance for me to do anti-trust in a much more applied manner with more focus on quantitative methods. NERA showed me what economics "industry" feels like: faster-paced, more emphasis on office communication, and the impetus to have deliverables.
-: Perhaps the most interesting thing i figured out at NERA was how some associates (employees coming directly from undergrad) who initially planned to return to graduate school were slowly being convinced otherwise. Talking to these people helped me realize that I wanted the opposite — to return to graduate school, perhaps sooner rather than later.
+: Perhaps the most interesting thing I figured out at NERA was how some associates (employees coming directly from undergrad) who initially planned to return to graduate school were slowly being convinced otherwise. Talking to these people helped me realize that I wanted the opposite — to return to graduate school, perhaps sooner rather than later.
 
 Government Accountability Office
 : *Student Intern --- Applied Research and Methods, Summer 2019*
