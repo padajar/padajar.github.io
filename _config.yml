@@ -16,7 +16,7 @@
 title: paolo adajar
 email: paoloadajar@mit.edu
 description: >- # this means to ignore newlines until "baseurl:", description to show in Google search results
-  Undergraduate economics student at MIT interested in education, IO, market design, development, and much more.
+  Economics senior at MIT interested in education, IO, market design, development, and much more.
 twitter_username: paolo_adajar
 github_username: padajar
 minimal_mistakes_skin: default
@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "paolo adajar"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Undergraduate economics student at MIT interested in education, IO, market design, development, and much more."
+  bio    : "Economics senior at MIT interested in education, IO, market design, development, and much more."
   links:
     - label: "email"
       icon: "fas fa-fw fa-envelope"
