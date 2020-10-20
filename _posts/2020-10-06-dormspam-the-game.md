@@ -5,6 +5,7 @@ categories:
   - economics
   - miscellany
 tags:
+  - mit admissions
   - game theory
   - organizing things
 link: https://mitadmissions.org/blogs/entry/dormspam-the-game-part-3/
