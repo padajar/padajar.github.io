@@ -5,12 +5,19 @@ categories:
   - work
 tags:
   - mit admissions
-  - business
+  - busyness
   - stress
 link: https://mitadmissions.org/blogs/entry/in-search-of-a-reset-day/
+excerpt: "I spent this summer in a relatively “chill” state. My UROP that I did for the first half of the summer had only one real “deadline”, and that was towards the beginning of the project."
+---
+
+<div class="notice--warning"><b>Note:</b> this blog was originally written on the MIT Admissions Blog <a href="https://mitadmissions.org/blogs/entry/in-search-of-a-reset-day/">here</a>. Because of things like footnotes and images, it’s best you read it on that site! This page will redirect you in 10 seconds.</div> <meta http-equiv="refresh" content="10;URL=https://mitadmissions.org/blogs/entry/in-search-of-a-reset-day/">
+
 ---
 
 I spent this summer in a relatively “chill” state. My [UROP](https://mitadmissions.org/discover/the-mit-education/undergraduate-research/) that I did for the first half of the summer had only one real “deadline”, and that was towards the beginning of the project. I could work at my own speed and on my own hours, which was very useful when I was in Pacific Time and my PI was in Eastern Time. Studying for the GRE was also very self-paced; I could tell myself when was good to cram vocabulary cards and practice writing essays. My internship in the latter half of the summer also wasn’t exceptionally stressful; while of course there’s the pressure of doing things well to try to get a return offer, I could essentially focus on trying to do a single thing: the work that I was assigned.
+
+
 
 Summers also nice because I get to do things that I wouldn’t have time for otherwise. I read books! Watched YouTube! Began Avatar: The Last Airbender! Played too much [SET](https://setwithfriends.com/)!
 

@@ -9,7 +9,10 @@ tags:
   - mit admissions
   - authenticity
 link: https://mitadmissions.org/blogs/entry/decisions-decisions-2/
+excerpt: "I like to think that people are defined by two things — the values that they hold and the choices that they make. So I figured that a half-decent way of introducing myself to the world (and give a decent overview of the bajillion things I'm busy with these days) is to share some decisions I've made over the past few weeks across all *sorts* of areas in my life."
 ---
+
+<div class="notice--warning"><b>Note:</b> this blog was originally written on the MIT Admissions Blog <a href="https://mitadmissions.org/blogs/entry/decisions-decisions-2/">here</a>. Because of things like footnotes and images, it’s best you read it on that site! This page will redirect you in 10 seconds.</div> <meta http-equiv="refresh" content="10;URL=https://mitadmissions.org/blogs/entry/decisions-decisions-2/">
 
 I like to think that people are defined by two things — the values that they hold and the choices that they make. So I figured that a half-decent way of introducing myself to the world (and give a decent overview of the bajillion things I'm busy with these days) is to share some decisions I've made over the past few weeks across all *sorts* of areas in my life. In alphabetical order:
 
