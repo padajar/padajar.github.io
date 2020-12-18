@@ -5,3 +5,4 @@ title: "personness"
 - something about personal growth, goal setting
 
 (might already be talked about in the "on time" post)
+

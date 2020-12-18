@@ -69,6 +69,7 @@ Things to talk about.
   * there’s the fact that no one actually knows whats going on and misinformaiton spreads; anyone giving advice is either selling something, extrapolating from their own experience.  sure, facts get spread and this is useful. 
   * poeple always saying that they should wokr but they don’t
   * there is the insecuritues. https://www.reddit.com/r/ApplyingToCollege/comments/jedxjp/is_kidney_failure_and_transplant_a_valid_reason/
+  * **Implicitly, everyone knows that there are issues.** I don’t think that anyone genuinely believes that their peers can really super accurately tell them about chance mes, becuase no one can. but we go out and trry to seek validation anways…
 * where does this leaD?
   * fora centered around something means tha tpoeple ascribing even higher importance to it than they did previously? 
   * disappointment at seeing others get in when you don’t

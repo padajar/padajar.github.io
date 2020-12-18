@@ -7,4 +7,4 @@ connect:
 -facets, masking, code switching
 -active decision making processes in becoming a self vs the passive develpoment that occurs
 
-trashing because lots of thigns in “on choices, arbitrariness, and storytelling” covers a lot of them
+trashing because lots of thigns in “[on choices, arbitrariness, and storytelling]({% post_url 2020-07-29-choices-arbitraryness-storytelling %})” covers a lot of them
