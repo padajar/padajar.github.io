@@ -10,7 +10,7 @@ My work in economics has spanned from anti-trust to finance to policy to develop
 
 J-PAL Southeast Asia: Transjakarta Bus Optimization
 : *Work in progress with Dr. Ben Olken, Dr. Gabriel Kreindler, Dr. Rema Hanna, and Dr. Arya Gaduh.*
-: I'm starting on this project in May 2020 for a few reasons. First, it's an incredibly interesting project and important given TransJakarta's budget concerns given the coronavirus pandemic. Second, it gives me a chance to home my data skills and work in Python and Stata. Finally, it gives me a chance to work with large datasets in a way that I haven't done before, exploration that is good to help me make sure that graduate school in economics is what I want.
+: This research experience exposed me to a side of economic research that I hadn’t been exposed to before. It largely focused on analyzing data from TransJakarta’s public bus system, using it to look at the impact of coronavirus lockdown measures, and also helping the system optimize the allocation of buses to routes. This project gave me a chance to hone my data skills and work in Python and Stata and work with large datasets in a way that I haven't done before. Overall, this experience helped me solidify some of my thoughts about graduate school in economics and what I’d like to study.
 
 "[The Surprising Hybrid Pedigree of Measures of Diversity and Economic Concentration](https://www.nber.org/papers/w26512.pdf)"
 : *Adajar, P., Berndt, E., and Conti, R. NBER Working Paper Series 26512. November 2019.*
