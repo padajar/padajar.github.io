@@ -1,12 +1,73 @@
 ---
 title: "online communities"
 ---
-* EJMR
-* ask economics
+* E*MR
 * CC
-* a2c
-* cah
-* tp?
+* a*c
+* c*h
+
+
+
+
+
+The new outline:
+
+* some introductory notes:
+  * i know that i come from a weird places saying all of this, as someone who has already gone through the proess and objectively ended up at a good college.
+  * but i do come from a place of having understood what these places were like as they were growing. was involved in a*c all those years ago back when it had <5k people. (friends don’t judge pls)
+  * since becoming a blogger, i’ve poked my head into these places a few times just to see what they’re like and how i reflect on them 4 years down the line. 
+  * i will say right here at hte beginning that i do not have solutions. what i want to do is to start a discourse and get people thinking. 
+
+
+
+* Starting philosphically: what is hte goal?
+  * i have already talked plenty about my process of trying to find a goal and meaning. 
+  * j
+  * j
+
+
+
+* where does culture come from?
+  * culture, by definition, is a collective. 
+  * this is a point htat i have thought about a lot for hte purposes of clubs that i’m involved in, and that i continue to think about a lot
+  * in amorphous orgainzatoins, it is very, vrey difficult for culture to be directed by any one person. rather, culture comes as hte agglomeration of millions of individual actions. 
+
+
+
+* By nature, the existence of a forum implies that the goal is about where you go.
+  * there’s plenty of things about how 99% of america will only ever know a handful of poeple that go to top places, and suddenly you see everyone doing it and its a rat race
+  * a forum naturally dedicated to trying to get into places: “forum for undergraduate college admissions questions, advice, and discussions, from college essays and scholarships to SAT/ACT test prep, career guidance, and more” -a*c, 
+  * literal industries built around essay help, preparing it – see college admissions scandal
+  * there’s even the bajillion posts about “manifestation” and how you just think abut it
+* goodhart’s law: when a metric becomes salient it ceases to be a good metric
+  * leadership, high test scores, “authenticity and vulnerability”, become performative things, rather than a virtue in and of themselves
+* mental health
+  * you have posts about how people feel empty, worthless, etc. “The more I work on college apps, the more I realize how worthless I am”
+  * “it’s just emptiness? like not in a depressive sort of way just like a neutral sort of way. in an i-have-no-idea-what-to-do-with-my-life sort of way? like i just feel lost and writing college essays feels like the biggest chore but c’est la vie, right?”
+  * “Anything that you write within the next 5 days will determine your future for the rest of your life.”
+  * the 2 sides of A2C
+    1. College isn't that big of a deal.
+    2. ONWARDS TO VICTORY FELLOW SENIORS!
+* yes, there are memes and rants and shitposts. yes, sometimes they’re even good. (i wouldn’t know.)
+* i do not want to discount good things which happen as a part of these forums: sharing opportunities (scholarship, questbridge)  and especially to underserved communities
+  * places to find factual advice
+  * 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 on *those* college app forums
 
@@ -43,9 +104,6 @@ Things to talk about.
   * but also, occaisonaly good things get shared
 
 * Things contributing to a stress culture; something with nrom-setting? 
-
-* 
-
 
 
 
