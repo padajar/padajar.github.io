@@ -7,5 +7,5 @@ main:
     url: /education/
   - title: "more"
     url: /more/
-  - title: "resume"
-    url: /resume/
+  - title: "resume/cv"
+    url: /resume-cv/
