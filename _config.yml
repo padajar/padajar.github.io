@@ -104,6 +104,7 @@ defaults:
       related: true
       classes: wide
       show_date: true
+      words_per_minute: 275
   # _pages
   - scope:
       path: "_pages"
