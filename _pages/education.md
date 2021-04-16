@@ -7,9 +7,9 @@ Over the past 5 years, I've grown to care a lot about the field of education. I 
 
 ## leadership
 
-MIT Educational Studies Programs ([website](https://esp.mit.edu/))
+MIT Educational Studies Programs ([website](https://esp.mit.edu/)) <a name="esp"></a>
 : *Chair, Summer HSSP Director, Community Working Group Director*
-: ESP runs giant educational programs for middle and high school students with the motto "Teach Anything, Learn Anything." Some examples of classes taught at our programs can be found [down below](#esp-classes). I joined ESP because I thought it was the way to start teaching at their programs. It turns out that's not true at all, but I've stuck around ESP anyways. This club is filled with some of the most wonderful people I've met at MIT, people who care about keeping organizations running well, the state of education n the world, and just life in general. No matter how long I stay in ESP, there's always some way I feel like I'm growing or feeling like I'm contributing — serving as Chair for the club or a mentor for new directors, implementing the MIT Minors Policy, or finding ways to bring a sense of community to our programs. I love ESP a lot, and joining this club was the best decision I ever made at MIT.
+: ESP runs giant educational programs for middle and high school students with the motto "Teach Anything, Learn Anything." Some examples of classes taught at our programs can be found [down below](#esp-classes). I joined ESP because I thought it was the way to start teaching at their programs. It turns out that's not true at all, but I've stuck around ESP anyways. This club is filled with some of the most wonderful people I've met at MIT, people who care about keeping organizations running well, the state of education in the world, and just life in general. No matter how long I stay in ESP, there's always some way I feel like I'm growing or feeling like I'm contributing — serving as Chair for the club or a mentor for new directors, implementing the MIT Minors Policy, or finding ways to bring a sense of community to our programs. I love ESP a lot, and joining this club was the best decision I made at MIT.
 
 Northeast Regional Middle School Science Bowl ([website](https://www.mitsciencebowl.com/))
 : *Coordinator*
@@ -17,13 +17,16 @@ Northeast Regional Middle School Science Bowl ([website](https://www.mitscienceb
 
 ## teaching
 
-TA for 14.27 (Economics and E-Commerce)
+TA for 14.02 (Principles of Macroeconomics), 2021
+: While macroeconomics isn’t my favorite field, I think that an introductory macro course has a unique place pedagogically in the economics curriculum, since it can be a step on the path to student interest in economics (or just helping students develop macroeconomic literacy). I’ve spent a lot of time trying to design good pset and exam questions, and hopefully have done a better job this time around than last.
+
+TA for 14.27 (Economics and E-Commerce), 2019
 : This was my first chance to teach economics in a meaningful capacity. MIT Economics TAs are typically graduate students, and to my knowledge I'm one of only two undergraduate TAs for the department in recent memory. While my TAing wasn't perfect (making mistakes in office hours, imperfect recitation timing), I'd like to think I did a fairly good job in terms of helping students. The most fun I had here was getting to design recitations to introduce students to game theory, and creating problems that relate to some of the economics research that I do about competition.
 
-MIT Global Teaching Labs — Italy
+MIT Global Teaching Labs — Italy, 2019
 : As part of [MIT GTL](http://misti.mit.edu/global-teaching-labs), I traveled to Italy and designed week-long courses about relativity and statistics to 3<sup>rd</sup>-5<sup>th</sup> years in high school. GTL was a great chance to teach in an environment with high stakes, as the students I taught would need to know this content for their end-of-year exams. More in-depth thoughts about GTL can be found on a blog made by members of ESP doing GTL, [Splash on Planes](https://espgtl.home.blog/author/paoloadajar/). 
 
-Cybermath Academy/Star League Programs
+Cybermath Academy/Star League Programs, 2016–2018
 : Math camps were my first experience with serious teaching: planning lessons, making exercises, and managing classrooms with middle and elementary school students. I first taught at these camps after my junior year of high school, and they're the reason that I grew interested in education. For three straight summers I helped students prepare for Mathcounts competitions, and enjoyed (almost) every bit of it. These programs helped me find my own teaching style (trying to be engaging, enthusiastic, and explaining concepts from intuition as much as possible) that I keep today.
 
 Serious classes taught at ESP Programs <a name="esp-classes"></a>

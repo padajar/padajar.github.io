@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "paolo adajar"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Economics senior at MIT interested in education, IO, market design, development, and much more."
+  bio    : "Incoming MIT Econ PhD interested in education, market design, behavioral, development, and much more."
   links:
     - label: "email"
       icon: "fas fa-fw fa-envelope"
