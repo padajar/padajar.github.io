@@ -8,12 +8,12 @@ My work in economics has spanned from education to market design to development 
 
 ## research
 
-“Examining Student Preferences: An Analysis of the ESP Lottery Mechanism”
-: *Undergraduate Thesis. Advised by Parag Pathak. Work in progress.*
-: I [work a lot with ESP]({{ site.baseurl }}/education#esp) and their programs, and for my thesis, I’m using the economics skills I’ve learned to analyze the mechanism used to assign students to classes, a variant of the Boston system extended to many-to-many matching. I’m examining how manipulable it is, strategies that students should use, and more. I hope that I can design a “better” mechanism; we’ll see what happens with this research.
+“[Evaluating Strategic Play: Manipulations with Symmetric Information in the Boston Mechanism]({% link /assets/esp-manipulations.pdf %})"
+: *Undergraduate Thesis advised by Parag Pathak. 2021.*
+: I [work a lot with ESP]({{ site.baseurl }}/education#esp) and their programs, and for my thesis, I’m analyzing the mechanism ESP uses to assign students to classes, a variant of the Boston system extended to many-to-many matching. My initial proposal considered a lot of topics, like "better" mechanisms and the welfare gains/losses due to strategic play. While I'd love to delve into those topics, time constraints led me to focus in on whether a student with symmetric information (in the spirit of Roth + Rothblum (1999)) can benefit by misreporting their strategies. Writing a thesis was fully optional for me, but I decided to do it because of my interest in market design and to see how I enjoyed a larger research project . In the end, my feelings about finishing a thesis played a non-zero role in my choice to enroll in grad school (versus working in industry).
 
 “[A Rising Tide for All or Wave for One?: The Effect of Charter School Competition on District Achievement]({% link /assets/charters.pdf %})”
-: *Paper for 14.33. Selected to appear in the 2021 MIT Undergraduate Journal of Economics*.
+: *Written for 14.33. Selected MIT Undergraduate Journal of Economics, Vol. XX. 2021.*
 : This paper was my first independent research project, and uses variation in the effectiveness of state laws to identify the impact that charters have on overall student performance. I don’t think that this paper was *fantastic*, but I do think that it was a very worthwhile exercise to help me understand a bit more what the process of research is actually like. 
 
 J-PAL Southeast Asia: TransJakarta Bus Optimization
@@ -43,15 +43,14 @@ Government Accountability Office
 
 ## education
 
-**Davidson Academy of Nevada**
-: *HS Diploma in Mathematical Economics, 2013–2017*
-: I credit Davidson for helping me become the person that I am now, in much more than just academics. Of course, DA was a great place for me to challenge myself through classes and activities; but more importantly, the people there helped me figure out what I cared about and the kind of person I wanted to be.
+**Massachusetts Institute of Technology**
+: *PhD in Economics, 2021–*
+: Onto new adventures…
 
 **Massachusetts Institute of Technology**
 : *SB in Mathematical Economics, 2017–2021*
 : Reflections to be added soon! Hopefully sometime around when I graduate.
 
-**Massachusetts Institute of Technology**
-: *PhD in Economics, 2021–*
-: Onto new adventures…
-
+**Davidson Academy of Nevada**
+: *HS Diploma in Mathematical Economics, 2013–2017*
+: I credit Davidson for helping me become the person that I am now, in much more than just academics. Of course, DA was a great place for me to challenge myself through classes and activities; but more importantly, the people there helped me figure out what I cared about and the kind of person I wanted to be.
