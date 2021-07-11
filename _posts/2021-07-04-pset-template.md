@@ -8,7 +8,7 @@ tags:
   - psets
 
 ---
-This summer, I’m trying to do non-academic preparation for grad school. This means that I’m not trying to read papers, or study ahead in textbooks, etc. Instead, I’m doing things like cleaning up my digital life, setting up apps for reading papers, and making a nice looking problem set template!
+This summer, I’m trying to do non-academic preparation for grad school. This means that I’m not trying to read papers, or study ahead in textbooks, etc. Instead, I’m doing things like cleaning up my digital life, setting up apps for reading papers, and making a nice looking problem set template![^1]
 
 <object data="https://padajar.com/assets/pset.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://padajar.com/assets/pset.pdf">
@@ -27,7 +27,8 @@ This pset template is entirely written from scratch in LaTeX. A few notes about 
 
 On a separate note, this is my first post back on this site after a year of posting on MIT Admissions. There’s a lot of posts that I’d like to make after finishing school (and finishing undergrad!) — reflecting on being an MIT Admissions blogger, thinking about my time at MIT, sharing some pictures from the post-graduation trip I took. But because I don’t want to force myself to write things before I’m ready to write, those posts will happen when they happen.
 
-But, excited to be back and posting here! I’m not sure[^1] how often people actually read on my own site, but I’ll continue to post here anyways. 
+But, excited to be back and posting here! I’m not sure[^2] how often people actually read on my own site, but I’ll continue to post here anyways. 
 
-[^1]: well, i do know, because i have google analytics set up on this site; the answer is that it’s much, much fewer than the number of people who read mitadmissions
+[^1]: update: it’s now available on github [here](https://github.com/padajar/paolo-pset)!
+[^2]: well, i do know, because i have google analytics set up on this site; the answer is that it’s much, much fewer than the number of people who read mitadmissions
 
