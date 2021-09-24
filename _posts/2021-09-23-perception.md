@@ -14,6 +14,8 @@ excerpt: "Over the summer, I’ve centered on a fear that I have in graduate sch
 
 ---
 
+<div class="notice--warning"><b>Note:</b> this blog was originally written on the MIT Admissions Blog <a href="https://mitadmissions.org/blogs/entry/perception/">here</a>. Because of things like footnotes and images, it’s best you read it on that site! This page will redirect you in 10 seconds.</div> <meta http-equiv="refresh" content="10;URL=https://mitadmissions.org/blogs/entry/perception/">
+
 Over the summer, I’ve centered on a fear that I have in graduate school — the idea that people will judge me solely based on my research, and nothing else.
 
 It seems almost inevitable that this is going to happen. I’ll write some paper, it (hopefully) gets published in some journal, and someone I’ve never interacted with will read it, and will think: “Wow, that was a terrible paper. The writing was bad, the methods made no sense. That researcher sucks.” Or “That’s such an uninteresting thing to study. Why don’t they instead look at …”
