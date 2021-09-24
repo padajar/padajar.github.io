@@ -4,10 +4,13 @@ subtitle: "but who *are* you?"
 categories:
   - thinking
   - work
-  -self
+  - self
 tags:
   - grad school
   - personness
+  - mit admissions
+link: https://mitadmissions.org/blogs/entry/perception/
+excerpt: "Over the summer, I’ve centered on a fear that I have in graduate school — the idea that people will judge me solely based on my research, and nothing else."
 
 ---
 
