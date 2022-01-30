@@ -8,7 +8,7 @@ tags:
   - labor
   - mit admissions
 link: https://mitadmissions.org/blogs/entry/joshua-angrist-shares-the-nobel-prize/
-excerpt: "Over the summer, I’ve centered on a fear that I have in graduate school — the idea that people will judge me solely based on my research, and nothing else."
+excerpt: "Some of you may have heard the news already, but if you haven’t: on Monday, Joshua Angrist, the Ford International Professor of Economics at MIT, won the Nobel Prize in Economics (officially, the 2021 Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel)! He shares the award with two others: David Card (of UC Berkeley) and Guido Imbens (of the Stanford Graduate School of Business)."
 
 ---
 
