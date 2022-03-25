@@ -10,7 +10,7 @@ My work in economics has spanned from education to market design to development 
 
 “[Evaluating Strategic Play: Manipulations with Symmetric Information in the Boston Mechanism]({% link /assets/esp-manipulations.pdf %})"
 : *Undergraduate Thesis advised by Parag Pathak. 2021.*
-: I [work a lot with ESP]({{ site.baseurl }}/education#esp) and their programs, and for my thesis, I’m analyzing the mechanism ESP uses to assign students to classes, a variant of the Boston system extended to many-to-many matching. My initial proposal considered a lot of topics, like "better" mechanisms and the welfare gains/losses due to strategic play. While I'd love to delve into those topics, time constraints led me to focus in on whether a student with symmetric information (in the spirit of Roth + Rothblum (1999)) can benefit by misreporting their strategies. Writing a thesis was fully optional for me, but I decided to do it because of my interest in market design and to see how I enjoyed a larger research project . In the end, my feelings about finishing a thesis played a non-zero role in my choice to enroll in grad school (versus working in industry).
+: I [work a lot with ESP]({{ site.baseurl }}/education#esp) and their programs, and for my thesis, I’m analyzing the mechanism ESP uses to assign students to classes, a variant of the Boston system extended to many-to-many matching. My initial proposal considered a lot of topics, like "better" mechanisms and the welfare gains/losses due to strategic play. While I'd love to delve into those topics, time constraints led me to focus in on whether a student with symmetric information (in the spirit of Roth + Rothblum (1999)) can benefit by misreporting their strategies. Writing a thesis was fully optional for me, but I decided to do it because of my interest in market design and to see how I enjoyed a larger research project. In the end, my feelings about finishing a thesis played a non-zero role in my choice to enroll in grad school (versus working in industry).
 
 “[A Rising Tide for All or Wave for One?: The Effect of Charter School Competition on District Achievement]({% link /assets/charters.pdf %})”
 : *Written for 14.33. Selected MIT Undergraduate Journal of Economics, Vol. XX. 2021.*
@@ -22,11 +22,11 @@ J-PAL Southeast Asia: TransJakarta Bus Optimization
 
 "[The Surprising Hybrid Pedigree of Measures of Diversity and Economic Concentration](https://www.nber.org/papers/w26512.pdf)"
 : *Adajar, P., Berndt, E., and Conti, R. NBER Working Paper Series 26512. 2019.*
-: I worked with Dr. Berndt and Dr. Conti for two years to write this paper about measuring concentration in markets and applying these measures to the pharmaceutical industry. I reviewed (a lot of) literature about concentration indexes and applied them to the atorvastatin market. This project was my introduction to economics research at MIT, and helped set me on my path to grad school.
+: I worked with Dr. Berndt and Dr. Conti for two years to write this paper about measuring concentration in markets and applying these measures to the pharmaceutical industry. This project was my introduction to economics research at MIT, and helped set me on my path to grad school.
 
 "[Values: How do they Contribute to Economic Success?](http://www.na-businesspress.com/JOP/JOP18-1/PingleM_18_1.pdf)"
 : *Pingle, M. and Adajar, P. Journal of Organizational Psychology, Vol. 18(1). 2018.*
-: While in high school, I worked with Dr. Pingle on a variety of research projects. With this paper, I reviewed literature from economics, anthropology, and sociology to write sections discussing values, culture, and family operations. This was my first experience doing "real" economics, and it played a large factor in choosing to pursue it in college.
+: While in high school, I worked with Dr. Pingle on a variety of research projects. This was my first experience doing "real" economics (though mostly doing a lit review), and helped introduce me to economics as a potential career choice.
 
 ## work
 Bridgewater Associates
@@ -43,14 +43,17 @@ Government Accountability Office
 
 ## education
 
-**Massachusetts Institute of Technology**
+Massachusetts Institute of Technology
 : *PhD in Economics, 2021–*
-: Onto new adventures…
+: As a first-year, I’m still mostly in the take-many-classes and have-vague-ideas-for-research phase of graduate school. While there’s times with more work, and times with less, I am enjoying it so far c:
 
-**Massachusetts Institute of Technology**
+Massachusetts Institute of Technology
 : *SB in Mathematical Economics, 2017–2021*
-: Reflections to be added soon! Hopefully sometime around when I graduate.
+: MIT was a wonderful place to do my undergrad, filled with people who were all excited about something. Three reflections:
+: 1. At MIT, you learn, sometimes in [unexpected ways](https://mitadmissions.org/blogs/entry/what-i-learned-from-classes/). But you will learn lots in classes, you will learn how to manage stress, you will learn how to learn.
+2. I spent a lot of time in structured non-academic pursuits: deliberate time around others, ESP, science bowl, and much [more](http://localhost:4000/more/). I did this because I realized how *necessary* it is for me to have non-academic things filling my life; I am not a person that can just do work forever.
+3. One of the most difficult parts of MIT is that it sometimes feels bad to do things just for your own sake. Not in the sense that MIT is competitive (it is not), but when you are surrounded by so many smart and high-achieving people who have done amazing things, it can feel like you need to be “productive” all the time. I am still learning how to let go of this feeling.SP
 
-**Davidson Academy of Nevada**
+Davidson Academy of Nevada
 : *HS Diploma in Mathematical Economics, 2013–2017*
-: I credit Davidson for helping me become the person that I am now, in much more than just academics. Of course, DA was a great place for me to challenge myself through classes and activities; but more importantly, the people there helped me figure out what I cared about and the kind of person I wanted to be.
+: I was very lucky to go to Davidson. While I’m still piecing my thoughts together on gifted education as a concept, I will always be grateful to have had access to so many resources at DA (classes, teachers, activities…) and how the friends I had made me a person. 
