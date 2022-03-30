@@ -12,7 +12,7 @@ A Cappella
 : I’m part of the [MIT Centrifugues](https://groups.mit.edu/webmoira/list/centrifugues), a group that sings predominantly mashups and medleys. I sing baritone, have been learning how to arrange songs and beatbox, and am currently one of the co-Music Directors c: (I’m one of the soloists [here](https://www.youtube.com/watch?v=8WHWGPwsWaU), starting at ~2:26!) Haven’t done organized music since middle school, so it’s been fun getting back into it.
 
 Bouldering
-: I picked up bouldering right before graduate school started. I climb at [Boston Bouldering Project](https://www.bostonboulderingproject.com/), and am roughly at a V2-V3 level. I climb much less regularly than I’d like to given the business of graduate school, but enjoy it every time I go.
+: I picked up bouldering right before graduate school started. I climb at [Boston Bouldering Project](https://www.bostonboulderingproject.com/), and am roughly at a V2-V3 level. I climb much less regularly than I’d like to given how busy graduate school is, but enjoy it every time I go.
 
 Musicals
 : I love musicals! Favorite ones I’ve seen in-person are Hadestown, Waitress, and Les Mis (and I know the soundtracks to dozens more).
