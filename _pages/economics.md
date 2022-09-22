@@ -45,7 +45,7 @@ Government Accountability Office
 
 Massachusetts Institute of Technology
 : *PhD in Economics, 2021–*
-: As a first-year, I’m still mostly in the take-many-classes and have-vague-ideas-for-research phase of graduate school. While there’s times with more work, and times with less, I am enjoying it so far c:
+: As a second-year, I’m still mostly in the take-many-classes and have-vague-ideas-for-research phase of graduate school. While the amount and interesting-ness of my work ebbs and flows, I do think that I’m enjoying it so far c:
 
 Massachusetts Institute of Technology
 : *SB in Mathematical Economics, 2017–2021*
@@ -56,4 +56,4 @@ Massachusetts Institute of Technology
 
 Davidson Academy of Nevada
 : *HS Diploma in Mathematical Economics, 2013–2017*
-: I was very lucky to go to Davidson. While I’m still piecing my thoughts together on gifted education as a concept, I will always be grateful to have had access to so many resources at DA (classes, teachers, activities…) and how the friends I had made me a person. 
+: I was very lucky to go to Davidson. While I’m still piecing my thoughts on the idea of gifted education together, I will always be grateful to have had access to so many resources at DA (classes, teachers, activities…) and how the friends I had made me a person. 

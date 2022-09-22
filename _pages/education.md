@@ -3,7 +3,7 @@ permalink: /education/
 title: "education"
 ---
 
-Over the past 5 years, I've grown to care a lot about the field of education. I started off by teaching competition math to elementary and middle school students, and I keep teaching in various ways to this day. Since then, I've become much more interested in expanding educational opportunities and educational policy.
+Over the past 7 years, I've grown to care a lot about the field of education. I started off by teaching competition math to elementary and middle school students, and I keep teaching in various ways to this day. Since then, I've become much more interested in expanding educational opportunities and educational policy.
 
 ## leadership
 
