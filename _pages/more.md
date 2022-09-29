@@ -38,25 +38,22 @@ good things on the internet
 Entertainment
 : [xkcd](https://xkcd.com/)
 : [Saturday Morning Breakfast Cereal](https://www.smbc-comics.com/) 
-: [Semantle](https://semantle.novalis.org/) (and more recently, [Semantris](https://research.google.com/semantris/))
-: Crosswords on [Down for a Cross](https://downforacross.com/)
+: [Semantle](https://semantle.novalis.org/)
+: Crosswords (finally bought a NYT subscription, but check out [Down for a Cross](https://downforacross.com/))
 : [Jelle's Marble Runs](https://www.youtube.com/channel/UCYJdpnjuSWVOLgGT9fIzL0g) (go O'rangers)
 
 Thinking
 : [Wait But Why](https://waitbutwhy.com/)
 : [YearCompass](https://www.yearcompass.com)
-: [Although of course you end up becoming yourself](https://mitadmissions.org/blogs/entry/choosing-to-become-yourself/), a blog post by Petey, and [this quote](https://www.goodreads.com/work/quotes/7144014-although-of-course-you-end-up-becoming-yourself-a-road-trip-with-david) from the of the same title by DFW  
+: [Although of course you end up becoming yourself](https://mitadmissions.org/blogs/entry/choosing-to-become-yourself/), a blog post by Petey
 
 Rabbit holes I've been meaning to explore
 : The website of [bill wurtz](https://billwurtz.com/), maker of [history of the entire world, i guess](https://www.youtube.com/watch?v=xuCn8ux2gbs)
 : [Wikipedia's list of list of lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists)
-: [Infinite Jest](https://www.goodreads.com/book/show/6759.Infinite_Jest) (does this count as an internet rabbit hole? no, but it's on this list anyway.)
 : [this blog](https://zyxyvy.wordpress.com/)
 : [Better Explained](https://betterexplained.com/) (here's a [blog post]({% post_url 2020-07-03-better-explained %}) about it)
 : [Google Patents](https://patents.google.com/) (try searching random nouns, like [football](https://patents.google.com/patent/US7156762B1/en?q=football&oq=football+) or [pasta](https://patents.google.com/patent/US5030462A/en?q=pasta&oq=pasta), and read the actual patent for entertaining content)
-: [80,000 hours](https://80000hours.org/) and [lesswrong.com](https://www.lesswrong.com/)
 
 wholesome links
 : [hugs](http://web.mit.edu/cor/www/hugs/)
 : [my favorite train video](https://www.youtube.com/watch?v=cD3QlR98--A)
-
