@@ -15,7 +15,7 @@ Bouldering
 : I picked up bouldering right before graduate school started. I climb at [Boston Bouldering Project](https://www.bostonboulderingproject.com/), and am roughly at a V3 level. I climb much less regularly than I’d like to given how busy graduate school is, but enjoy it every time I go.
 
 Musicals
-: I love musicals! Favorite ones I’ve seen in-person are Hadestown, Waitress, and Les Mis (and I know the soundtracks to dozens more).
+: I love musicals! Favorite ones I’ve seen in-person are Hadestown, Waitress, and Les Mis.
 
 Puzzle Hunts
 : I participate in [Mystery Hunt](https://www.wikiwand.com/en/MIT_Mystery_Hunt) (and many smaller hunts) with NES, a team composed of many former and current residents of Next House (where I lived in undergrad). I do hunts because they’re fun events to think hard about incredibly unproductive things and also I get to hang out with fun people.
