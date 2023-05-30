@@ -3,7 +3,7 @@ permalink: /education/
 title: "education"
 ---
 
-Over the past 7 years, I've grown to care a lot about the field of education. I started off by teaching competition math to elementary and middle school students, and I keep teaching in various ways to this day. Since then, I've become much more interested in expanding educational opportunities and educational policy.
+Over the past decade, I've grown to care a lot about the field of education. I started off by teaching competition math to elementary and middle school students, and I keep teaching in various ways to this day. Since then, I've become much more interested in expanding educational opportunities and educational policy.
 
 ## leadership
 
@@ -17,7 +17,7 @@ Northeast Regional Middle School Science Bowl, 2017-2022 ([website](https://www.
 
 Graduate RA in Burton-Conner
 : *Burton 1, 2022–*
-: While not “education” in the traditional classroom sense, as a GRA, I run events to help students de-stress, help students navigate the maze that is MIT, and provide support in times of need. Being a GRA lets me put some part of my brainpower just towards *caring* for others and figuring out the right ways to be a person for my students — a headspace that, to me, feels just like teaching. 
+: While not “education” in the traditional classroom sense, as a GRA, I run events to help students de-stress, help students navigate the maze that is MIT, and provide support in times of need. Being a GRA lets me put some part of my brainpower just towards *caring* for others and figuring out the right ways to be a person for my students — a headspace that, to me, feels just like teaching.
 
 ## teaching
 
@@ -29,7 +29,7 @@ TA for 14.27 (Economics and E-Commerce), 2019
 
 Other past teaching
 : * MIT Global Teaching Labs — Italy, 2019. I taught several week-long courses on relativity and statistics to high schoolers in Rozzano! Read more reflections [here](https://espgtl.home.blog/author/paoloadajar/).
-: * Cybermath Academy/Star League Programs — Boston, 2016–2018. I started teaching at these camps in high school; they were my first experience with planning lessons, delivering lectures, and managing classrooms. Importantly, they helped me find my own teaching style (engaging + enthusiastic, empathetic, and using intuition) that I keep today and set me down the path of educatoin. 
+: * Cybermath Academy/Star League Programs — Boston, 2016–2018. I started teaching at these camps in high school; they were my first experience with planning lessons, delivering lectures, and managing classrooms. Importantly, they helped me find my own teaching style (engaging + enthusiastic, empathetic, and using intuition) that I keep today and set me down the path of educatoin.
 
 Serious classes taught at ESP Programs <a name="esp-classes"></a>
 : Quick Mafs
@@ -41,7 +41,7 @@ Serious classes taught at ESP Programs <a name="esp-classes"></a>
 : Learning about Teaching
 
 Not-so-serious classes taught at ESP Programs
-: Appreciation for any juice that is not Ruby Red 
+: Appreciation for any juice that is not Ruby Red
 : Science Bowl
 : All 2 Letter Scrabble Words in 5 Minutes
 : The Music of Neil Cicierega

@@ -9,28 +9,25 @@ interests
 ---------
 
 A Cappella
-: I’m part of the [MIT Centrifugues](http://centrifugues.mit.edu), a group that sings predominantly mashups and medleys. I sing baritone, have been learning how to arrange songs and beatbox, and am currently one of the co-Music Directors c: (I’m one of the soloists [here](https://www.youtube.com/watch?v=8WHWGPwsWaU), starting at ~2:26!) Haven’t done organized music since middle school, so it’s been fun getting back into it.
-
-Bouldering
-: I picked up bouldering right before graduate school started. I climb at [Boston Bouldering Project](https://www.bostonboulderingproject.com/), and am roughly at a V3 level. I climb much less regularly than I’d like to given how busy graduate school is, but enjoy it every time I go.
+: For the first two years of grad school, I was part of the [MIT Centrifugues](http://centrifugues.mit.edu), a group that sings predominantly mashups and medleys. I sang baritone, learned how to arrange songs and beatbox, and was a Music Directors for a bit c: I hadn't been a part of organized music since middle school, and have greatly enjoyed getting reacquainted with my musical side. My favorite arrangement was my "Senior" Solo, a mash-up of Vienna and Landslide --- link coming soon!
 
 Musicals
-: I love musicals! Favorite ones I’ve seen in-person are Hadestown, Waitress, and Les Mis.
+: I love musicals! Favorite ones I’ve seen in-person are Hadestown, Waitress, and Les Mis. I've also recently tried out acting, participating in the Next Act 2023 show, *Remembering Her*! I played Kevin, a wholesome, slightly empty-headed, Prius-driving highschooler who forgets his girlfriend (but eventually remembers!). Shyeah! (Perhaps more acting to come...)
+
+Bouldering
+: I picked up bouldering right before starting grad school. I'm currently considering defecting from [Boston Bouldering Project](https://www.bostonboulderingproject.com/) to [Central Rock Gym](https://centralrockgym.com/cambridge/), and climb roughly at a V3 level. I go much less regularly than I’d like to given how busy graduate school is, but enjoy it every time I go.
 
 Puzzle Hunts
-: I participate in [Mystery Hunt](https://www.wikiwand.com/en/MIT_Mystery_Hunt) (and many smaller hunts) with NES, a team composed of many former and current residents of Next House (where I lived in undergrad). I do hunts because they’re fun events to think hard about incredibly unproductive things and also I get to hang out with fun people.
+: I participate in [Mystery Hunt](https://www.wikiwand.com/en/MIT_Mystery_Hunt) (and many smaller hunts) with NES, a team composed of many former and current residents of Next House (my undergraduate dorm). I do hunts because they’re fun events to think hard about incredibly unproductive things were there is an answer to find, and also just to reconnect with friends.
 
 Crosswords
-: Relatedly, in 2022, I finally subscribed to NYT Games and began doing the crossword daily. At this point, I can solve them without needing any hints, but still working on bringing down my averages to near-competition level :P
+: In 2022, I finally subscribed to NYT Games and began doing the crossword daily. At this point, I can solve them without needing any hints, but still working on bringing down my averages to competition level :P
+
+Biking
+: Over the past few years, I've gotten into taking long bike rides! Hoping to start getting into bikepacking over the next summer or two as well.
 
 Deep Discussions
 : I love talking to people to learn more about who they are and how they see the world. One semester, I ran a small discussion series to bring strangers together to talk about big questions like “How do you define yourself?” and “What brings meaning to your life?”
-
-Memory
-: I enjoy trying to remember all the random facts that people tell me. For one Splash class, I learned how to memorize a deck of cards; maybe I should work on re-learning this skill.
-
-Scrabble
-: Word games are fun, and Scrabble is my favorite. I’ve taught Splash classes about strategy and two-letter words. One long-term goal of mine is to join competitive Scrabble tournaments.
 
 Jeopardy
 : I’ve always wanted to make it onto to show. Now that I’m past college-age (and thus only eligible for regular Jeopardy), I’m slowly working on shoring my literature and pop culture knowledge. Fingers crossed.
@@ -40,9 +37,10 @@ good things on the internet
 
 Entertainment
 : [xkcd](https://xkcd.com/)
-: [Saturday Morning Breakfast Cereal](https://www.smbc-comics.com/) 
+: [Saturday Morning Breakfast Cereal](https://www.smbc-comics.com/)
 : [Semantle](https://semantle.novalis.org/)
-: Crosswords (check out [Down for a Cross](https://downforacross.com/))
+: [Down for a Cross](https://downforacross.com/)
+: [Critical Role](https://critrole.com/)
 : [Jelle's Marble Runs](https://www.youtube.com/channel/UCYJdpnjuSWVOLgGT9fIzL0g) (go O'rangers)
 
 Thinking
