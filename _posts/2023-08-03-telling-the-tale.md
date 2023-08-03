@@ -1,6 +1,6 @@
 ---
-title: "ten"
-subtitle: "reflections on mit"
+title: "telling the tale"
+subtitle: "some thoughts on acting, change, and meaning"
 categories:
   - thinking
   - self
