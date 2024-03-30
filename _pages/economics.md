@@ -4,20 +4,28 @@ title: "economics"
 # classes: wide wide2
 ---
 
-My work in economics has spanned from education to market design to development to healthcare, not to mention my passing interests in a half-dozen other fields. Still working on narrowing it down!
+I’m generally interested in the economics of education. While this makes me at my core a labor economist, I filter in and out of a lot of other fields (development, market design, IO, metrics, behavioral, theory) so that I can use their tools to answer the questions I’m working on!  
 
 ## research
 
-works in progress
+works in progress (with drafts)
 : **School-House Shocks: The Effect of Neighborhood-based School Assignment Policies on Intracity Migration**
 : My second-year paper! I'd love to improve on these estimates using individual-level housing data, though this seems difficult to acquire.
 : *Abstract:* Affirmative action policies based on geographic characteristics are potentially manipulable by families who move in response to the policy, undermining policy goals and hurting families who the policy is intended to help. I test whether these channel have significant impacts in Chicago, where admissions to selective high schools depend on the demographics of a students’ neighborhood. Using data from Chicago Public Schools and the Cook County Assessor’s office, I find no effects of marginal tier assignment on short-term migration of families or long-term housing prices.
-:  
-: **Topics I'm generally thinking about**
+
+works in progress (as in, actually in progress)
+: **Chicago’s school system**
+: How well does it improve access? Are there alternative designs that could also work? These questions are a lot more pertinent given last year’s affirmative action ruling by the Supreme Court, and even more relevant given CPS’s recent interest in [neighborhood schools](https://www.cpsboe.org/content/documents/23-1214-rs3.pdf). As a [Blueprint Labs](https://blueprintlabs.mit.edu/) research associate, I’m also leading some work on Chicago’s charter schools — lots in progress!
+:
+: **Helping high-potential but underserved students**
+: In some joint work with Esther Duflo, Glenn Ellison, and Sara Ellison, we’re currently running a pilot in Tamil Nadu giving access to high-quality math curricula to talented students who otherwise have few resources to help them reach their full potential. Currently implementing and seeing how it goes! We’ve received funding from the Agency Fund and J-PAL’s Science for Progress Initiative for this project.
+: 
+: **Other topics floating in my brain…**
+: Iterations on [MDRD1](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA13925) and [MDRD2](https://onlinelibrary.wiley.com/doi/full/10.3982/ECTA17125)
 : How to assign teachers to students
 : The role of gifted education in the system as a whole
 : Where does motivation come from?
-
+: Early Decision / Early Action as a form of market power
 
 undergraduate work
 : **Evaluating Strategic Play: Manipulations with Symmetric Information in the Boston Mechanism** ([link]({% link /assets/esp-manipulations.pdf %})) <a name="thesis"></a>
@@ -29,7 +37,7 @@ undergraduate work
 : This paper was my first independent research project, and uses variation in the effectiveness of state laws to identify the impact that charters have on overall student performance. I don’t think that this paper was *fantastic*, but I do think that it was a very worthwhile exercise to help me understand a bit more what the process of research is actually like.
 
 other past work
-: **Optimal Public Transportation Networks: Evidence from the World’s Largest Bus Rapid Transit System in Jakarta.** *RA for Ben Olken, Gabriel Kreindler, Rema Hanna, and Arya Gaduh*. A summer RA project where I developed a pipeline to process 60 million riders’ data.
+: **Optimal Public Transportation Networks: Evidence from the World’s Largest Bus Rapid Transit System in Jakarta.** *RA for Ben Olken, Gabriel Kreindler, Rema Hanna, and Arya Gaduh*. A summer RA project where I developed a pipeline to process 60 million riders’ data. My worked helped contribute to research on [lockdown mobility](https://histecon.fas.harvard.edu/climate-loss/indonesia/index.html) and the [optimal network design](https://www.nber.org/papers/w31369)!
 : **The Surprising Hybrid Pedigree of Measures of Diversity and Economic Concentration.** ([link](https://www.nber.org/papers/w26512.pdf)) *NBER WP #26512, with Ernst Berndt, Rena Conti*. A paper understanding the theory behind measuring market concentration, and applying said measures to the pharmaceutical industry. Adajar, P., Berndt, E., and Conti, R. NBER Working Paper Series 26512. 2019.
 : **Values: How do they Contribute to Economic Success?** ([link](http://www.na-businesspress.com/JOP/JOP18-1/PingleM_18_1.pdf)) *Journal of Organizational Psychology,  Vol. 18(1), with Mark Pingle*. My first ever RA project (primarily helping with a literature review), and my introduction to economics and research as a career.
 
@@ -51,7 +59,7 @@ Government Accountability Office
 
 Massachusetts Institute of Technology
 : *PhD in Economics, 2021–*
-: Now entering my third year, I’m still mostly in the take-many-classes and have-vague-ideas-for-research phase of graduate school. While the amount and interesting-ness of my work ebbs and flows, I do think that I’m enjoying it so far c: Currently working on research ideation!
+: Now in third year, I’m slowly starting to figure out my research agenda and make progress on various projects. While the amount and interesting-ness of my work ebbs and flows, I do think that I’m enjoying it so far c: Currently working on research ideation!
 
 Massachusetts Institute of Technology
 : *SB in Mathematical Economics, 2017–2021*
