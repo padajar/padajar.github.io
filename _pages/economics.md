@@ -18,7 +18,7 @@ works in progress (as in, actually in progress)
 : How well does it improve access? Are there alternative designs that could also work? These questions are a lot more pertinent given last year’s affirmative action ruling by the Supreme Court, and even more relevant given CPS’s recent interest in [neighborhood schools](https://www.cpsboe.org/content/documents/23-1214-rs3.pdf). As a [Blueprint Labs](https://blueprintlabs.mit.edu/) research associate, I’m also leading some work on Chicago’s charter schools — lots in progress!
 :
 : **Helping high-potential but underserved students**
-: In some joint work with Esther Duflo, Glenn Ellison, and Sara Ellison, we’re currently running a pilot in Tamil Nadu giving access to high-quality math curricula to talented students who otherwise have few resources to help them reach their full potential. Currently implementing and seeing how it goes! We’ve received funding from the Agency Fund and J-PAL’s Science for Progress Initiative for this project.
+: In some joint work with Esther Duflo, Glenn Ellison, and Sara Ellison, we’re currently running a pilot in Tamil Nadu giving access to high-quality math curricula to talented students who otherwise have few resources to help them reach their full potential. Currently implementing and seeing how it goes! We’ve received funding from the Agency Fund and J-[PAL’s Science for Progress](https://www.povertyactionlab.org/initiative-project/identifying-and-nurturing-math-talent-scale-experiment-art-problem-solving-self) Initiative for this project.
 : 
 : **Other topics floating in my brain…**
 : Iterations on [MDRD1](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA13925) and [MDRD2](https://onlinelibrary.wiley.com/doi/full/10.3982/ECTA17125)
@@ -59,12 +59,13 @@ Government Accountability Office
 
 Massachusetts Institute of Technology
 : *PhD in Economics, 2021–*
-: Now in third year, I’m slowly starting to figure out my research agenda and make progress on various projects. While the amount and interesting-ness of my work ebbs and flows, I do think that I’m enjoying it so far c: Currently working on research ideation!
+: As third year ends, I think I’ve finally started to hit my stride in terms of having ideas I think are interesting that I want to work on. Excited to have a year off of teaching (despite how much I like teaching) to see what can come of it all. We’ll see if I can figure out this whole “research prioritizing” thing and continuing to come up with ideas. 
 
 Massachusetts Institute of Technology
 : *SB in Mathematical Economics, 2017–2021*
 : MIT was a wonderful place to do my undergrad, filled with people who were all excited about something. [Here's](https://mitadmissions.org/blogs/entry/ten/) a post with many, many reflections on this institution. Three quick reflections for those who don't want to read the whole thing (and reflections I probably would have figured out anywhere else):
 : 1. At MIT, you learn, mostly in [unexpected ways](https://mitadmissions.org/blogs/entry/what-i-learned-from-classes/). You’ll learn a lot in classes, yes, but also how to learn, how to handle stress, and how much you want to challenge yourself.
+
 2. I spent a lot of time in structured non-academic pursuits: deliberate time around others, ESP, science bowl, and much [more]({{ site.baseurl }}/more/). During college, I found how *necessary* it is for me to have non-academic things filling my life; I am not a person that can just do work forever.
 3. One of the most difficult parts of MIT is that it sometimes feels bad to do things just for your own sake. Not in the sense that MIT is competitive (it is not), but when you are surrounded by so many smart and high-achieving people who have done amazing things, it can feel like you need to be “productive” all the time. I am still learning how to let go of this feeling.
 

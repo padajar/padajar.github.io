@@ -9,7 +9,7 @@ interests
 ---------
 
 Musicals
-: I love musicals! Favorite ones I’ve seen in-person are Hadestown, Waitress, and Les Mis. I’ve recently gotten into *acting* in musicals. My first show Next Act 2023 show, *Remembering Her*, where played Kevin, a wholesome, slightly empty-headed, Prius-driving highschooler who forgets his girlfriend, but eventually remembers (Shyeah!). Most recently, I played Michael in a production of *tick, tick... BOOM!*, which was an absolute joy. Currently on an acting hiatus, but we’ll see what thing I try next…
+: I love musicals! Favorite ones I’ve seen in-person are Hadestown, Waitress, and Les Mis. I’ve recently gotten into *acting* in musicals. My first show Next Act 2023 show, *Remembering Her*, where played Kevin, a wholesome, slightly empty-headed, Prius-driving highschooler who forgets his girlfriend, but eventually remembers (shyeah!). Most recently, I played Michael in a production of *tick, tick... BOOM!* with KAST, which was an absolute joy. Currently on an acting hiatus, but we’ll see what thing I try next…
 
 Imrpov
 : … like improv! Started taking a few classes through a grad club here at MIT, and it’s been super fun to think on my feet and just *say* different things. I’d love to one day be able to do things like [Jess and Zach from Off Book](https://www.thezachandthejess.com/podcast-off-book.html), but I suspect that improv musicals are a loooong way away.
@@ -38,26 +38,28 @@ Jeopardy
 good things on the internet
 ---------------------------
 
-Entertainment
+entertainment
 : [xkcd](https://xkcd.com/)
-: [Saturday Morning Breakfast Cereal](https://www.smbc-comics.com/)
-: [Semantle](https://semantle.novalis.org/)
+: [Taskmaster](https://www.youtube.com/c/Taskmaster), just all of it
 : [Down for a Cross](https://downforacross.com/)
 : [Critical Role](https://critrole.com/)
-: [Jelle's Marble Runs](https://www.youtube.com/channel/UCYJdpnjuSWVOLgGT9fIzL0g) (go O'rangers)
 
-Thinking
+thinking
 : [Wait But Why](https://waitbutwhy.com/)
 : [YearCompass](https://www.yearcompass.com)
 : [Although of course you end up becoming yourself](https://mitadmissions.org/blogs/entry/choosing-to-become-yourself/), a blog post by Petey
 
-Rabbit holes I've been meaning to explore
+rabbit holes I've been meaning to explore
 : The website of [bill wurtz](https://billwurtz.com/), maker of [history of the entire world, i guess](https://www.youtube.com/watch?v=xuCn8ux2gbs)
 : [Wikipedia's list of list of lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists)
 : [this blog](https://zyxyvy.wordpress.com/)
-: [Better Explained](https://betterexplained.com/) (here's a [blog post]({% post_url 2020-07-03-better-explained %}) about it)
 : [Google Patents](https://patents.google.com/) (try searching random nouns, like [football](https://patents.google.com/patent/US7156762B1/en?q=football&oq=football+) or [pasta](https://patents.google.com/patent/US5030462A/en?q=pasta&oq=pasta), and read the actual patent for entertaining content)
-
 wholesome links
 : [hugs](http://web.mit.edu/cor/www/hugs/)
 : [my favorite train video](https://www.youtube.com/watch?v=cD3QlR98--A)
+: [new england cider donut map](https://www.google.com/maps/d/u/0/viewer?mid=15NfV5Q3Bv6FzSr-KOfTsuWp3jnyT4zvX&ll=42.38079741969259%2C-71.04175234971991&z=10)
+
+random things i find useful
+: [goblin.tools](https://goblin.tools/), the most useful application of LLMs i’ve seen
+: [the way i practice recognizing chords by ear](https://www.musictheory.net/exercises/ear-chord)
+: [data is plural](https://www.data-is-plural.com/) for random fun data things
