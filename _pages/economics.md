@@ -1,7 +1,6 @@
 ---
 permalink: /economics/
 title: "economics"
-# classes: wide wide2
 ---
 
 My work is all centered around the economics of education. While this makes me at my core a labor economist, I filter in and out of a lot of other fields (development, market design, IO, metrics, behavioral, theory) so that I can use their tools to answer the questions I’m working on!  
@@ -20,7 +19,7 @@ works in progress (as in, actually in progress)
 : **Chicago’s school assignment system**
 : How well does it improve access? Are there alternative designs that could also work? These questions are a lot more pertinent given last year’s affirmative action ruling by the Supreme Court, and even more relevant given CPS’s recent interest in [neighborhood schools](https://www.cpsboe.org/content/documents/23-1214-rs3.pdf). As a [Blueprint Labs](https://blueprintlabs.mit.edu/) research associate, I’m also leading some work on Chicago’s charter schools — lots in progress!
 
-works in ~~pro~~gress (just thinking about ‘em for now)
+works in “progress” (just thinking about ‘em for now)
 : iterations on [MDRD1](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA13925) and [MDRD2](https://onlinelibrary.wiley.com/doi/full/10.3982/ECTA17125)
 : how to assign teachers to students
 : the role of gifted education in the system as a whole
