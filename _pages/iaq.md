@@ -8,6 +8,10 @@ title: infrequently asked questions
 **iaq** *noun*, pl. **iaqs** **:** **1.** initialism for “infrequently asked questions”, a riff on *frequently asked questions*; **2:** a way for people to ask me very inane things by submitting them [here](https://docs.google.com/forms/d/e/1FAIpQLSfx3GqkDudgWlpfbI7Pa0IrRgqp4pz1BKPDypk_HMdmEJdrDQ/viewform)[^1]; **3:** an experimental section on my website!
 {: .notice--info}
 
+what is your favorite shade of my favorite color (from form: “orange”)
+: very partial to <font color="#f47c44">#f47c44</font> (which is why it’s used on my website)
+: *2024-10-25*
+
 Who are you really?
 : well, what *defines* a person? is it the things that they do? the values they hold? the identities they take? the ways that they are perceived?  the ways they want to be perceived? is the self defined by the way one wants to define oneself or the ways in which others define them? and what happens when all of these are context dependent? sure, one may [contains multitudes](https://poets.org/poem/song-myself-51), but when you look at them from afar, what type of person do they add up to to? perhaps this is an impossible question to answer, and there is no such thing as a self.   
 : just kidding. i’m a large language model trained on all of paolo’s blogs and messages. there’s no way a human could write all this nonsense.
