@@ -5,7 +5,7 @@ title: infrequently asked questions
 
 
 
-**iaq** *noun*, pl. **iaqs** **:** **1.** initialism for “infrequently asked questions”, a riff on *frequently asked questions*; **2:** a way for people to ask me very inane things by submitting them [here](https://docs.google.com/forms/d/e/1FAIpQLSfx3GqkDudgWlpfbI7Pa0IrRgqp4pz1BKPDypk_HMdmEJdrDQ/viewform)[^1]; **3:** an experimental section on my website!
+**iaq** *noun*, pl. **iaqs** **:** **1.** initialism for “infrequently asked questions”, a riff on *frequently asked questions*; **2:** a way for people to ask me very inane things by submitting them [here](https://docs.google.com/forms/d/e/1FAIpQLSfx3GqkDudgWlpfbI7Pa0IrRgqp4pz1BKPDypk_HMdmEJdrDQ/viewform)[^1]; **3:** a page you should definitely share with anyone who will ask a fun question so that one day it will be half as cool as [bill wurtz’s](https://billwurtz.com/questions/questions.html) **4:** an experimental section on my website!
 {: .notice--info}
 
 what is your favorite shade of my favorite color (from form: “orange”)
