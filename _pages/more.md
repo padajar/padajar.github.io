@@ -11,20 +11,23 @@ interests
 Musicals
 : I love musicals! Favorite ones I’ve seen in-person are Hadestown, Waitress, and Les Mis. I’ve recently gotten into *acting* in musicals. My first show Next Act 2023 show, *Remembering Her*, where played Kevin, a wholesome, slightly empty-headed, Prius-driving highschooler who forgets his girlfriend, but eventually remembers (shyeah!). Most recently, I played Michael in a production of *tick, tick... BOOM!* with KAST, which was an absolute joy. Currently on an acting hiatus, but we’ll see what thing I try next…
 
-Imrpov
-: … like improv! Started taking a few classes through a grad club here at MIT, and it’s been super fun to think on my feet and just *say* different things. I’d love to one day be able to do things like [Jess and Zach from Off Book](https://www.thezachandthejess.com/podcast-off-book.html), but I suspect that improv musicals are a loooong way away.
-
 Puzzle Hunts
 : I participate in [Mystery Hunt](https://www.wikiwand.com/en/MIT_Mystery_Hunt) (and many smaller hunts) with NES, a team composed of many former and current residents of Next House (my undergraduate dorm). I do hunts because they’re fun events to think hard about incredibly unproductive things were there is an answer to find, and also just to reconnect with friends.
 
+Dungeons and Dragons
+: Most things I do are incredibly on-brand, but somehow I’ve managed to avoid becoming a DnD player until now. Currently in two campaigns playing Wella, a druid who talks to dinosaurs and is bad at people and definitely doesn’t have an Australian accent like Steve Irwin, and Myrna, a sorcerer trying to figure out her powers. (For the friends in my capaigns — did you really think that I’d reveal my character secrets on the Internet? Please.) Also watch a good amount of Critical Role + Dimension 20!
+
 Crosswords
-: In 2022, I finally subscribed to NYT Games and began doing the crossword daily and have since solved far too many crosswords for my own good. Slowly working on bringing down my averages to competition level, and maybe one April I’ll take the train down to [ACPT](https://www.crosswordtournament.com/).
+: In 2022, I finally subscribed to NYT Games and began doing the crossword daily; have since solved far too many crosswords for my own good. Slowly working on bringing down my averages to competition level, and maybe one April I’ll take the train down to [ACPT](https://www.crosswordtournament.com/).
 
 Bouldering
 : I picked up bouldering right before starting grad school. I'm currently considering defecting from [Boston Bouldering Project](https://www.bostonboulderingproject.com/) to [Central Rock Gym](https://centralrockgym.com/cambridge/), and climb roughly at a V3 level. I go much less regularly than I’d like to given how busy graduate school is, but enjoy it every time I go.
 
 Biking
 : Over the past few years, I've gotten into taking long bike rides! Hoping to start getting into bikepacking over the next summer or two as well.
+
+Improv
+: Started taking a few classes through a grad club here at MIT, and it’s been super fun to think on my feet and just *say* different things. I’d love to one day be able to do things like [Jess and Zach from Off Book](https://www.thezachandthejess.com/podcast-off-book.html), but I suspect that improv musicals are a loooong way away.
 
 Deep Discussions
 : I love talking to people to learn more about who they are and how they see the world. One semester, I ran a small discussion series to bring strangers together to talk about big questions like “How do you define yourself?” and “What brings meaning to your life?”
@@ -42,7 +45,7 @@ entertainment
 : [xkcd](https://xkcd.com/)
 : [Taskmaster](https://www.youtube.com/c/Taskmaster), just all of it
 : [Down for a Cross](https://downforacross.com/)
-: [Critical Role](https://critrole.com/)
+: [Critical Role](https://critrole.com/) and [Dimension 20](https://www.dropout.tv/dimension-20)
 
 thinking
 : [Wait But Why](https://waitbutwhy.com/)
@@ -64,3 +67,4 @@ random things i find useful
 : [goblin.tools](https://goblin.tools/), the most useful application of LLMs i’ve seen
 : [the way i practice recognizing chords by ear](https://www.musictheory.net/exercises/ear-chord)
 : [data is plural](https://www.data-is-plural.com/) for random fun data things
+: [metro boston regional walking + cycling map](https://trailmap.mapc.org/)
