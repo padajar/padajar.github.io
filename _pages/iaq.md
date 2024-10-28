@@ -8,6 +8,11 @@ title: infrequently asked questions
 **iaq** *noun*, pl. **iaqs** **:** **1.** initialism for “infrequently asked questions”, a riff on *frequently asked questions*; **2:** a way for people to ask me very inane things by submitting them [here](https://docs.google.com/forms/d/e/1FAIpQLSfx3GqkDudgWlpfbI7Pa0IrRgqp4pz1BKPDypk_HMdmEJdrDQ/viewform)[^1]; **3:** a page you should definitely share with anyone who will ask a fun question so that one day it will be half as cool as [bill wurtz’s](https://billwurtz.com/questions/questions.html) **4:** an experimental section on my website!
 {: .notice--info}
 
+what is your favorite pair of anagrams
+: did you mean “a sofa fairy hunts water vapor origami”?
+: jk. but i think i’ll always have a soft spot for “eleven plus two = twelve plus one”, though “the Morse code = here comes dots” is a close second. and while not my favorite, an incredible construction is [Washington Crossing the Delaware](https://www.wikiwand.com/en/articles/Washington_Crossing_the_Delaware_(sonnet))
+: *2024-10-27*
+
 what is your favorite shade of my favorite color (from form: “orange”)
 : very partial to <font color="#f47c44">#f47c44</font> (which is why it’s used on my website)
 : *2024-10-25*
@@ -34,12 +39,13 @@ have you ever padded a jar
 : *2024-10-22*
 
 what is your favorite question?
-: a few in the current moment —
-: - what is your least important gripe about [X town]? e.g.; for boston, the bus is \\$1.70 and the T is \\$2.40; i really really *really* want them to be nice multiples of each other. for dc, the sidewalks and blocks are just. too. wide. 
+a few in the current moment —
+
+- what is your least important gripe about [X town]? e.g.; for boston, the bus is \\$1.70 and the T is \\$2.40; i really really *really* want them to be nice multiples of each other. for dc, the sidewalks and blocks are just. too. wide. 
 - what part of your personality are you most proud of? (or least, and want to change?)
 - what made you laugh the hardest in the last year?
 - what does it mean to be friends with someone, or to know someone? (and the many follow-up questions this creates)
-: *2024-10-22*
+  : *2024-10-22*
 
 when you find yourself in times of trouble, does mother mary come to you? if so, what words does she speak to you? if not, why
 : she does! she says “how did i get here? i’m only supposed to go somewhere when someone says ‘mother mary’ three times, and i think it is very clear that you did not since three is the highest number you can count to”
