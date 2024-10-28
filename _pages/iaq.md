@@ -40,7 +40,7 @@ have you ever padded a jar
 
 what is your favorite question?
 : a few in the current moment —
-: <li>what is your least important gripe about [X town]? e.g.; for boston, the bus is i really really <em>really</em> want them to be nice multiples of each other. for dc, the sidewalks and blocks are just. too. wide. </li>
+: <li>what is your least important gripe about [X town]? e.g.; for boston, the bus is \$1.70 while the T is \$2.40. i really really <em>really</em> want them to be nice multiples of each other. for dc, the sidewalks and blocks are just. too. wide. </li>
 : <li>what part of your personality are you most proud of? (or least, and want to change?)</li>
 : <li>what made you laugh the hardest in the last year?</li>
 : <li>what does it mean to be friends with someone, or to know someone? (and the many follow-up questions this creates)</li>
