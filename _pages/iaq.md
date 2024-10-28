@@ -39,13 +39,12 @@ have you ever padded a jar
 : *2024-10-22*
 
 what is your favorite question?
-a few in the current moment —
-
-- what is your least important gripe about [X town]? e.g.; for boston, the bus is \\$1.70 and the T is \\$2.40; i really really *really* want them to be nice multiples of each other. for dc, the sidewalks and blocks are just. too. wide. 
-- what part of your personality are you most proud of? (or least, and want to change?)
-- what made you laugh the hardest in the last year?
-- what does it mean to be friends with someone, or to know someone? (and the many follow-up questions this creates)
-  : *2024-10-22*
+: a few in the current moment —
+: <li>what is your least important gripe about [X town]? e.g.; for boston, the bus is i really really <em>really</em> want them to be nice multiples of each other. for dc, the sidewalks and blocks are just. too. wide. </li>
+: <li>what part of your personality are you most proud of? (or least, and want to change?)</li>
+: <li>what made you laugh the hardest in the last year?</li>
+: <li>what does it mean to be friends with someone, or to know someone? (and the many follow-up questions this creates)</li>
+: *2024-10-22*
 
 when you find yourself in times of trouble, does mother mary come to you? if so, what words does she speak to you? if not, why
 : she does! she says “how did i get here? i’m only supposed to go somewhere when someone says ‘mother mary’ three times, and i think it is very clear that you did not since three is the highest number you can count to”
