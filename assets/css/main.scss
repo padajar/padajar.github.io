@@ -20,3 +20,11 @@ $link-color: #f47c44;
 .tg th{border-style:none;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-vfn0{background-color:#efefef;border-color:#000000;text-align:left;vertical-align:top}
+
+
+/* Target <ul> elements in the FAQ section */
+.faq-content ul {
+    margin-top: 0;  /* Remove space before the list */
+    margin-bottom: 0;  /* Remove space after the list */
+    padding-left: 20px;  /* Adjust left padding if needed */
+}
