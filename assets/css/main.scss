@@ -7,9 +7,6 @@
 $masthead-link-color: #f47c44;
 $link-color: #f47c44;
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
-
 .header-link {
   display: none;
 }
@@ -28,3 +25,13 @@ $link-color: #f47c44;
     margin-bottom: 0;  /* Remove space after the list */
     padding-left: 20px;  /* Adjust left padding if needed */
 }
+
+
+/* system typefaces */
+$serif      : "IBM Plex Serif", Georgia, Times, serif;
+$sans-serif : "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$monospace  : "IBM Plex Mono", Monaco, Consolas, "Lucida Console", monospace;
+
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
