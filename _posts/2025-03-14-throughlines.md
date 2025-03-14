@@ -14,7 +14,7 @@ tags:
   - long
   - research
 link: https://mitadmissions.org/blogs/entry/throughlines/
-excerpt: "hadestown is a tragedy. the narrator, hermes, tells you this in the very first song."
+excerpt: "helloooooooo blogosphere! so i wasn’t planning on posting this week — the usual feelings of hosage, and what to write, and all of that. but reading everyone’s blogs has brought me so much joy, and i’m sitting here on a Sunday afternoon just being chronically online, and so i have decided to give myself exactly one (1) hour to write this blog. we are starting at 4:18 PM GMT, and we will see what is to come."
 ---
 
 <div class="notice--warning"><b>Note:</b> this blog was originally written on the MIT Admissions Blog <a href="https://mitadmissions.org/blogs/entry/throughlines/">here</a>. Because of things like footnotes and images, it’s best you read it on that site! This page will redirect you in 10 seconds.</div> <meta http-equiv="refresh" content="10;URL=https://mitadmissions.org/blogs/entry/throughlines/">
