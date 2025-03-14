@@ -13,7 +13,7 @@ tags:
   - meaning
   - long
   - research
-link: https://mitadmissions.org/blogs/entry/telling-the-tale/
+link: https://mitadmissions.org/blogs/entry/throughlines/
 excerpt: "hadestown is a tragedy. the narrator, hermes, tells you this in the very first song."
 ---
 
