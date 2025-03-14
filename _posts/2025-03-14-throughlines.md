@@ -1,5 +1,5 @@
 ---
-title: "https://mitadmissions.org/blogs/entry/throughlines/"
+title: "throughlines"
 subtitle: "some thoughts on acting, change, and meaning"
 categories:
   - thinking
