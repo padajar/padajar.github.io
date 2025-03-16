@@ -7,6 +7,7 @@ categories:
 tags:
   - blogging
   - mit admissions
+date: 2020-09-02
 ---
 
 I have wanted to be an [MIT Admissions blogger](https://mitadmissions.org/blogs/) for a *very* long time. I've found records of me sending blogs to my high school friends spring of my junior year, and I remember thinking that the people there were the literal coolest. After the shock of getting in faded, I dove deep into the blogs to try and figure out if I'd like this place and very, very quickly falling in love with it all. My random bookmarks folder still has dozens of blogs from 2015–2017 that I haven't touched in ages, ranging from "[how to college](https://mitadmissions.org/blogs/entry/the-how-to-college-masterpost/)" to [life advice](https://mitadmissions.org/blogs/entry/choosing-to-become-yourself/). And so I applied to be a blogger the summer before my freshman fall, only to be rejected. I applied again before my junior year, only to be rejected a second time. I honestly think these were pretty good rejections; reading those posts I don't think the content of them is particularly compelling, unique, or distinct.
