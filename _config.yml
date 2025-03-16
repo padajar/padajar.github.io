@@ -69,7 +69,10 @@ author:
     # - label: "linkedin"
       # icon: "fab fa-fw fa-linkedin-in"
       # url: "https://www.linkedin.com/in/padajar/"
-    - label: "twitter (x?)"
+    - label: "bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/padajar.bsky.social"
+    - label: <s>twitter (x?)</s>
       icon: "fab fa-fw fa-x-twitter"
       url: "https://twitter.com/paolo_adajar"
     - label: "github"
