@@ -1,0 +1,116 @@
+// code adapted from https://dribbble.com/shots/3649176-FAQ by Katherine Kato
+
+
+* {
+  box-sizing: border-box;
+  &::before, &::after {
+    box-sizing: border-box;
+  }
+}
+
+.container {
+  margin: 0 auto;
+  padding: 1em;
+  width: 100%; // Match the width of the body
+}
+
+.accordion {
+  .accordion-item {
+    border-bottom: 1px solid $gray;
+    button[aria-expanded='true'] {
+      border-bottom: 1px solid $link-color; // Use link color
+    }
+  }
+  button {
+    position: relative;
+    display: block;
+    text-align: left;
+    width: 100%;
+    padding: 1em 2.5em 1em 0; // Add padding to the right to prevent text overlap
+    color: $text-color;
+    font-size: 1em;
+    // font-weight: bold;
+    border: none;
+    background: none;
+    outline: none;
+    font-family: $global-font-family; // Use global font family
+    &:hover, &:focus {
+      cursor: pointer;
+      color: $link-color; // Use link color
+      &::after {
+        cursor: pointer;
+        color: $link-color; // Use link color
+        border: 1px solid $link-color; // Use link color
+      }
+    }
+    .accordion-title {
+      padding: 1em 1.5em 1em 0;
+      margin-right: 30px; // Add margin to prevent text from overlapping icon
+    }
+    .icon {
+      display: inline-block;
+      position: absolute;
+      top: 50%; // Vertically center icon
+      right: 0;
+      transform: translateY(-50%); // Adjust for vertical centering
+      width: 22px;
+      height: 22px;
+      border: 1px solid;
+      border-radius: 22px;
+      &::before {
+        display: block;
+        position: absolute;
+        content: '';
+        top: 9px;
+        left: 5px;
+        width: 10px;
+        height: 2px;
+        background: currentColor;
+      }
+      &::after {
+        display: block;
+        position: absolute;
+        content: '';
+        top: 5px;
+        left: 9px;
+        width: 2px;
+        height: 10px;
+        background: currentColor;
+      }
+    }
+  }
+  button[aria-expanded='true'] {
+    color: $link-color; // Use link color
+    .icon {
+      &::after {
+        width: 0;
+      }
+    }
+    + .accordion-content {
+      opacity: 1;
+      max-height: 9em;
+      transition: all 200ms linear;
+      will-change: opacity, max-height;
+    }
+  }
+  button[aria-expanded='false'] {
+    color: $text-color; // Reset to original text color
+  }
+  .accordion-content {
+    opacity: 0;
+    max-height: 0;
+    overflow: hidden;
+    transition: opacity 200ms linear, max-height 200ms linear;
+    will-change: opacity, max-height;
+    p {
+      font-size: 0.85rem;
+      // font-weight: 300;
+      margin: 0.5rem 2rem; // Update top margin to 0.5rem and bottom margin to 1.5rem
+    }
+    ul {
+      font-size: 0.85rem;
+      margin: 0.5rem 2rem 0.5rem 2rem; // Update top margin to 0.5rem and bottom margin to 1.5rem
+      padding-left: 1.5rem; // Adjust padding to fit within the accordion content
+    }
+  }
+}
