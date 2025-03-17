@@ -10,7 +10,7 @@ title: infrequently asked questions
   **4:** an experimental section on my website!
 {: .notice--info}
 
-<div class="container">
+<div class="container" style="margin-top: -1em;">
   <a href="#" id="expand-all" class="btn btn--primary">Expand All</a> <!-- Format button to use btn btn--primary class -->
   <a href="#" id="collapse-all" class="btn btn--primary">Collapse All</a> <!-- Add button to collapse all -->
   <div class="accordion">
