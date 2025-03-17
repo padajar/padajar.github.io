@@ -58,10 +58,14 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+head_scripts:
+  - /assets/js/accordion.js
+
 author:
-  name   : "paolo adajar"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Fourth-year MIT Econ PhD candidate interested in education, development, IO, and much more."
+  name    : "paolo adajar"
+  avatar  : "/assets/images/bio-photo.jpg"
+  bio     : "Fourth-year MIT Econ PhD candidate interested in education, development, IO, and much more."
+  # pronouns: they/them
   links:
     - label: "email"
       icon: "fas fa-fw fa-envelope"
