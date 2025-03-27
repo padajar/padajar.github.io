@@ -64,7 +64,7 @@ head_scripts:
 author:
   name    : "paolo adajar"
   avatar  : "/assets/images/bio-photo.jpg"
-  bio     : "Fourth-year MIT Econ PhD candidate interested in education, development, IO, and much more."
+  bio     : "fourth-year mit econ phd candidate interested in education, development, io, and much more."
   # pronouns: they/them
   links:
     - label: "email"
