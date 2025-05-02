@@ -6,12 +6,12 @@ tags:
   - latex
   - psets
 classes: wide
-excerpt: new and shiny LaTeX formats
+excerpt: new and shiny LaTeX formats (for memos, problem sets, and slides)
 ---
 
 [a few years ago]({% post_url 2021-07-04-pset-template %}), i made a $\LaTeX$ setup to help me format my grad school psets. it’s been pretty successful — it helped me keep my psets organized, got a couple of compliments and “hey what template are you using”, and even a few random emails here and there.
 
-but as someone who’s no longer taking classes, most $\LaTeX$ documents i write these days are either slides or memos. and so figured it was time to make some new templates for those.
+but as someone who’s no longer taking classes, most $\LaTeX$ documents i write these days aren’t problem sets — they’re either slides or memos. and so figured it was time to make some new templates for those.
 
 after some work (much of which was procrasti-productivity when i had to be doing other stuff), i have *finally* created some new templates that supersede the old paolo-pset — introducing, [padajar-templates](https://github.com/padajar/padajar-templates/tree/main)!
 
