@@ -4,11 +4,12 @@ title: infrequently asked questions
 ---
 
 **iaq** *noun*, pl. **iaqs** **:** <br>
-  **1.** initialism for “infrequently asked questions”, a riff on *frequently asked questions*; <br>
-  **2:** a way for people to ask me very inane things by submitting them [here](https://docs.google.com/forms/d/e/1FAIpQLSfx3GqkDudgWlpfbI7Pa0IrRgqp4pz1BKPDypk_HMdmEJdrDQ/viewform)[^1]; <br>
-  **3:** a page you should definitely share with anyone who will ask a fun question so that one day it will be half as cool as [bill wurtz’s](https://billwurtz.com/questions/questions.html) <br>
-  **4:** an experimental section on my website!
+  **1:** initialism for “infrequently asked questions”, a riff on *frequently asked questions*; <br>
+  **2:** a page you should definitely share with anyone who will ask a fun question so that one day it will be half as cool as [bill wurtz’s](https://billwurtz.com/questions/questions.html) <br>
+  **3:** an experimental section on my website!
 {: .notice--info}
+
+submit an iaq via [this form](https://docs.google.com/forms/d/e/1FAIpQLSfx3GqkDudgWlpfbI7Pa0IrRgqp4pz1BKPDypk_HMdmEJdrDQ/viewform)! no promises i’ll answer… but given what i’ve responded to so far, there is very little i wouldn’t answer :P
 
 <div class="container" style="margin-top: -1em;">
   <a href="#" id="expand-all" class="btn btn--primary">Expand All</a> <!-- Format button to use btn btn--primary class -->
@@ -25,5 +26,3 @@ title: infrequently asked questions
     {% endfor %}
   </div>
 </div>
-
-[^1]: no promises you will be answered, but will try to respond to all i find entertaining :)
