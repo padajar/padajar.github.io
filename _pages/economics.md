@@ -3,7 +3,7 @@ permalink: /economics/
 title: "economics"
 ---
 
-My work is all centered around the economics of education. While this makes me at my core a labor economist, I filter in and out of a lot of other fields (development, market design, IO, metrics, behavioral, theory) so that I can use their tools to answer the questions I’m working on!  
+My work is all centered around the economics of education. While this makes me a labor economist at my core, I filter in and out of a lot of other fields (development, market design, IO, metrics, behavioral, theory) so that I can use their tools to answer the questions I’m working on. 
 
 ## research
 
@@ -14,8 +14,11 @@ works in progress (with drafts)
 
 works in progress (as in, actually in progress)
 : **Identifying and Nurturing Math Talent: An experiment with self-paced [AoPS](https://artofproblemsolving.com/) classes** ([AEA pre-registry](https://www.socialscienceregistry.org/trials/14090))
-: In some joint work with Esther Duflo, Glenn Ellison, Sara Ellison, and Harini Kannan, we’re currently running a pilot in Tamil Nadu giving access to high-quality math curricula to talented students who otherwise have few resources to help them reach their full potential. We ran a pilot from 2023–2024, and are scaling up to an RCT with 2,400 students over the next year! We’ve received funding from the Agency Fund, Founders’ Pledge and [J-PAL’s Science for Progress Initiative](https://www.povertyactionlab.org/initiative-project/identifying-and-nurturing-math-talent-scale-experiment-art-problem-solving-self) for this project.
-:  
+: In some joint work with Esther Duflo, Glenn Ellison, Sara Ellison, and Harini Kannan, we’re currently running a pilot in Tamil Nadu giving access to high-quality math curricula to talented students who otherwise have few resources to help them reach their full potential. We ran a pilot from 2023–2024, and are scaling up to an RCT with 2,400 students in 2024–25! We’ve received funding from the Agency Fund, Founders’ Pledge and [J-PAL’s Science for Progress Initiative](https://www.povertyactionlab.org/initiative-project/identifying-and-nurturing-math-talent-scale-experiment-art-problem-solving-self) for this project.
+: 
+: **The UK College Application System**
+: There are *so* many interesting institutional features here. In some joint work with [Nagisa Tadjfar](https://economics.mit.edu/people/phd-students/nagisa-tadjfar) and [Kartik Vira](https://economics.mit.edu/people/phd-students/kartikeya-vira), we’re doing a deep dive into the market design of this system. Stay tuned :eyes:
+
 : **Chicago’s school assignment system**
 : How well does it improve access? Are there alternative designs that could also work? These questions are a lot more pertinent given last year’s affirmative action ruling by the Supreme Court, and even more relevant given CPS’s recent interest in [neighborhood schools](https://www.cpsboe.org/content/documents/23-1214-rs3.pdf). As a [Blueprint Labs](https://blueprintlabs.mit.edu/) research associate, I’m also leading some work on Chicago’s charter schools — lots in progress!
 
@@ -32,7 +35,7 @@ works in “progress” (just thinking about ‘em for now)
 Massachusetts Institute of Technology
 : *PhD in Economics, 2021–*
 : *NSF Graduate Research Fellow, 2021–2026*
-: As year number four starts, I think I’ve finally started to hit my stride in terms of having ideas I think are interesting and I’m excited to work on. Excited to have a year off of teaching (despite how much I like teaching) to see what can come of it all. We’ll see if I can figure out this whole “research prioritizing” thing, coming up with ideas, and seeing ideas through to completion. 
+: As I look forward into year 5 of grad school (how has it been so long already), I‘m excited to see where research takes me. I think I have a better idea of a) what projects I can work on, b) the direction they can go, and c) what I need to do to get there. The only problem is the actual getting there. We’ll see how well that journey goes. 
 
 Massachusetts Institute of Technology
 : *SB in Mathematical Economics, 2017–2021*
@@ -58,21 +61,24 @@ undergraduate work
 : This paper was my first independent research project, and uses variation in the effectiveness of state laws to identify the impact that charters have on overall student performance. I don’t think that this paper was *fantastic*, but I do think that it was a very worthwhile exercise to help me understand a bit more what the process of research is actually like.
 
 ra work
-: **Optimal Public Transportation Networks: Evidence from the World’s Largest Bus Rapid Transit System in Jakarta.** *RA for Ben Olken, Gabriel Kreindler, Rema Hanna, and Arya Gaduh*. A summer RA project where I developed a pipeline to process 60 million riders’ data. My worked helped contribute to research on [lockdown mobility](https://histecon.fas.harvard.edu/climate-loss/indonesia/index.html) and the [optimal network design](https://www.nber.org/papers/w31369)!
+: **Optimal Public Transportation Networks: Evidence from the World’s Largest Bus Rapid Transit System in Jakarta.** *RA for Ben Olken, Gabriel Kreindler, Rema Hanna, and Arya Gaduh*. 
+: A summer RA project where I developed a pipeline to process 60 million riders’ data. My worked helped contribute to research on [lockdown mobility](https://histecon.fas.harvard.edu/climate-loss/indonesia/index.html) and the [optimal network design](https://www.nber.org/papers/w31369)!
 :  
-: **The Surprising Hybrid Pedigree of Measures of Diversity and Economic Concentration.** ([link](https://www.nber.org/papers/w26512.pdf)) *NBER WP #26512, with Ernst Berndt, Rena Conti*. A paper understanding the theory behind measuring market concentration, and applying said measures to the pharmaceutical industry. Adajar, P., Berndt, E., and Conti, R. NBER Working Paper Series 26512. 2019.
+: **The Surprising Hybrid Pedigree of Measures of Diversity and Economic Concentration.** ([link](https://www.nber.org/papers/w26512.pdf)) *NBER WP #26512, with Ernst Berndt, Rena Conti*.
+: A paper understanding the theory behind measuring market concentration, and applying said measures to the pharmaceutical industry. 
 :  
-: **Values: How do they Contribute to Economic Success?** ([link](http://www.na-businesspress.com/JOP/JOP18-1/PingleM_18_1.pdf)) *Journal of Organizational Psychology,  Vol. 18(1), with Mark Pingle*. My first ever RA project (primarily helping with a literature review), and my introduction to economics and research as a career.
+: **Values: How do they Contribute to Economic Success?** ([link](http://www.na-businesspress.com/JOP/JOP18-1/PingleM_18_1.pdf)) *Journal of Organizational Psychology,  Vol. 18(1), with Mark Pingle*.
+: My first ever RA project (primarily helping with a literature review), and my introduction to economics and research as a career.
 
 work
 : **Bridgewater Associates**
 : *Investment Engineer Intern, Summer 2020*
-: Bridgewater is a company known for its [culture of "radical transparency."](https://www.bridgewater.com/media-archive/culture/) Interning at Bridgewater gave me a chance to grow a lot as a person as I learn how to better respond to feedback. Regarding the work itself, I think I learned a lot from my first experiences in the financial world about being in industry and building systems for understanding the economy; you can read more of my thoughts on [this blog post]({% post_url 2020-08-22-bridgewater %}).
+: Bridgewater is a company known for its culture of "radical transparency." Interning at Bridgewater gave me a chance to grow a lot as a person as I learn how to better respond to feedback. Regarding the work itself, I think I learned a lot from my first experiences in the financial world about being in industry and building systems for understanding the economy; you can read more of my thoughts on this blog post.
 :  
 : **NERA**
 : *Anti-trust Intern, Winter 2020*
-: NERA showed me what economics "industry" feels like: faster-paced, more emphasis on office communication, and the impetus to have deliverables. Perhaps the most interesting thing I figured out at NERA was how some employees who initially planned to return to graduate school were slowly being convinced otherwise. Talking to these people, I realized that their reasons for *not* going to grad school didn’t resonate with me at all, and helped push me to apply to grad school.
+: NERA showed me what economics "industry" feels like: faster-paced, more emphasis on office communication, and the impetus to have deliverables. Perhaps the most interesting thing I figured out at NERA was how some employees who initially planned to return to graduate school were slowly being convinced otherwise. Talking to these people, I realized that their reasons for not going to grad school didn’t resonate with me at all, and helped push me to apply to grad school.
 :  
 : **Government Accountability Office**
 : *Student Intern — Applied Research and Methods, Summer 2019*
-: I worked at GAO as part of the [MIT-DC Internship Program](https://summerwash.mit.edu/), exposing me to the world of policy. During the internship, I got to talk with many PhDs working in public policy about their experiences and why they chose to work in the public sector.
+: I worked at GAO as part of the MIT-DC Internship Program, exposing me to the world of policy. During the internship, I talked with many PhDs about their experiences and why they chose to work in the public sector.
