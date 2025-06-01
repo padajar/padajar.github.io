@@ -1,0 +1,19 @@
+{
+  "name": "padajar.github.io",
+  "version": "1.0.0",
+  "description": "This is the source code for my personal website, hosted at [padajar.com](https://padajar.com/). Feel free to make pull requests for content errors or typoes that you find.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/padajar/padajar.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/padajar/padajar.github.io/issues"
+  },
+  "homepage": "https://github.com/padajar/padajar.github.io#readme"
+}
