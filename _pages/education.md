@@ -27,6 +27,7 @@ Other past teaching
 
 There’s a few teaching-related things that i’ve put out into the world, things that hopefully will do good for at least _one_ person. A collection of these resources below! Feedback on any of them *happily* taken.
 
+<a name="as-clear-as-mud"></a>
 as clear as mud (presentation [here]({{ site.baseurl }}/assets/presentations/as-clear-as-mud.pdf))
 : This is a presentation I first gave to Blueprint RAs during year 4 of grad school, with some of my thoughts on clean code, presenting data, and presentations in general. These are topics I generally have a lot of feelings about, and it felt nice to finally put them down all on one page so that hopefully others can implement it into their own work. I suspect that this presentation will be a perpetual work-in-progress, but I’ll try to keep the latest version up at all times.
 
