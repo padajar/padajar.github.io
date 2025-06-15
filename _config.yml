@@ -16,7 +16,7 @@
 title: paolo adajar
 email: paoloadajar@mit.edu
 description: >- # this means to ignore newlines until "baseurl:", description to show in Google search results
-  Rising fifth-year MIT Econ PhD candidate interested in education and much more.
+  Rising fifth-year Econ PhD candidate at MIT interested in education and much more.
 twitter_username: paolo_adajar
 github_username: padajar
 minimal_mistakes_skin: default
@@ -64,7 +64,7 @@ head_scripts:
 author:
   name    : "paolo adajar"
   avatar  : "/assets/images/bio-photo.jpg"
-  bio     : "rising fifth-year mit econ phd candidate interested in education, development, io, and much more."
+  bio     : "rising fifth-year econ phd candidate at mit interested in education, development, io, and much more."
   # pronouns: they/them
   links:
     - label: "email"
