@@ -18,7 +18,7 @@ works in progress (as in, actually in progress)
 : 
 : **The UK College Application System**
 : There are *so* many interesting institutional features here. In some joint work with [Nagisa Tadjfar](https://economics.mit.edu/people/phd-students/nagisa-tadjfar) and [Kartik Vira](https://economics.mit.edu/people/phd-students/kartikeya-vira), we’re doing a deep dive into the market design of this system. Stay tuned :eyes:
-
+: 
 : **Chicago’s school assignment system**
 : How well does it improve access? Are there alternative designs that could also work? These questions are a lot more pertinent given last year’s affirmative action ruling by the Supreme Court, and even more relevant given CPS’s recent interest in [neighborhood schools](https://www.cpsboe.org/content/documents/23-1214-rs3.pdf). As a [Blueprint Labs](https://blueprintlabs.mit.edu/) research associate, I’m also leading some work on Chicago’s charter schools — lots in progress!
 
