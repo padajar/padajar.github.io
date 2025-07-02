@@ -1,5 +1,5 @@
 ---
-title: "Stata Snark"
+title: "stata snark"
 categories: 
   - miscellany
   - economics
