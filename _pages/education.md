@@ -39,12 +39,16 @@ padajar-templates (blog post [here]({{ site.baseurl }}/2025/05/02/padajar-templa
 
 ## teaching-adjacent
 
+MIT Committee on Undergraduate Admissions and Financial Aid ([link](https://facultygovernance.mit.edu/committee/committee-undergraduate-admissions-and-financial-aid)) 
+: *Graduate Representative, 2025–*
+: This year, I’m starting a new position on an Institute Committee! I’m really excited to get to be a part of this committee, especially given that I’ve thought about this topic a lot, and have worked very closely with various admissions officers over the years.
+
 Graduate RA in Burton-Conner
 : *Burton 1, 2022–*
 : While not “education” in the traditional classroom sense, as a GRA, I run events to help students de-stress, help students navigate the maze that is MIT, and provide support in times of need. Being a GRA lets me put some part of my brainpower just towards *caring* for others and figuring out the right ways to be a person for my students — a headspace that, to me, feels just like teaching. It’s a joy to both run fun study breaks — like *Taskmaster*, *decorate my apartment*, and *the fanciest beverage from trader joseph’s* — and to be there when students need an adult.
 
 MIT Committee on the Undergraduate Program ([link](https://registrar.mit.edu/faculty-curriculum-support/faculty-curriculum-committees/committee-undergraduate-program)) 
-: *Student Representative, 2020–2021*
+: *Undergraduate Representative, 2020–2021*
 : I served on CUP my senior year of undergrad, which was a very fun look into how academic policy gets made. As one of four student representatives, our biggest impact was helping implement changes to first-year credit policies after a number of years of experiments! You can read more about that all [here](https://mitadmissions.org/blogs/entry/how-to-change-policies-at-mit-joint-post-with-rona-w/).
 
 MIT Educational Studies Program ([link](https://esp.mit.edu/)) <a name="esp"></a>
@@ -53,7 +57,7 @@ MIT Educational Studies Program ([link](https://esp.mit.edu/)) <a name="esp"></a
 
 National Science Bowl ([link1](https://science.osti.gov/wdts/nsb), [link2](https://www.mitsciencebowl.com/))
 : *Alumni Volunteer, National Science Bowl, 2020–*
-: *Coordinator, Northeast Regional Middle School Science Bowl, 2017–2021*
+: *Coordinator + Invitational Founder, MIT Science Bowl and NERMSSB, 2017–2021*
 : I loved science bowl in middle and high school. During college, I was coordinator for the Northeast Regional Middle School Science Bowl, and helped start the MIT Science Bowl Invitational for high school students. Doing this gave me a chance to reflect on the nature of academic competitions, and more broadly, how I want my personal work to balance challenging advanced students and benefitting *all* students. While I’m not as involved in organizing anymore, you can always find me volunteering at the MIT invitational/regional and the [National Science Bowl](https://science.osti.gov/wdts/nsb) Finals!
 
 <!-- 
