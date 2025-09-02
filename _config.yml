@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: paolo adajar
-email: paoloadajar@mit.edu
+title: phi adajar
+email: phiadajar@mit.edu
 description: >- # this means to ignore newlines until "baseurl:", description to show in Google search results
   Rising fifth-year Econ PhD candidate at MIT interested in education and much more.
-twitter_username: paolo_adajar
+# twitter_username: paolo_adajar
 github_username: padajar
 minimal_mistakes_skin: default
 search: true
@@ -62,23 +62,23 @@ head_scripts:
   - /assets/js/accordion.js
 
 author:
-  name    : "paolo adajar"
+  name    : "phi adajar"
   avatar  : "/assets/images/bio-photo.jpg"
-  bio     : "rising fifth-year econ phd candidate at mit interested in education, development, io, and much more."
-  # pronouns: they/them
+  bio     : "fifth-year econ phd candidate at mit interested in education, development, io, and much more."
+  pronouns: they/them
   links:
+    - label: "<i>fee ADD-uh-har</i>"
+      icon: "fas fa-fw fa-volume-low"
+      url: "https://www.name-coach.com/phi-adajar"
     - label: "email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:paoloadajar@mit.edu"
+      url: "mailto:phiadajar@mit.edu"
     # - label: "linkedin"
       # icon: "fab fa-fw fa-linkedin-in"
       # url: "https://www.linkedin.com/in/padajar/"
     - label: "bluesky"
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/padajar.bsky.social"
-    - label: <s>twitter (x?)</s>
-      icon: "fab fa-fw fa-x-twitter"
-      url: "https://twitter.com/paolo_adajar"
     - label: "github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/padajar"
