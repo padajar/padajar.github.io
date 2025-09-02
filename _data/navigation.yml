@@ -5,9 +5,9 @@ main:
     url: /economics/
   - title: "educ"
     url: /education/
-  - title: "cv"
-    url: /cv/
   - title: "more"
     url: /more/
   - title: "iaq"
     url: /iaq/
+  - title: "cv"
+    url: /cv/
