@@ -9,19 +9,19 @@ interests
 ---------
 
 Dungeons & Dragons
-: Most things I do are incredibly on-brand, but somehow I’ve managed to avoid becoming a DnD player until now. Currently in two campaigns playing Wella, a druid who talks to dinosaurs and is bad at people and definitely doesn’t have an Australian accent like Steve Irwin, and Myrna, a sorcerer trying to figure out the nature of magic and the secrets of the (definitely evil) Citadel (which she definitely didn’t get rejected from). (For the friends in my campaigns — did you really think that I’d reveal any other character secrets on the Internet? Please.) Also watch a good amount of Critical Role + Dimension 20!
+: Most things I do are incredibly on-brand, but somehow I’ve managed to avoid becoming a DnD player until now. Currently in two campaigns playing Wella, a druid who talks to dinosaurs and is bad at people and talks like Steve Irwin and might not be who they say they are, and Myrna, a sorcerer trying to figure out the nature of magic and the secrets of the (definitely evil) Citadel (which she definitely didn’t get rejected from). (For the friends in my campaigns — did you really think that I’d reveal any other character secrets on the Internet? Please.) Also watch a good amount of Critical Role + Dimension 20, and have done a bit of dabbling into DMing!
 
 Puzzle Hunts
-: I participate in [Mystery Hunt](https://www.wikiwand.com/en/MIT_Mystery_Hunt) (and many smaller hunts) with NES, a team composed of many former and current residents of Next House (my undergraduate dorm). I do hunts because they’re fun events to think hard about incredibly unproductive things where there is an answer to find, and also just to reconnect with friends. My one puzzle-writing credit (so far?) is making a few puzzles for [Cthulhu Luau](https://cthulhu-luau.com/) in May 2025. 
+: I participate in [Mystery Hunt](https://www.wikiwand.com/en/MIT_Mystery_Hunt) (and many smaller hunts) with NES, a team composed of many former and current residents of Next House (my undergraduate dorm). I do hunts because they’re fun events to think hard about incredibly unproductive things where there is an answer to find, and also just to reconnect with friends. I’ve also written puzzles for [Club Drosselmeyer](https://www.clubdrosselmeyer.com/) and [Cthulhu Luau](https://cthulhu-luau.com/).
 
 Crosswords
-: In 2022, I finally subscribed to NYT Games and began doing the crossword daily; have since solved far too many crosswords for my own good. Slowly working on bringing down my averages to competition level, and maybe one April I’ll take the train down to [ACPT](https://www.crosswordtournament.com/). My current streak’s been going since January 2022 — and me being me, of course I [analyze my data]({{ site.baseurl }}/assets/images/xwstats.png).
+: In 2022, I finally subscribed to NYT Games and began doing the crossword daily; have since solved far too many crosswords for my own good. Slowly working on bringing down my averages to competition level, and maybe one April I’ll take the train down to [ACPT](https://www.crosswordtournament.com/). My current streak’s been going since January 2022 — and me being me, of course I [analyze my data]({{ site.baseurl }}/assets/images/xwstats.png). Recently, I also wrote for the [MIT Crossword Open](https://puzzles.mit.edu/crosswordopen/2025/index.html)!
 
 Trivia
-: I’ve always wanted to make it onto Jeopardy. Now that I’m past college-age (and thus only eligible for regular Jeopardy), I’m slowly working on shoring my literature and pop culture knowledge — or at least, that’s what I tell myself I’m doing. Slowly trying to get back into trivia through [LL](https://learnedleague.com/), and we’ll see how it goes. Fingers crossed.
+: I’ve always wanted to make it onto Jeopardy. Now that I’m past college-age (and thus only eligible for regular Jeopardy), I’m slowly working on shoring my literature and pop culture knowledge — or at least, that’s what I tell myself I’m doing. Slowly trying to get back into trivia through [LL](https://learnedleague.com/), and we’ll see how it goes. Fingers crossed!
 
 Musicals
-: I love musicals! Favorite ones I’ve seen in-person are Hadestown, Waitress, and Les Mis. I’ve recently gotten into *acting* in musicals. My first show Next Act 2023 show, *Remembering Her*, where played Kevin, a wholesome, slightly empty-headed, Prius-driving highschooler who forgets his girlfriend, but eventually remembers (shyeah!). Most recently, I played Michael in a production of *tick, tick... BOOM!* with KAST, which was an absolute joy. Currently on an acting hiatus, but we’ll see what thing I try next…
+: I love musicals! Favorite ones I’ve seen in-person are Hadestown, Waitress, and Maybe Happy Ending. I’ve recently gotten into *acting* in musicals. My first show was Next Act 2023, *Remembering Her*, where I played Kevin, a wholesome, slightly empty-headed, Prius-driving highschooler who forgets his girlfriend, but eventually remembers (shyeah!). Most recently, I played Michael in a production of *tick, tick... BOOM!* with KAST, which was an absolute joy. Currently on an acting hiatus, but we’ll see what thing I try next…
 
 Baking
 : I think I’m becoming a baker?? Some favorite recipes include lemon squares and matcha cookies with white chocolate chips. Don’t ask me about the time I agreed to make croissants for someone not knowing what exactly making them entailed.
@@ -38,7 +38,7 @@ good things on the internet
 entertainment
 : [xkcd](https://xkcd.com/)
 : [Taskmaster](https://www.youtube.com/c/Taskmaster), just all of it
-: [Down for a Cross](https://downforacross.com/)
+: [Cross with Friends](https://www.crosswithfriends.com/)
 : [Critical Role](https://critrole.com/) and [Dimension 20](https://www.dropout.tv/dimension-20) (and tbh, all of [Dropout](https://www.dropout.tv))
 
 thinking
