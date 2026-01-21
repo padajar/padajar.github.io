@@ -12,4 +12,3 @@ This page will always contain the latest version of my “as clear as mud” pre
         <p>Looks like you can't see this PDF in-browser for some reason. Click <a href="https://padajar.com/assets/presentations/as-clear-as-mud.pdf">this link</a> to download the PDF.</p>
     </embed>
 </object>
-

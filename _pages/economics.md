@@ -16,7 +16,7 @@ works in progress (with drafts)
 : *Abstract:* Affirmative action policies based on geographic characteristics are potentially manipulable by families who move in response to the policy, undermining policy goals and hurting families who the policy is intended to help. I test whether these channel have significant impacts in Chicago, where admissions to selective high schools depend on the demographics of a students’ neighborhood. Using data from Chicago Public Schools and the Cook County Assessor’s office, I find no effects of marginal tier assignment on short-term migration of families or long-term housing prices.
 
 works in progress (as in, actually in progress)
-: **The UK College Application System**
+: **No Strings Attached: Unraveling in the UK College Admissions System**
 : There are *so* many interesting institutional features here. In some joint work with [Nagisa Tadjfar](https://economics.mit.edu/people/phd-students/nagisa-tadjfar) and [Kartik Vira](https://economics.mit.edu/people/phd-students/kartikeya-vira), we’re doing a deep dive into the market design of this system. Stay tuned :eyes:
 : 
 : **Chicago’s school assignment system**
@@ -35,7 +35,9 @@ works in “progress” (just thinking about ‘em for now)
 Massachusetts Institute of Technology
 : *PhD in Economics, 2021–*
 : *NSF Graduate Research Fellow, 2021–2026*
-: As I look forward into year 5 of grad school (how has it been so long already), I‘m excited to see where research takes me. I think I have a better idea of a) what projects I can work on, b) the direction they can go, and c) what I need to do to get there. The only problem is the actual getting there. We’ll see how well that journey goes. 
+: The middle of year five. It’s very weird to be in the same calendar year that I’ll be on the job market. Certainly feels like there’s more of an impetus to get things done, but also, I feel like I have a way better sense of direction with it all. Will be abroad in the UK for a good chunk of the next year (including most of the summer) and I’m excited to see where it goes.
+
+ 
 
 Massachusetts Institute of Technology
 : *SB in Mathematical Economics, 2017–2021*
@@ -52,11 +54,11 @@ Davidson Academy of Nevada
 ## pre-history
 
 undergraduate work
-: **Evaluating Strategic Play: Manipulations with Symmetric Information in the Boston Mechanism** ([link]({% link /assets/esp-manipulations.pdf %})) <a name="thesis"></a>
+: **Evaluating Strategic Play: Manipulations with Symmetric Information in the Boston Mechanism** ([link]({% link /assets/papers/esp-manipulations.pdf %})) <a name="thesis"></a>
 : *Undergraduate Thesis advised by Parag Pathak. 2021.*
 : I [worked a lot with ESP]({{ site.baseurl }}/education#esp) and their programs, and for my thesis, I analyzed the mechanism ESP uses to assign students to classes, a variant of the Boston system extended to many-to-many matching. My initial proposal considered a lot of topics, like "better" mechanisms and the welfare gains/losses due to strategic play. While I'd love to delve into those topics, time constraints led me to focus in on whether a student with symmetric information (in the spirit of Roth + Rothblum (1999)) can benefit by misreporting their strategies. In the end, my feelings about finishing a thesis played a non-zero role in my choice to enroll in grad school (versus working in industry).
 :  
-: **A Rising Tide for All or Wave for One?: The Effect of Charter School Competition on District Achievement** ([link]({% link /assets/charters.pdf %}))
+: **A Rising Tide for All or Wave for One?: The Effect of Charter School Competition on District Achievement** ([link]({% link /assets/papers/charters.pdf %}))
 : *Written for 14.33. MIT Undergraduate Journal of Economics, Vol. XX. 2021.*
 : This paper was my first independent research project, and uses variation in the effectiveness of state laws to identify the impact that charters have on overall student performance. I don’t think that this paper was *fantastic*, but I do think that it was a very worthwhile exercise to help me understand a bit more what the process of research is actually like.
 

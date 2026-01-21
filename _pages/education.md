@@ -29,7 +29,7 @@ There’s a few teaching-related things that i’ve put out into the world, thin
 
 <a name="as-clear-as-mud"></a>
 as clear as mud (presentation [here]({{ site.baseurl }}/assets/presentations/as-clear-as-mud.pdf))
-: This is a presentation I first gave to Blueprint RAs during year 4 of grad school, with some of my thoughts on clean code, presenting data, and presentations in general. These are topics I generally have a lot of feelings about, and it felt nice to finally put them down all on one page so that hopefully others can implement it into their own work. I suspect that this presentation will be a perpetual work-in-progress, but I’ll try to keep the latest version up at all times.
+: This is a presentation I first gave to Blueprint RAs during year 4 of grad school, with some of my thoughts on clean code, presenting data, and presentations in general. I have a lot of feelings about, and it felt nice to finally put them down all on one page so that hopefully others can implement it into their own work. I suspect that this presentation will be a perpetual work-in-progress, but I’ll try to keep the latest version up at all times.
 
 an mdrd primer (blog post [here]({{ site.baseurl }}/2025/03/15/mdrd/)) 
 : MDRD is probably the single paper that I know best. For both my own understanding, and helping the understanding of various people in the Blueprint ecosystem, I’ve put my own reading of MDRD1 into blog post format. It reads much like my “lecture style” — focusing on intuition and *why*s, building up to things as we go along, and hopefully doing so in an approachable way. 
@@ -41,11 +41,11 @@ padajar-templates (blog post [here]({{ site.baseurl }}/2025/05/02/padajar-templa
 
 MIT Committee on Undergraduate Admissions and Financial Aid ([link](https://facultygovernance.mit.edu/committee/committee-undergraduate-admissions-and-financial-aid)) 
 : *Graduate Representative, 2025–*
-: This year, I’m starting a new position on an Institute Committee! I’m really excited to get to be a part of this committee, especially given that I’ve thought about this topic a lot, and have worked very closely with various admissions officers over the years.
+: This year, I’m starting a new position on an Institute Committee! I’m really excited to get to be a part of CUAFA, especially given that I’ve thought about this topic a lot, and have worked very closely with various admissions officers over the years. (Unfortunately I can’t share most things about our discussions, so this section will be a bit more empty than I’d like. But there’s *so* many things happening in the world of higher ed right now.)
 
 Graduate RA in Burton-Conner
 : *Burton 1, 2022–*
-: While not “education” in the traditional classroom sense, as a GRA, I run events to help students de-stress, help students navigate the maze that is MIT, and provide support in times of need. Being a GRA lets me put some part of my brainpower just towards *caring* for others and figuring out the right ways to be a person for my students — a headspace that, to me, feels just like teaching. It’s a joy to both run fun study breaks — like *Taskmaster*, *decorate my apartment*, and *the fanciest beverage from trader joseph’s* — and to be there when students need an adult.
+: While not “education” in the traditional classroom sense, as a GRA, I run events to help students de-stress, help students navigate the maze that is MIT, and provide support in times of need. Being a GRA lets me put some part of my brainpower just towards *caring* for others and figuring out the right ways to be a person for my students — a headspace that, to me, feels just like teaching. It’s a joy to both run fun study breaks — like *Taskmaster*, *~~decorate~~ deface my apartment*, and *the fanciest beverage from trader joseph’s* — and to be there when students need an adult.
 
 MIT Committee on the Undergraduate Program ([link](https://registrar.mit.edu/faculty-curriculum-support/faculty-curriculum-committees/committee-undergraduate-program)) 
 : *Undergraduate Representative, 2020–2021*

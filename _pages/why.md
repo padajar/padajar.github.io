@@ -11,7 +11,7 @@ i mean, i *suppose* that’s allowed but…  why?
 
 oh well. it doesn’t really matter now.
 
-anyways, don't want to take up too much of your time, so sending you back to the homepage in <span id="countdowntimer">10</span> seconds.
+anyways, don't want to take up too much of your time. sending you back to my homepage in <span id="countdowntimer">10</span> seconds.
 
 <script type="text/javascript">
     var timeleft = 10;
