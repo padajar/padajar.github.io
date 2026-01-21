@@ -31,3 +31,6 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 # gem "minimal-mistakes-jekyll"
 
 gem "jemoji", "~> 0.13.0"
+gem "fiddle", "~> 1.1"
+
+gem "faraday-retry", "~> 2.4"
