@@ -1,6 +1,6 @@
 ---
 title: "taking your medicine"
-subtitle: "living with discomfort"
+excerpt: on living with discomfort
 categories: 
   - miscellany
   - thinking
