@@ -33,3 +33,4 @@ gem "jemoji", "~> 0.13.0"
 gem "fiddle", "~> 1.1"
 
 gem "faraday-retry", "~> 2.4"
+gem "bigdecimal"
