@@ -40,7 +40,6 @@ entertainment
 : [Taskmaster](https://www.youtube.com/c/Taskmaster), just all of it
 : [Cross with Friends](https://www.crosswithfriends.com/)
 : [Critical Role](https://critrole.com/) and [Dimension 20](https://www.dropout.tv/dimension-20) (and tbh, all of [Dropout](https://www.dropout.tv))
-: 
 
 thinking
 : [Wait But Why](https://waitbutwhy.com/)
@@ -64,6 +63,14 @@ random things i find useful
 : [data is plural](https://www.data-is-plural.com/) for random fun data things
 : [metro boston regional walking + cycling map](https://trailmap.mapc.org/)
 : (just as a concept) keeping a “scratch work” google sheets doc bookmarked for random things
+
+fun games (both daily and one-time)
+: [enclose.horse](https://enclose.horse/)
+: [LinkedIn Games](https://www.linkedin.com/games) (yes, really)
+: [Squardle](https://squaredle.app/)
+: [Clues By Sam](https://cluesbysam.com/)
+: [45x45 Connections](https://thomaswc.com/2025.html)
+: [Blue Prince](https://store.steampowered.com/app/1569580/Blue_Prince/)
 
 
 
