@@ -11,9 +11,9 @@ maybe it’s my time to try and write a hunt recap post. i blog! i do puzzles! i
 
 here’s some thoughts on hunting this year — as always, i hunt with NES, a team that largely (but not exclusively) consists of alumni from Next House, my undergrad dorm at MIT.
 
-obviously, spoilers for mitmh 2026. and the usual disclaimer that all opinions on here are my own, not that of anyone else on NES or in the NES leadership team, are all made with loving intent, and so on 🧡
+obviously, spoilers for mitmh 2026 (a wonderful hunt written by cardinality!). and the usual disclaimer that all opinions on here are my own, not that of anyone else on NES or in the NES leadership team, are all made with loving intent, and so on 🧡
 
-(not a required pre-read, but i’ve mostly been in the same mindset as when i wrote [taking your medicine](https://padajar.com/2026/01/21/taking-your-medicine/) — you might find it interesting to read that first.)
+(not a required pre-read, but i’ve mostly been in the same mindset as when i wrote [taking your medicine](https://padajar.com/2026/01/21/taking-your-medicine/) — you might find it interesting to read that first. or, if you don’t know much about mystery hunt, it’s also useful for a little bit of context.)
 
 ## puzzles 
 
