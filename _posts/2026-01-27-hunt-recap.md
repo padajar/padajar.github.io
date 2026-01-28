@@ -47,7 +47,7 @@ looking at the solutions, this puzzle’s a good reminder for me to just write d
 
 #### acquisitions (hyperbolic space, feeder)
 
-you know how frequently something that i do for work comes up in a hunt? never. literally never. so getting a puzzle related to auction theory was *wild*.  i contribute various things (all-pay auction, IDing the common auctions), but we get stuck on finding the bidding strategies. some teammates solve it by bashing it out a bit after i head off to sleep, without ever getting the “presidential” or “chemist” ahas. (unlocked 7:01pm, solved 10:25pm.)
+you know how frequently something that i do for work comes up in a hunt? never. literally never. so getting a puzzle related to auction theory was *wild*.  i contribute various things (all-pay auction, IDing the common auctions), but we get stuck on finding the bidding strategies. some teammates get the “presidential” and “chemist” ahas after I head to sleep, and bash it out not too long after. (unlocked 7:01pm, solved 10:25pm.)[^d]
 
 #### shapes (elder drifts, feeder)
 
@@ -238,3 +238,5 @@ see you in 2027!
 [^a]: well, 4th-ish — d+m stopped officially ranking people after 2nd, due to the volume of hints they gave out beyond that point
 [^b]: something something comparative advantages? but also, i do actually just enjoy getting to be in this role. support characters ftw.
 [^c]: per the cardinality AMA, among the 15 teams that finished hunt, [the median number of hints was 10, and the floor was 0](https://www.reddit.com/r/mysteryhunt/comments/1qm4hue/comment/o1ntzhe/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) (i’m under the impression that the top 2 teams used 0, but perhaps none other?)
+
+[^d]: errata: previously thought we didn’t get the ahas, but we did! wahoo
