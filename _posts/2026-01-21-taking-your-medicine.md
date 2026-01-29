@@ -101,7 +101,7 @@ But why? Why do I do this? Why in the world would I possibly be excited for the 
 
   While also somewhat true, this also isn’t everything. I have lots of friends on NES, but for the most part, they weren’t my close friends in undergrad. Those people are usually on other teams, if they hunt at all — of course, I try to make some time to see them during the weekend, but the weekend is not primarily spent hanging out with people. If I wanted that, I’d just be taking trips to NYC or SF to see all the friends that live there. 
 
-* Feelings smart? A sense of pride and achievement? The wording isn’t quite right here, but I think it boils down to the fact that having that “a-ha” moment can be *so* satisfying.
+* Feeling smart? A sense of pride and achievement? The wording isn’t quite right here, but I think it boils down to the fact that having that “a-ha” moment can be *so* satisfying.
 
   Of course, this also isn’t quite it, because these days, I spend a *lot* of the weekend not actually solving puzzles. I’m checking in on logistics, seeing if there’s any puzzles that haven’t been touched, helping coordinate documentation collaboration with our remote crew, and saying words at our “State of the Solve” recaps every few hours. If I wanted the “feeling smart” bit, I wouldn’t do any of that, and I’d just spend the whole time solving puzzles.
 
