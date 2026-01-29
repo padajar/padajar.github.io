@@ -16,7 +16,7 @@
 title: phi adajar
 email: phiadajar@mit.edu
 description: >- # this means to ignore newlines until "baseurl:", description to show in Google search results
-  Fifth-year PhD candidate at MIT interested in the economics of education and much, much more.
+  fifth-year phd candidate at mit interested in the economics of education and much, much more.
 # twitter_username: paolo_adajar
 github_username: padajar
 minimal_mistakes_skin: default
@@ -64,7 +64,7 @@ head_scripts:
 author:
   name    : "phi adajar"
   avatar  : "/assets/images/bio-photo.jpg"
-  bio     : "fifth-year econ phd candidate at mit interested in education, development, io, and much more."
+  bio     : "fifth-year econ phd candidate at mit interested in the economics of education and much, much more."
   pronouns: they/them
   links:
     - label: "<i>fee ADD-uh-har</i>"
@@ -126,6 +126,14 @@ collections:
   posts:
     output: true
     permalink: /:year/:month/:day/:title/
+
+# Feed settings
+feed:
+  path: /feed.xml       # This is where the file will live
+  number: 20            # Number of posts to include (default is 10)
+  items:
+    content: true       # Include full post content
+    excerpt: false      # Set to true if you only want snippets
 
 comments:
   provider: "disqus"
