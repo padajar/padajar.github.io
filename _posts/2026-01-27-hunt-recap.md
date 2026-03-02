@@ -130,7 +130,7 @@ one of the handful of puzzles i looked at sunday afternoon/evening. i think we w
 
 #### snalc eht tcennoc (glitch, meta)
 
-we unlock this at 5:14pm once we solve *these questions are not clever*, and our whole team piles onto it. a fun callback to the earlier metameta, and pretty quickly we see what we need to do. i head back to our map with some teammates, while others start applying the appropriate glitch transformations. it takes us only until 5:40pm to submit the partial answer, and 11 minutes later, we’ve solved Glitchy’s puzzle and the hunt was done. our second (and fastest) finish to date, putting us in forth!
+we unlock this at 5:14pm once we solve *these questions are not clever*, and our whole team piles onto it. a fun callback to the earlier metameta, and pretty quickly we see what we need to do. i head back to our map with some teammates, while others start applying the appropriate glitch transformations. it takes us only until 5:40pm to submit the partial answer, and 11 minutes later, we’ve solved Glitchy’s puzzle and the hunt was done. our second (and fastest) finish to date, putting us in fourth!
 
 some reflections on puzzles:
 
