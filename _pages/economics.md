@@ -9,18 +9,20 @@ My work is all centered around the economics of education. While this makes me a
 
 works in progress (with drafts)
 : **Identifying and Nurturing Math Talent: Evidence from Tamil Nadu** ([AEA pre-registry](https://www.socialscienceregistry.org/trials/14090))
-: In some joint work with Esther Duflo, Glenn Ellison, Sara Ellison, and Harini Kannan, we’re running RCT that offers 1,600 gifted 7th-grade students in Tamil Nadu an online self-paced pre-algebra class from [AoPS](https://artofproblemsolving.com/). Currently starting phase 2, and should have a draft describing phase 1 soon! (Presented at the [NBER Economics of Talent conference](https://www.nber.org/conferences/economics-talent-meeting-fall-2025).) 
+: In some joint work with Esther Duflo, Glenn Ellison, Sara Ellison, and Harini Kannan, we’re running an RCT with 2,400 gifted 7th-grade students in Tamil Nadu and an online self-paced pre-algebra class from [AoPS](https://artofproblemsolving.com/). We’re currently in the middle of Phase 2, and are excited to see the long-term effects. Presented at the [NBER Economics of Talent Meeting (Fall 2025)](https://www.nber.org/conferences/economics-talent-meeting-fall-2025), [NBER Economics of Education Meeting (Spring 2026)](https://www.nber.org/conferences/economics-education-program-meeting-spring-2026).
 : *Abstract. This paper presents evidence from a randomized controlled trial designed to test how to best identify and support gifted students from disadvantaged backgrounds. To do so, we offered access to an advanced online prealgebra course and an internet-enabled tablet to 7th-grade public-school students from Tamil Nadu, whom we identified as having high potential using several alternative strategies. Our primary finding is that we were able to successfully identify students who succeeded in challenging coursework originally designed as enrichment material for students with much stronger math preparation. We randomly assigned identification methods, which allowed us to investigate their relative effectiveness. We find that the combination of existing administrative scores and engagement with a extract of the textbook distributed as a physical booklet best predict engagement and success with the course material. We additionally cross-randomized treatments to evaluate program design (including group and individual tutoring, incentives for students, access to computer labs), and find that the simplest-to-scale version without tutoring led to the highest engagement.*
+:  
 : **School-House Shocks: The Effect of Neighborhood-based School Assignment Policies on Intracity Migration**
 : My second-year paper! I'd love to improve on these estimates using individual-level housing data, though this seems difficult to acquire.
 : *Abstract:* Affirmative action policies based on geographic characteristics are potentially manipulable by families who move in response to the policy, undermining policy goals and hurting families who the policy is intended to help. I test whether these channel have significant impacts in Chicago, where admissions to selective high schools depend on the demographics of a students’ neighborhood. Using data from Chicago Public Schools and the Cook County Assessor’s office, I find no effects of marginal tier assignment on short-term migration of families or long-term housing prices.
 
 works in progress (as in, actually in progress)
 : **No Strings Attached: Unraveling in the UK College Admissions System**
-: There are *so* many interesting institutional features here. In some joint work with [Nagisa Tadjfar](https://economics.mit.edu/people/phd-students/nagisa-tadjfar) and [Kartik Vira](https://economics.mit.edu/people/phd-students/kartikeya-vira), we’re doing a deep dive into the market design of this system. Stay tuned :eyes:
-: 
-: **Chicago’s school assignment system**
-: How well does it improve access? Are there alternative designs that could also work? These questions are a lot more pertinent given last year’s affirmative action ruling by the Supreme Court, and even more relevant given CPS’s recent interest in [neighborhood schools](https://www.cpsboe.org/content/documents/23-1214-rs3.pdf). As a [Blueprint Labs](https://blueprintlabs.mit.edu/) research associate, I’m also leading some work on Chicago’s charter schools — lots in progress!
+: There are *so* many interesting institutional features about uni applications in the UK. In some joint work with [Nagisa Tadjfar](https://economics.mit.edu/people/phd-students/nagisa-tadjfar) and [Kartik Vira](https://economics.mit.edu/people/phd-students/kartikeya-vira), we’re doing a deep dive into the market design of this system​. Draft coming this summer — stay tuned!
+: *Abstract: Competition for talent can cause labor market unraveling, where institutions create inefficient matches by extending offers before candidate ability is fully revealed. We study the impacts of early offers in the UK college admissions system on college sorting and match quality. We build a theoretical model of student and university choices, generating predictions about the resulting match which we validate empirically in this setting. On the supply side, universities that give early offers are less selective and have more competitors giving early offers: at baseline, these universities admitted students who scored 28 percentiles lower on their high school standardized tests, and when a university’s applicants receive one additional early offer from competitors, the university is 13.7pp more likely to use unconditional offers. On the demand side, exposure to early offers increases students’ likelihood of attending university when they leave high school, but not in the long-run: students are 1.5pp more likely to start university at age 18, but 1.1pp less likely to start at 19, with no long-term effects on university matriculation. This shift into earlier enrollment is concentrated towards middle-tercile universities at age 18, and away from universities of all terciles at age 19. Students exposed to early offers additionally see no impacts on their long-term degree completion or earnings. On net, the welfare impacts of these early offers depend on the relative importance of match quality and students’ outside options.*
+:  
+: **Chicago’s charters + school assignment system**
+: How well does it improve access? Are there alternative designs that could also work? These questions are a lot more pertinent given *SFFA vs. Harvard*, and even more relevant given CPS’s recent interest in [neighborhood schools](https://www.cpsboe.org/content/documents/23-1214-rs3.pdf). As a [Blueprint Labs](https://blueprintlabs.mit.edu/) research associate, I’m also leading some work on Chicago’s charter schools, with a particular focus on the Noble Network of Charter Schools.
 
 works in “progress” (just thinking about ‘em for now)
 : iterations on [MDRD1](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA13925) and [MDRD2](https://onlinelibrary.wiley.com/doi/full/10.3982/ECTA17125)
@@ -55,32 +57,24 @@ Davidson Academy of Nevada
 
 undergraduate work
 : **Evaluating Strategic Play: Manipulations with Symmetric Information in the Boston Mechanism** ([link]({% link /assets/papers/esp-manipulations.pdf %})) <a name="thesis"></a>
-: *Undergraduate Thesis advised by Parag Pathak. 2021.*
-: I [worked a lot with ESP]({{ site.baseurl }}/education#esp) and their programs, and for my thesis, I analyzed the mechanism ESP uses to assign students to classes, a variant of the Boston system extended to many-to-many matching. My initial proposal considered a lot of topics, like "better" mechanisms and the welfare gains/losses due to strategic play. While I'd love to delve into those topics, time constraints led me to focus in on whether a student with symmetric information (in the spirit of Roth + Rothblum (1999)) can benefit by misreporting their strategies. In the end, my feelings about finishing a thesis played a non-zero role in my choice to enroll in grad school (versus working in industry).
-:  
+: *Undergraduate Thesis advised by Parag Pathak. 2021.* Inspired by [my work with ESP]({{ site.baseurl }}/education#esp), my feelings on finishing this thesis played a non-zero role in choosing to start grad school. 
+: 
 : **A Rising Tide for All or Wave for One?: The Effect of Charter School Competition on District Achievement** ([link]({% link /assets/papers/charters.pdf %}))
-: *Written for 14.33. MIT Undergraduate Journal of Economics, Vol. XX. 2021.*
-: This paper was my first independent research project, and uses variation in the effectiveness of state laws to identify the impact that charters have on overall student performance. I don’t think that this paper was *fantastic*, but I do think that it was a very worthwhile exercise to help me understand a bit more what the process of research is actually like.
+: *Written for 14.33. MIT Undergraduate Journal of Economics, Vol. XX. 2021.* My first independent research project; while I don’t think this paper is *fantastic*, I do think that it was a very worthwhile exercise to help me understand the process of research a bit more.
 
 ra work
 : **Optimal Public Transportation Networks: Evidence from the World’s Largest Bus Rapid Transit System in Jakarta.** *RA for Ben Olken, Gabriel Kreindler, Rema Hanna, and Arya Gaduh*. 
-: A summer RA project where I developed a pipeline to process 60 million riders’ data. My worked helped contribute to research on [lockdown mobility](https://histecon.fas.harvard.edu/climate-loss/indonesia/index.html) and the [optimal network design](https://www.nber.org/papers/w31369)!
-:  
+: A summer RA project where I developed a pipeline to process 60 million riders’ data. My worked helped contribute to research on [lockdown mobility](https://histecon.fas.harvard.edu/climate-loss/indonesia/index.html) and the [optimal network design](https://www.nber.org/papers/w31369).
+: 
 : **The Surprising Hybrid Pedigree of Measures of Diversity and Economic Concentration.** ([link](https://www.nber.org/papers/w26512.pdf)) *NBER WP #26512, with Ernst Berndt, Rena Conti*.
 : A paper understanding the theory behind measuring market concentration, and applying said measures to the pharmaceutical industry. 
-:  
-: **Values: How do they Contribute to Economic Success?** ([link](http://www.na-businesspress.com/JOP/JOP18-1/PingleM_18_1.pdf)) *Journal of Organizational Psychology,  Vol. 18(1), with Mark Pingle*.
-: My first ever RA project (primarily helping with a literature review), and my introduction to economics and research as a career.
 
 work
 : **Bridgewater Associates**
-: *Investment Engineer Intern, Summer 2020*
-: Bridgewater is a company known for its culture of "radical transparency." Interning at Bridgewater gave me a chance to grow a lot as a person as I learn how to better respond to feedback. Regarding the work itself, I think I learned a lot from my first experiences in the financial world about being in industry and building systems for understanding the economy; you can read more of my thoughts on this blog post.
-:  
+: *Investment Engineer Intern, Summer 2020*. A place I enjoyed being at for the ways it helped me grow as a person. Many more thoughts in [this blog]({{ site.baseurl }}/2020/08/22/bridgewater/). 
+:  
 : **NERA**
-: *Anti-trust Intern, Winter 2020*
-: NERA showed me what economics "industry" feels like: faster-paced, more emphasis on office communication, and the impetus to have deliverables. Perhaps the most interesting thing I figured out at NERA was how some employees who initially planned to return to graduate school were slowly being convinced otherwise. Talking to these people, I realized that their reasons for not going to grad school didn’t resonate with me at all, and helped push me to apply to grad school.
-:  
+: *Anti-trust Intern, Winter 2020*. A fun little dive in to economics in “industry”. Perhaps the most interesting thing I figured out here was that some recent grads were slowly shifting away from doing grad school, but that the reasons for this shift didn’t resonate with me at all — and helped push me to apply to grad school.
+:  
 : **Government Accountability Office**
-: *Student Intern — Applied Research and Methods, Summer 2019*
-: I worked at GAO as part of the MIT-DC Internship Program, exposing me to the world of policy. During the internship, I talked with many PhDs about their experiences and why they chose to work in the public sector.
+: *Student Intern — Applied Research and Methods, Summer 2019*. Worked here as part of the [MIT Washington Summer Internship Program](https://summerwash.mit.edu/); deeply appreciated to hear from PhDs about their experiences and why they chose to work in the public sector. 
