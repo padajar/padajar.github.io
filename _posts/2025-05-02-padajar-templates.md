@@ -13,7 +13,7 @@ excerpt: new and shiny LaTeX formats (for memos, problem sets, and slides)
 
 but as someone who’s no longer taking classes, most $\LaTeX$ documents i write these days aren’t problem sets — they’re either slides or memos. and so figured it was time to make some new templates for those.
 
-after some work (much of which was procrasti-productivity when i had to be doing other stuff), i have *finally* created some new templates that supersede the old paolo-pset — introducing, [padajar-templates](https://github.com/padajar/padajar-templates/tree/main)!
+after some work (much of which was procrasti-productivity when i had to be doing other stuff), i have *finally* created some new templates that supersede my old template — introducing, [padajar-templates](https://github.com/padajar/padajar-templates/tree/main)!
 
 <object data="https://padajar.com/assets/docs/padajar-templates.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://padajar.com/assets/docs/padajar-templates.pdf">
