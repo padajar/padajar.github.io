@@ -9,7 +9,7 @@ interests
 ---------
 
 Dungeons & Dragons
-: Most things I do are incredibly on-brand, and so it’s honestly shocking that I only started playing D&D 2 years ago. I’ve got two PCs in different campaigns: Wella, a druid who talks to dinosaurs and talks like Steve Irwin and is still trying to learn how to trust people, and Myrna, a sorcerer trying to find the nature of magic and the secrets of the definitely-evil, very selective, and highly guarded wizard school (and no, she does *not* have any weird feelings about it because her two best friends got in and she didn’t and she hasn’t talked to them in years).[^1] Also watch a good amount of Critical Role (C2 🧡) and Dimension 20 (Starstruck 🤩), and am dabbling in DMing (i.e., ran a one-shot for some fellow BC GRAs that was entirely based around a dorm-related pun). 
+: Most things I do are incredibly on-brand, and so it’s honestly shocking that I only started playing D&D 2 years ago. I’ve got two PCs in different campaigns: Wella, a Steve Irwin-inspired druid who talks to dinosaurs and is still trying to learn how to trust people, and Myrna, a sorcerer trying to find the nature of magic and the secrets of the definitely-evil, very selective, and highly guarded wizard school (and no, she does *not* have any weird feelings about it because her two best friends got in and she didn’t and she hasn’t talked to them in years).[^1] Also watch a good amount of Critical Role (C2 🧡) and Dimension 20 (Starstruck 🤩), and am dabbling in DMing (i.e., ran a one-shot for some fellow BC GRAs that was entirely based around a dorm-related pun, and now running a short heist campaign for them). 
 
 Puzzle Hunts
 : I participate in [Mystery Hunt](https://www.wikiwand.com/en/MIT_Mystery_Hunt) (and many smaller hunts) with NES, a team composed of many former and current residents of Next House (my undergraduate dorm). I do hunts because it’s lovely to spend time with friends thinking about really hard things where you know that there is an answer if you just think hard enough. I’m also getting into puzzle-making more, and have lots of fun writing for [Club Drosselmeyer](https://www.clubdrosselmeyer.com/) and [Cthulhu Luau](https://cthulhu-luau.com/), with hopefully many more puzzles to come!
@@ -17,11 +17,11 @@ Puzzle Hunts
 Crosswords
 : In 2022, I finally subscribed to NYT Games and began doing the crossword daily; have since solved far too many crosswords for my own good. Slowly working on bringing down my averages to competition level, and maybe one April I’ll take the train down to [ACPT](https://www.crosswordtournament.com/). My current streak’s been going since January 2022 — and me being me, of course I analyze my data [and put it into pretty graphs]({{ site.baseurl }}/assets/images/xwstats.png). Recently, I also wrote for the [MIT Crossword Open](https://puzzles.mit.edu/crosswordopen/2025/index.html)!
 
+Theater
+: I love musicals! Favorite ones I’ve seen in-person are Hadestown, Waitress, and Maybe Happy Ending. A few years ago, I spent some time acting in them, too. My first show was Next Act 2023, *Remembering Her*, where I played Kevin, a wholesome, slightly empty-headed, Prius-driving highschooler who forgets his girlfriend, but eventually remembers (shyeah!). My biggest role to date was Michael in a production of *tick, tick... BOOM!* with KAST, which was an absolute joy. More recently, I’ve started dabbling in interactive theater productions with [Romancing Jan: Love & Labor](https://www.romancingjan.com/live-events) and [The Wedding Party](https://www.secretcityadventures.com/the-wedding-party/boston), and getting to improvise in-character has been such a blast.
+
 Trivia
 : I’ve always wanted to make it onto Jeopardy. Now that I’m past college-age (and thus only eligible for regular Jeopardy), I’m slowly working on shoring my literature and pop culture knowledge — or at least, that’s what I tell myself I’m doing. Slowly trying to get back into trivia through [LL](https://learnedleague.com/), and we’ll see how it goes. Fingers crossed!
-
-Musicals
-: I love musicals! Favorite ones I’ve seen in-person are Hadestown, Waitress, and Maybe Happy Ending. A few years ago, I spent some time acting in them, too. My first show was Next Act 2023, *Remembering Her*, where I played Kevin, a wholesome, slightly empty-headed, Prius-driving highschooler who forgets his girlfriend, but eventually remembers (shyeah!). Most recently, I played Michael in a production of *tick, tick... BOOM!* with KAST, which was an absolute joy. Currently on an acting hiatus, but we’ll see what thing I try next…
 
 Baking
 : I think I’m becoming a baker?? Some favorite recipes include lemon squares and matcha cookies with white chocolate chips. Don’t ask me about the time I agreed to make croissants for someone not knowing what exactly making them entailed.
@@ -66,14 +66,9 @@ random things i find useful
 
 fun games (both daily and one-time)
 : [enclose.horse](https://enclose.horse/)
-: [LinkedIn Games](https://www.linkedin.com/games) (yes, really)
 : [Squardle](https://squaredle.app/)
 : [Clues By Sam](https://cluesbysam.com/)
 : [45x45 Connections](https://thomaswc.com/2025.html)
 : [Blue Prince](https://store.steampowered.com/app/1569580/Blue_Prince/)
-
-
-
-
 
 [^1]: Hey you, friends in my campaign. You’re not getting any secrets out of me here. Ask me in character, smh my head.
