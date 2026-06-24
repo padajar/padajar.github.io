@@ -49,10 +49,6 @@ Massachusetts Institute of Technology
 2. I spent a lot of time in structured non-academic pursuits: deliberate time around others, ESP, science bowl, and much [more]({{ site.baseurl }}/more/). During college, I found how *necessary* it is for me to have non-academic things filling my life; I am not a person that can just do work forever.
 3. One of the most difficult parts of MIT is that it sometimes feels bad to do things just for your own sake. Not in the sense that MIT is competitive (it is not), but when you are surrounded by so many smart and high-achieving people who have done amazing things, it can feel like you need to be “productive” all the time. I am still learning how to let go of this feeling.
 
-Davidson Academy of Nevada
-: *HS Diploma in Mathematical Economics, 2013–2017*
-: I was very lucky to go to Davidson. While I’m still piecing together my thoughts on the concept of gifted education, I will always be grateful to have had access to so many resources at DA (classes, teachers, activities…) and also to the friends who shaped much of my values and identity.
-
 ## pre-history
 
 undergraduate work
