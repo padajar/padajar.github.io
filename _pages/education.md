@@ -3,15 +3,15 @@ permalink: /education/
 title: "education"
 ---
 
-Over the past decade, I've grown to care a lot about the field of education. I started off by teaching competition math to elementary and middle school students, which through a series of winding turns, got me much more interested in expanding educational opportunities and educational policy. Of course, I still really, really enjoy teaching, and always try to find outlets to get people excited about things I think are cool c:
+My education work began with teaching competition math to elementary and middle-school students. Many years and winding turns later, I’m now interested in expanding educational opportunities and educational policy. Of course, I still really, really enjoy teaching, and always try to find outlets to get people excited about things I think are cool and interesting c: Some highlights below!
 
 ## teaching
 
+Kaufman Teaching Certificate Program, 2025 ([my syllabus]({{ site.baseurl }}/assets/misc/padajar-ktcp-syllabus.pdf))
+: This program was *so* fun. It was great being back in a setting where people are so focused on good pedagogy, class design, and lecture design. Definitely learned a lot about course design, how to think about assessments, and more. The big “deliverable” of this program is a completely fleshed-out syllabus for a class you might want to teach as a professor. I ended up creating one that aims to bridge the gap to econometric methods and research for undergrads, while simultaneously helping students think about how to have good discourse; you can read it [here]({{ site.baseurl }}/assets/misc/padajar-ktcp-syllabus.pdf). If I end up going down the professor route, would *truly* be excited to make this class happen.
+
 TA for 14.19 (Market Design), 2023
 : My first time teaching as a grad TA! I’d taken 14.19 with Parag in 2019, and really enjoyed being on the other side of one of my favorite classes as an undergrad. I think that with a couple more years of experience, I was much better prepared to be a good TA, being able to provide more context about economics research (including mine), more intuition about why different things worked, and overall had a really great time. Overall rating 6.6/7, and got some fun comments calling me an “absolute legend” who “really helped me learn the subject” 🧡
-
-Kaufman Teaching Certificate Program, 2025
-: This program was *so* fun. It was great being back in a setting where people are so focused on good pedagogy, class design, and lecture design. Definitely learned a lot about course design, how to think about assessments, and more. The big “deliverable” of this program is a completely fleshed-out syllabus for a class you might want to teach as a professor. I ended up creating one that aims to bridge the gap to econometric methods and research for undergrads, while simultaneously helping students think about how to have good discourse; you can read it [here]({{ site.baseurl }}/assets/misc/padajar-ktcp-syllabus.pdf). If I end up going down the professor route, would *truly* be excited to make this class happen.
 
 TA for 14.02 (Principles of Macroeconomics), 2021
 : While macroeconomics isn’t my main field of interest, I think that introductory macro courses have a unique place pedagogically in the economics curriculum, since it’s taken by both students who want to develop macroeconomic literacy and those that are exploring economics as a major. I spent much time thinking about how to be as helpful to students to possible. In subject evaluations, my recitation received a 6.5/7 for “Instructor supported learning”, and some students specifically commented on my intuitive explanations, question-answering, and patience c:
@@ -19,9 +19,11 @@ TA for 14.02 (Principles of Macroeconomics), 2021
 TA for 14.27 (Economics and E-Commerce), 2019
 : This was my first chance to teach economics in a meaningful capacity. At the time I TA’ed, MIT Economics TAs were typically graduate students, and I’ve since learned that me being a TA helped pave the way for the multitude of MEng/undergrad TAs that exist now. While my TAing wasn't perfect (a few mistakes in office hours, imperfect recitation timing), I'd like to think I did a fairly good job in terms of helping students (overall rating 5.5/7). The most fun I had here was getting to design recitations to introduce students to game theory, and creating problems that related to my research.
 
+<!--
+
 Other past teaching
-: * MIT Global Teaching Labs — Italy, 2019. I taught several week-long courses on relativity and statistics to high schoolers in Rozzano! Read more reflections [here](https://espgtl.home.blog/author/paoloadajar/).
-: * Cybermath Academy/Star League Programs — Boston, 2016–2018. I started teaching at these camps in high school; they were my first experience with planning lessons, delivering lectures, and managing classrooms. Importantly, they helped me find my own teaching style (engaging + enthusiastic, empathetic, and using intuition) that I keep today and set me down the path of education.
+: * MIT Global Teaching Labs — Italy, 2019. I taught several week-long courses on relativity and statistics to high schoolers in Rozzano! Read more reflections [here](https://espgtl.home.blog/author/phiadajar/).
+: * Cybermath Academy/Star League Programs — Boston, 2016–2018. I started teaching at these camps in high school; they were my first experience with planning lessons, delivering lectures, and managing classrooms. Importantly, they helped me find my own teaching style (engaging + enthusiastic, empathetic, and using intuition) that I keep today and set me down the path of education. -->
 
 ## things i’ve made
 
