@@ -35,7 +35,7 @@ all diagrams are drawn by yours truly on my [mit ipad](https://mitadmissions.org
 
 But should we use a diameter for our circle constant? After all, most geometry classes introduce circles as
 
-> **circle** *noun*: a shape that is made of of the set of all points that are a fixed distance away (the radius) from a single point (the center)
+> **circle** *noun*: a shape that is made up of the set of all points that are a fixed distance away (the radius) from a single point (the center)
 
 or something similar.
 
@@ -152,7 +152,7 @@ I first encountered tau somewhere around 2013, just when I was starting high sch
 
 I intended for this section to be a lot longer to talk about lots of things with myself and tau: but I’m limited by the fact that 1) I entered high school literally 8 years ago, and remembering things from back then is very, very hard, and 2) I don’t have any photos from that time.⁠[08](https://mitadmissions.org/blogs/entry/in-honor-of-tau/#annotation-8) So instead, here’s a few anecdotes about me and tau from way back when.
 
-- My freshman year, someone in my math club gave me the nickname Tau-lo. It stuck around. One of my friends from high school still calls me Taulo everytime she sees me.
+- My freshman year, someone in my math club gave me the nickname Tau-lo. It stuck around. One of my friends from high school still calls me Taulo every time she sees me.
 - Tau was (and continues) to be a part of a lot of my online identity: Gmail profile picture, parts of my names on *many* platforms, etc. I’m currently considering changing my default username on sites, and many of my ideas still involve tau…
 - Searching through my Google hangouts chat history gives me hundreds of messages just about tau. Granted, some of these are non-math uses of tau (like for the [time constant of RC circuits](https://www.wikiwand.com/en/RC_time_constant)) but many of them are just people getting my attention in a groupchat or talking about the number.
 - At some point in high school, I had 100 digits of tau memorized and only a handful of pi digits memorized. That changed in my senior year, where as a part of my school’s math club, I judged the pi-reciting contest. I ended up accidentally learning a lot more digits of pi because I had to keep checking if people were saying pi correctly. Sigh.

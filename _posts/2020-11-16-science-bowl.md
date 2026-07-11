@@ -27,7 +27,7 @@ For the virtual 2020 finals, National Science Bowl decided that it would use a f
 
 In August, Science Bowl told regional coordinators that we’d use that same structure for our spring competition. With this announcement, our club, filled with science bowl alumni, wanted to figure out some way to recreate the joy of in-person science bowl in a pandemic world. Our solution? Run our high school invitational (virtually), and create a way to run head-to-head matches.
 
-There’s a lot of work involved in managing 80 volunteers and 40 teams with almost 200 students: creating rules for matches figuring out buzzer systems, managing communication with them, training volunteers, and creating Zoom links. How do you even manage that all?
+There’s a lot of work involved in managing 80 volunteers and 40 teams with almost 200 students: creating rules for matches, figuring out buzzer systems, managing communication with them, training volunteers, and creating Zoom links. How do you even manage that all?
 
 For me, that answer is delegation. I served as chair of [ESP (we run Splash, which ran this past weekend!)](https://mitadmissions.org/blogs/entry/two-thousand-high-schoolers/) last year, and one of the biggest lessons I learned was that directing something isn’t about doing everything yourself — it’s about making sure everything gets done. That shift in mentality is honestly what has kept me sane in being a leader without feeling like I need to dedicate every waking moment to a club.
 

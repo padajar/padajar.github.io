@@ -53,7 +53,7 @@ Ooh, a much busier schedule. Some highlights:
 
   > Last year, Evan and I invited ESP to follow our hearts (and stomachs) on a bread-with-cinnamon-butter-filled-Valentines’ Day⁠[01](https://mitadmissions.org/blogs/entry/four-weeks-in-the-life/#annotation-1) by going to Texas Roadhouse. It’s time for us all to renew our vows of love (for delicious bread) by heading back.
 
-  Seriosuly, the bread is *so* good.
+  Seriously, the bread is *so* good.
 
 - Burchard: Last year, I participated in the [Burchard Scholar](https://shass.mit.edu/undergraduate/scholarships/burchard) program at MIT, which “brings together distinguished members of the faculty and promising MIT sophomores and juniors who have demonstrated excellence in some aspect of the humanities, arts, or social sciences”. In-person, Burchard brought us all to a restaurant in Cambridge to eat yummy food and hear a seminar or other presentation by a member of the MIT faculty. Unfortunately, these dinners didn’t last too much longer (with COVID kicking us off a month later), but I enjoyed them while they lasted.
 

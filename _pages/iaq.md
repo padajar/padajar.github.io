@@ -12,8 +12,8 @@ title: infrequently asked questions
 submit an iaq via [this form](https://docs.google.com/forms/d/e/1FAIpQLSfx3GqkDudgWlpfbI7Pa0IrRgqp4pz1BKPDypk_HMdmEJdrDQ/viewform)! no promises i’ll answer… but given what i’ve responded to so far, there is very little i wouldn’t answer :P
 
 <div class="container" style="margin-top: -1em;">
-  <a href="#" id="expand-all" class="btn btn--primary">Expand All</a> <!-- Format button to use btn btn--primary class -->
-  <a href="#" id="collapse-all" class="btn btn--primary">Collapse All</a> <!-- Add button to collapse all -->
+  <a href="#" id="expand-all" class="btn btn--primary">expand all</a> <!-- Format button to use btn btn--primary class -->
+  <a href="#" id="collapse-all" class="btn btn--primary">collapse all</a> <!-- Add button to collapse all -->
   <div class="accordion">
     {% assign iaqs = site.data.iaq | reverse %}
     {% for iaq in iaqs %}

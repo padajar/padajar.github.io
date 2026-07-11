@@ -21,7 +21,7 @@ first, a talk-through of the puzzles that i had some form of significant interac
 
 #### this puzzle has been here the whole time (bubble cove, feeder)
 
-hooooly cow what an incredible puzzle to see to start the hunt. i *immediately* head to it with some other dropout nerds. had a small miststep to start (totally thought the first diagram was referencing [lisa gilroy as ellen degeneres in jaws](https://www.youtube.com/shorts/zsmxkpCpUK8)), but we quickly got past that. the sam reich cameo was absolutely *incredible* to boot. in hindsight, could have solved it sooner, but so it goes with puzzles. deeply enjoyed and also immediately forwarded to *all* the people i know who are into dropout[^1] (unlocked fri 1:19pm, solved fri 2:16pm.)
+hooooly cow what an incredible puzzle to see to start the hunt. i *immediately* head to it with some other dropout nerds. had a small misstep to start (totally thought the first diagram was referencing [lisa gilroy as ellen degeneres in jaws](https://www.youtube.com/shorts/zsmxkpCpUK8)), but we quickly got past that. the sam reich cameo was absolutely *incredible* to boot. in hindsight, could have solved it sooner, but so it goes with puzzles. deeply enjoyed and also immediately forwarded to *all* the people i know who are into dropout[^1] (unlocked fri 1:19pm, solved fri 2:16pm.)
 
 #### architecture of flow (old bark town, feeder)
 
@@ -29,7 +29,7 @@ i’m no hip-hop nerd, so most IDing was not done by me. had some fun going down
 
 #### welcome to mit (aviaria, feeder)
 
-helped out with this puzzle after finishing *architecture of flow*. most of the hard work had already been done, and i mostly helped out with a bit of error identification to get to the final answer (incorrect submissions include: deserters, desecrate, desperate, …). it really is fun when my knowledge of campus really comes in handy: love being able to look at a photo and tell you exactly which crosswalk it was take from. (unlocked fri 1:06pm, solved 3:14pm.)
+helped out with this puzzle after finishing *architecture of flow*. most of the hard work had already been done, and i mostly helped out with a bit of error identification to get to the final answer (incorrect submissions include: deserters, desecrate, desperate, …). it really is fun when my knowledge of campus really comes in handy: love being able to look at a photo and tell you exactly which crosswalk it was taken from. (unlocked fri 1:06pm, solved 3:14pm.)
 
 #### jumping to conclusions (kitty city, feeder)
 
@@ -47,7 +47,7 @@ looking at the solutions, this puzzle’s a good reminder for me to just write d
 
 #### acquisitions (hyperbolic space, feeder)
 
-you know how frequently something that i do for work comes up in a hunt? never. literally never. so getting a puzzle related to auction theory was *wild*.  i contribute various things (all-pay auction, IDing the common auctions), but we get stuck on finding the bidding strategies. some teammates get the “presidential” and “chemist” ahas after I head to sleep, and bash it out not too long after. (unlocked 7:01pm, solved 10:25pm.)[^d]
+you know how frequently something that i do for work comes up in a hunt? never. literally never. so getting a puzzle related to auction theory was *wild*.  i contribute various things (all-pay auction, IDing the common auctions), but we get stuck on finding the bidding strategies. some teammates get the “presidential” and “chemist” ahas after i head to sleep, and bash it out not too long after. (unlocked 7:01pm, solved 10:25pm.)[^d]
 
 #### shapes (elder drifts, feeder)
 
@@ -67,7 +67,7 @@ at sat 10:58am, someone has the core aha for this meta with CHA[KRA KE(-N)]NNEL,
 
 #### town of terror (kingdom of the puzzmon, meta)
 
-after several false starts on this (gloucester sea monster, town of salem, …) we hit the main aha. i start chipping in around 5:32pm sat, and 15 minutes later head over to my ipad to try and draw out the paths. some others on the team get it solved at 6:24pm sat. mostly, a puzzle that juts reminds me of the *deep* cuts that exist in hunts.
+after several false starts on this (gloucester sea monster, town of salem, …) we hit the main aha. i start chipping in around 5:32pm sat, and 15 minutes later head over to my ipad to try and draw out the paths. some others on the team get it solved at 6:24pm sat. mostly, a puzzle that just reminds me of the *deep* cuts that exist in hunts.
 
 #### dance of the bumblebee (atlas, feeder)
 
@@ -188,7 +188,7 @@ this is only the second year that NES has had strategy captains, and there’s c
 
   for the first time ever, our sign-up form had a survey to collect people’s thoughts on winning. by and large, people don’t feel ready yet, but are excited to do the things that would help them feel ready (i.e., writing more puzzles) — a few years ago, we started writing a NES hunt, and though momentum sputtered, we’re planning to get back on that this year with some internal potlucks and whatnot. 
 
-  there seems to be a decent amount of excitement to someday actually win. if all goes well, of starting to actively try and win come 2028+. of course, this is all thinking years in advance, and we’ll see how trying to write potlucks and hunts goes, and people would have to want to do things when we get there, and we’d have to actually *win* (certainly no guarantees on that), but there’s are worlds where we win in the next 5–10 years that aren’t very farfetched.
+  there seems to be a decent amount of excitement to someday actually win. if all goes well, of starting to actively try and win come 2028+. of course, this is all thinking years in advance, and we’ll see how trying to write potlucks and hunts goes, and people would have to want to do things when we get there, and we’d have to actually *win* (certainly no guarantees on that), but there are worlds where we win in the next 5–10 years that aren’t very farfetched.
   
   it’s a bit weird to think about it all. people make such a big deal about winning hunt, and writing the next one, in a way that feels a bit unsustainable as a practice. (i’ve heard some stories of people that took a year sabbatical from their jobs just to write hunt, though i doubt that’s something i’ll be able to do.) sure, it’s incredibly grand in scale and there are thousands and thousands of people hours needed to write and test hundreds of puzzles. but also, between the ESP and theater backgrounds of our leadership team, i feel like we’d be able to figure it out.
 

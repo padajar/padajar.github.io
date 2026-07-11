@@ -47,7 +47,7 @@ gallery3:
     title: "oh, how surprising"
   - url: /assets/images/mit-grad-2.png
     image_path: /assets/images/mit-grad-2.png
-    alt: "38% math/compsci, 20% arch/engr, 12& scientists, 12% consultant, 9% finance"
+    alt: "38% math/compsci, 20% arch/engr, 12% scientists, 12% consultant, 9% finance"
     title: "whoa, so much dispersion /s"
   - url: /assets/images/mit-grad-3.png
     image_path: /assets/images/mit-grad-3.png
@@ -73,7 +73,7 @@ to be clear, “finished” is a *very* strong word. there’s lots of words tha
 
 amidst the backdrop of all of this academic writing looms one big question: what do i want to do next with my life?
 
-it’s funny, you know. almost exactly six years ago, i was in a very similar boat, thinking about what i wanted to do after undergrad — grad school, work for a while, and many, many other options. i started blogging the summer before my senior year of college, and [on choices, arbitrariness, and storytelling](https://padajar.com/2020/07/29/choices-arbitraryness-storytelling/) was the first post i felt really proud of. it’s the first part of a (spiritual) trilogy[^4] of posts documenting my eventual choice of being in grad school, followed up by [on success, meaning, and time](https://mitadmissions.org/blogs/entry/on-success-meaning-and-time/) and [leaning in](https://mitadmissions.org/blogs/entry/leaning-in/), in which i actually choose to go to grad school. rereading these posts, it’s so interesting to see the thoughtfulness that past me put into these decisions (though of course, with some amount of wide-eyed naivete[^5]), the values i was using to choose lives, the things i was unsure about that since have come to pass. all of the ways that the person i was back then have led to the person that i am now.
+it’s funny, you know. almost exactly six years ago, i was in a very similar boat, thinking about what i wanted to do after undergrad — grad school, work for a while, and many, many other options. i started blogging the summer before my senior year of college, and [on choices, arbitrariness, and storytelling](https://padajar.com/2020/07/29/choices-arbitraryness-storytelling/) was the first post i felt really proud of. it’s the first part of a (spiritual) trilogy[^4] of posts documenting my eventual choice of being in grad school, followed up by [on success, meaning, and time](https://mitadmissions.org/blogs/entry/on-success-meaning-and-time/) and [leaning in](https://mitadmissions.org/blogs/entry/leaning-in/), in which i actually choose to go to grad school. rereading these posts, it’s so interesting to see the thoughtfulness that past me put into these decisions (though of course, with some amount of wide-eyed naivete[^5]), the values i was using to choose lives, the things i was unsure about that since have come to pass. all of the ways that the person i was back then has led to the person that i am now.
 
 of course, there’s many ways in which i have changed, too. a lot more understanding about myself and my values. lots of new thoughts about identity, particularly surrounding gender. the ways in which i spend time alone and with others takes on different forms. i’m doing *way* better at prioritizing having a work-life balance (which to be honest, i don’t think i really had in college). to be clear, i’m still doing so many things, and that’s also a way in which i’ve changed — i’ve picked up so many new hobbies, including dnd, puzzles, acting, musicals, and much more.
 
@@ -137,7 +137,7 @@ it’s weird being a person who has preferences over places. i think this wasn�
 
 that’s not to say that it’s still true — i still find home in the many, many places that are filled with my people — but boston is now [the longest i’ve lived anywhere](https://mitadmissions.org/blogs/entry/ten/). it stands to reason there’s a lot of those connections here: the high school and college friends still in the area, the friends i’ve made through them, the theater communities i’ve joined. beyond that, boston has grown on me as a *place*. filled with people who care about community and each other (while cities are filled with people, i think boston truly feels like people *live* there in a way that stands out). there’s the fact that i know this place in and out, and can get to anywhere on a bike. silly things, like having “ice cream crawls” between all the specialty ice cream stores.
 
-this of course, isn’t to say i can’t find other communities in other places that, that i wouldn’t get this level of familiarity with somewhere else — but when my thoughts wander to the idea of living in a different place, it inevitably becomes a comparison of what i’d miss about boston. 
+this of course, isn’t to say i can’t find other communities in other places that i wouldn’t get this level of familiarity with somewhere else — but when my thoughts wander to the idea of living in a different place, it inevitably becomes a comparison of what i’d miss about boston. 
 
 when i was choosing to go to grad school, i did think about the fact that it would be good for me to spend time as an adult living somewhere *other* than boston. now that it’s time to make that choice, i’m not sure that i want that anymore. 
 

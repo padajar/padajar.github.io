@@ -47,7 +47,7 @@ Someone trying to force a metaphor may say it represents the fact that we need t
 
 Why do we do things that we don’t like?
 
-* Sometimes, it’s because we have to. I mean, just take the phrase “grunt work”. We we might not like it, but we need to meet some deadline, or pass some class, or make something happen. More broadly, this can be because of some sense of *obligation* to someone else, an organization, society at large. Of course, that obligation can be real or fake — take, for example, the fear that you’ll be judged so harshly if every detail on your presentation isn’t picture perfect, or if you told a friend that you’d go to their performance even if you don’t enjoy ballet.
+* Sometimes, it’s because we have to. I mean, just take the phrase “grunt work”. We might not like it, but we need to meet some deadline, or pass some class, or make something happen. More broadly, this can be because of some sense of *obligation* to someone else, an organization, society at large. Of course, that obligation can be real or fake — take, for example, the fear that you’ll be judged so harshly if every detail on your presentation isn’t picture perfect, or if you told a friend that you’d go to their performance even if you don’t enjoy ballet.
 * Sometimes, it’s because there’s something on the other side of it that we want. That last example could fit in this bucket if you want to be good friends with someone, and this is a way to show that you value that friendship. Maybe it’s that you work out even though you know you’ll be uncomfortable being sore the next day. Or taking medicine to feel better even if it might taste bad.[^1]  Or sitting at a piano doing drills because you want to be better at it. Or, for some grad students — grinding away on research in hopes of landing a job you really like.
 * Sometimes, it’s because we haven’t thought about the fact that we don’t like it enough, and never bothered to change, or we’re too stubborn to replace it. Like a shirt that you hang onto while being in denial of the fact that it’s becoming increasingly threadbare. Or the stereotypical “mid-life crisis” , where you look up one day and realize you’re not happy being a cog in a machine. 
 
@@ -73,7 +73,7 @@ But I do try to avoid that feeling as much as I can. Sometimes, I’ll have a da
 
 Every year, I get together with about 75 other people, many of them friends from my undergrad dorm, and do the MIT Mystery Hunt. If you’ve never heard of it (or puzzle hunts before), each of the following could reasonably be a puzzle you encounter:
 
-* You’re trying to solve a crossword puzzle. But they neglected to attach a diagram. Also, each clue has an extra letter. So does each entry. But somehow, you need put it together.
+* You’re trying to solve a crossword puzzle. But they neglected to attach a diagram. Also, each clue has an extra letter. So does each entry. But somehow, you need to put it together.
 * A jigsaw puzzle, but the picture is blank, and it can be made 6 different ways, and each way it gets made has a hidden message.
 * A set of assorted pictures that seemingly have nothing to do with each other. What you didn’t know at first was that each image obliquely clues a song by Neil Ciciriega.
 
@@ -83,7 +83,7 @@ MIT Mystery Hunt is the largest, hardest, and wildest hunt in existence. It runs
 
 It’s absurd. 
 
-The simple goal, of course, is to finish. (Our team’s managed to do it twice to date.) However, finishing first comes with an extra “prize”: writing the next year’s hunt. The phrase most often used when you learn that someone’s one is “congratudolences”. Writing hunt is a whole year of work for hundreds of people. I’ve heard some stories of some people (usually a software engineer who’s ready for a sabbatical) who quit their jobs *just* because they’re running hunt.
+The simple goal, of course, is to finish. (Our team’s managed to do it twice to date.) However, finishing first comes with an extra “prize”: writing the next year’s hunt. The phrase most often used when you learn that someone’s won is “congratudolences”. Writing hunt is a whole year of work for hundreds of people. I’ve heard some stories of some people (usually a software engineer who’s ready for a sabbatical) who quit their jobs *just* because they’re running hunt.
 
 The big question to ask of course, is why? Why would I subject myself to this? It’s basically 3 straight days of keeping my brain fully on, toiling away at puzzles, helping guide our team’s strategy, getting way less sleep than I normally do, and on occasion, dealing with other’s slightly shot emotional states when we both are sleep deprived, tired, cranky, and feeling hopelessly stuck.
 
@@ -114,7 +114,7 @@ At the end of the day, there is just something fun about it that I can’t pin d
 A few things that I take active discomfort in that is very hard to stop feeling:
 
 * Specific types of self-reflection. This largely comes about when I’m forced to listen to myself — like many people, hearing a recording of my own voice just sounds *wrong*. I’ve gotten over this somewhat because of a cappella and voice training, for which improvement largely relies on listening to yourself repeatedly. And these days, I think I’m fairly fine with doing this, but it still feels *wrong* whenever I hear it.
-* Being seen negatively by others — I mean, who doesn’t? But in particular, I think i really dislike being seen as someone who doesn’t care about others, someone who isn’t competent at the things I want to be competent in (largely socioemotional things; I’m very fine with asking questions when I don’t understand something), and someone who is not friendly.
+* Being seen negatively by others — I mean, who doesn’t? But in particular, I think I really dislike being seen as someone who doesn’t care about others, someone who isn’t competent at the things I want to be competent in (largely socioemotional things; I’m very fine with asking questions when I don’t understand something), and someone who is not friendly.
 * Some things related to gender and transitioning — this isn’t the right place to talk about these things, but what’s true for many people is also true for me, in broad strokes.
 
 ---

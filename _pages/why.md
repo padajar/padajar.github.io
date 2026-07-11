@@ -1,6 +1,6 @@
 ---
 permalink: /why/
-title: "Why?"
+title: "why?"
 search: false
 ---
 

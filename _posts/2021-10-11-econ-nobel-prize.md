@@ -22,7 +22,7 @@ Some of you may have heard the news already, but if you haven’t: on Monday, Jo
 
 Much research that happens in economics is very different from what you might see in AP Micro or AP Macro. Economists study the economy very broadly: [central banking and interest rates and stock markets](https://news.mit.edu/2020/helping-consumers-crisis-0625), yes, but also [kidney exchange “markets” without money](https://news.mit.edu/2019/optimizing-kidney-donation-1105), [creating environmental policy with respect to climate change](https://news.mit.edu/2021/clare-balboni-environmental-economics-0223), [health insurance](https://news.mit.edu/2013/the-health-insurance-markets-of-the-very-near-future-0102), and so much more.
 
-Many economists do work that relates to causal relationships.⁠[03](https://mitadmissions.org/blogs/entry/joshua-angrist-shares-the-nobel-prize/#annotation-3) In essence, what we’d like to understand the chains of cause-and-effect in the economy. Many questions are of the form of “What is the impact of X policy on Y?” where X and Y can be, quite literally, anything:
+Many economists do work that relates to causal relationships.⁠[03](https://mitadmissions.org/blogs/entry/joshua-angrist-shares-the-nobel-prize/#annotation-3) In essence, what we’d like to understand is the chains of cause-and-effect in the economy. Many questions are of the form of “What is the impact of X policy on Y?” where X and Y can be, quite literally, anything:
 
 - the effect of unemployment insurance on the amount of time unemployed
 - the effect of free pre-school on schooling and wages later in life
@@ -118,7 +118,7 @@ But the draft wasn’t that clean. There are people who were drafted but didn’
 
 figure 5: red = didn’t serve, blue = served. some undrafted do serve, but more people in the drafted group serve.
 
-So taking the difference of meaning earnings between those who were drafted and those who were undrafted won’t be perfect. It won’t get us the *causal* treatment effect of military service. It’ll be “muddled” because of the fact that there was imperfect compliance. So figuring out the treatment in a straightforward way isn’t so easy.
+So taking the difference of mean earnings between those who were drafted and those who were undrafted won’t be perfect. It won’t get us the *causal* treatment effect of military service. It’ll be “muddled” because of the fact that there was imperfect compliance. So figuring out the treatment in a straightforward way isn’t so easy.
 
 What I’m going to show below is that it *is* possible to find a treatment effect from our data: **the effect of military service on wages for people compelled to serve only because of the lottery**. I’ve tried to make the derivation as clear as possible, but if you’re not interested in it, skip past the equation marked (⋆).
 
@@ -139,7 +139,7 @@ Of course, it’s impossible for us to exactly determine who these people are ac
 
 Armed with this knowledge, we can use some math (and using the notation that P(⋅) is the fraction of the population who were in some group, i.e., the probability that a randomly chosen individual is in that group) to rewrite the difference in the mean earnings of drafted and non-drafted people as
 
-Mean Earnings of Drafted–Mean Earnings of Undrafted =Mean Earnings of Drafted Always-Takers⋅P(Always-Taker) +Mean Earnings of Drafted Compliers⋅P(Complier) +Mean Earnings of Drafted Never-Takers⋅P(Never-Taker) –Mean Earnings of Undrafted Always-Takers⋅P(Always-Taker) –Mean Earnings of Undrafted Compliers⋅P(Complier) –Mean Earnings of Undafted Never-Takers⋅P(Never-Taker) =Mean Earnings of Drafted Compliers⋅P(Complier) –Mean Earnings of Unrafted Compliers⋅P(Complier) =P(Complier)(Earnings of Drafted Compliers–Earnings of Undrafted Compliers)
+Mean Earnings of Drafted–Mean Earnings of Undrafted =Mean Earnings of Drafted Always-Takers⋅P(Always-Taker) +Mean Earnings of Drafted Compliers⋅P(Complier) +Mean Earnings of Drafted Never-Takers⋅P(Never-Taker) –Mean Earnings of Undrafted Always-Takers⋅P(Always-Taker) –Mean Earnings of Undrafted Compliers⋅P(Complier) –Mean Earnings of Undrafted Never-Takers⋅P(Never-Taker) =Mean Earnings of Drafted Compliers⋅P(Complier) –Mean Earnings of Undrafted Compliers⋅P(Complier) =P(Complier)(Earnings of Drafted Compliers–Earnings of Undrafted Compliers)
 
 In other words, the difference in means is exactly the fraction of the population that are compliers multiplied by the difference in earnings between compliers who drafted (and thus served) and compliers who weren’t drafted (and so didn’t serve). Note that the second term in the multiplication is *exactly* the treatment effect that I claimed above: the effect of military service on wages for the people who were compliers! All that we’d need to do is to divide by the fraction of the population that are compliers. *That* number is easy to find: it’s just the fraction of people who served when drafted, subtracting the fraction of people who served when undrafted.
 

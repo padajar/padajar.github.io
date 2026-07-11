@@ -12,7 +12,7 @@ classes: wide
 
 Hi! Welcome to my website! (And the first blog post on it!)
 
-I'm still not sure what exactly what I want this website to be. Right now, I'm setting it up almost like an extended resume. One with more life, flair, personality, and actual thoughts about life. One that's more like *actual* me. Humans are much more than the positions they hold and the projects they do throughout life.
+I'm still not sure what exactly I want this website to be. Right now, I'm setting it up almost like an extended resume. One with more life, flair, personality, and actual thoughts about life. One that's more like *actual* me. Humans are much more than the positions they hold and the projects they do throughout life.
 
 An extension of how this website will function is how this blog will function. I'm hoping that I can actually use this blog as a way of sharing my thoughts about life, what I'm up to, and more.
 

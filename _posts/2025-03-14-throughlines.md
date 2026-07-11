@@ -105,6 +105,6 @@ when i talk about agency, and self-understanding, i think this really is what i�
 
 i’m a little over time, as it is now 5:24PM, but i’m giving myself a little leeway from adding photos and getting distracted showing some people some photos and one of the grad school friends coming through the kitchen to grab some coffee. we all need a little leeway sometimes, and deadlines often are just recommendations :) [note: this is not advice for your mit app. that one is not a recommendation.]
 
-it’s been fun to see this post come out of absolutely nothing in the last hour, to watch it grow and flourish and become something. and it’s been fun reading everyone’s posts this week, seeing all the ways that the bloggers have changed from their undergrad days, and yet, are still unmistakably *them*many years later.
+it’s been fun to see this post come out of absolutely nothing in the last hour, to watch it grow and flourish and become something. and it’s been fun reading everyone’s posts this week, seeing all the ways that the bloggers have changed from their undergrad days, and yet, are still unmistakably *them* many years later.
 
 wishing all of you the best, and excited to keep seeing the ways in which *everyone* grows :)

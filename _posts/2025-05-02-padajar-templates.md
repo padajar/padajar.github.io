@@ -27,4 +27,4 @@ these templates are now available on github under a mit license. a few extra des
 * ashamed to admit it took far too long to figure out where exactly to put this in my texlive installations. oof.
 * yes, it is based on the same orange theme as my website. however, given the thinness of the font, i’ve also made it just a _tad_ darker.
 
-anyways, hope this gets some mileage from some poeple!
+anyways, hope this gets some mileage from some people!

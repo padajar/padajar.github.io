@@ -164,9 +164,9 @@ it is the same feeling when i look back at esp or science bowl or other formativ
 
 *hadestown* was the first musical i saw after covid lockdowns ended. a lot had happened in those intervening 22 months. i’d moved off campus. started (and stopped) learning guitar. finished undergrad. bought a bike. started grad school. stopped dating my partner of a few years.
 
-my second watching of this show was very different than the first. while of course, it was the same musical as i had seen the first time, it also wasn’t. sure, there were all of these surface changes — orpheus changing from acoustic to electric guitar, hermes seeming a bit more like a car salesman, hades singing an octave up. but becuase *i* was not the same person, i experienced it in a completely different way.
+my second watching of this show was very different than the first. while of course, it was the same musical as i had seen the first time, it also wasn’t. sure, there were all of these surface changes — orpheus changing from acoustic to electric guitar, hermes seeming a bit more like a car salesman, hades singing an octave up. but because *i* was not the same person, i experienced it in a completely different way.
 
-the penultimate song of *hadestown* is a reprise of its first. the musical, as hermes promised, has not ended well for orpheus and euridyce.
+the penultimate song of *hadestown* is a reprise of its first. the musical, as hermes promised, has not ended well for orpheus and eurydice.
 
 > It’s a sad song
 > It’s a sad tale

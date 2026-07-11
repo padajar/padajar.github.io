@@ -76,7 +76,7 @@ I go to my recitation for 18.200 (Discrete Mathematics), where we try to prove [
 
 I sit in the ESP office for a while between classes. We get a delivery of a hundred star-plushies as giveaways for our volunteers. I leave the package closed so that the people who ordered it can see them first. I make documentation for how to use our (physical) phones, since the software changed last summer and we ran into issues at our last program where our phones were accidentally forwarded to a random number in Las Vegas. We also get a delivery of t-shirts that we’re going to give out to students and teachers at HSSP. A few hundred prints of sloth shirts designed by members of ESP.
 
-I also have Intro to Acting in the afternoon, where we do physical improvisation, tell stories, and pretend to be an animal. Good, relaxing fun. That class is a way for me to just spent 2 hours not thinking about anything else.
+I also have Intro to Acting in the afternoon, where we do physical improvisation, tell stories, and pretend to be an animal. Good, relaxing fun. That class is a way for me to just spend 2 hours not thinking about anything else.
 
 After class, around 5 PM, I walk over to one of the piano rooms on the 4th floor of the Student Center, just down the hall from the ESP office, to try and play some songs and relax before the week ahead. With Spark so soon, a few assignments and tests ahead of me, I was feeling very busy. And I hadn’t quite gotten the chance to relax fully, with my last few weekends being taken up by running Science Bowl and volunteering at Ocean Science Bowl. So, I headed to a room where I could just go and sit and be with music for a little break.
 
@@ -294,7 +294,7 @@ My girlfriend and I were going to go on a date on Friday. But in light of last n
 
 There’s a particular moment I remember where we were talking about the worst things that could happen, and me just being scared about bringing COVID home. I hear rumors about a student at MIT who had been in contact with someone who had been in contact with someone who caught COVID. The uncertainty is awful, because at this point, there is basically no infrastructure for testing for COVID at MIT. (Or anywhere else, for that matter.)
 
-I’m not a person who tends to cry very often. Have probably only cried 2 or 3 times at college. But in the span of the past few days, I don’t even know many times I have.
+I’m not a person who tends to cry very often. Have probably only cried 2 or 3 times at college. But in the span of the past few days, I don’t even know how many times I have.
 
 Remember how I was originally going to try to pack things into 4 boxes? I end up packing my things into 15 boxes⁠[11](https://mitadmissions.org/blogs/entry/coronavirus-one-year-later/#annotation-11) from MIT and the moving company. I have no idea what I would have done with my original plan of just 4 boxes.
 
@@ -312,7 +312,7 @@ We walk over to Next and we load up my suitcases into an uber. I walk out and se
 
 It was all just so sudden. And now I’m on this plane. And now I’m gone. 
 
-*Past-me uses the word sudden here, and I think that’s an apt description of how my experiences over those last few days feel. How it all feels like a hurried wrap-up of a* *sitcom*⁠[12](https://mitadmissions.org/blogs/entry/coronavirus-one-year-later/#annotation-12) *where they just want to get it over with, forcing us to conclude and say our goodbyes even through we weren’t ready to do that yet. When I think about those last few days I can’t pick apart what happened on one day vs. another. Multiple days were filled with nothing but packing, but the details all gloss together.* 
+*Past-me uses the word sudden here, and I think that’s an apt description of how my experiences over those last few days feel. How it all feels like a hurried wrap-up of a* *sitcom*⁠[12](https://mitadmissions.org/blogs/entry/coronavirus-one-year-later/#annotation-12) *where they just want to get it over with, forcing us to conclude and say our goodbyes even though we weren’t ready to do that yet. When I think about those last few days I can’t pick apart what happened on one day vs. another. Multiple days were filled with nothing but packing, but the details all gloss together.* 
 
 *I think that part of it is that I never sat down to process everything that was happening in those last few days. I got home, took a long shower to disinfect, and went to sleep. While I did spend a little bit of time trying to write this post, the fact that I didn’t finish it suggests that I didn’t want to think about the hurt, the painful experiences of the week that we got kicked off. I have no sense of closure from those past few days, and I don’t think I’ll ever understand the full picture of what was happening.*
 
@@ -321,7 +321,7 @@ It was all just so sudden. And now I’m on this plane. And now I’m gone.
 ### misc. notes to include somewhere:
 
 - Friends worrying about canceling spring break trips after the announcement on Tuesday (spring break started on 3/14). But the Thursday email made everyone forget about that and made people just want to get out as quick as they could. Get back home.
-- Do I self-quarantine? How do I plan for going home, especially when I don’t know how long I would stay? Still don’t know if my summer internship will be in person in not
+- Do I self-quarantine? How do I plan for going home, especially when I don’t know how long I would stay? Still don’t know if my summer internship will be in person or not
 - Seniors. Wow. Goodbye. I don’t know how many seniors that I know that I didn’t get the chance to say goodbye to.
 - Every conversation that I had seemed to revolve around coronavirus
 - When Spark got canceled, it was such a loss. Emergency meetings. All of the hugs. Now it’s the least of everyone’s worries. Woke up today to leave and it was Spark and it would have been such a perfect day for spark.⁠[13](https://mitadmissions.org/blogs/entry/coronavirus-one-year-later/#annotation-13) But no, instead campus was wild and everyone was just moving out as quick as they could

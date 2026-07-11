@@ -66,7 +66,7 @@ Previous Next
 
 These trips took up a lot (if not all) of my weekends, and so on the surface, it seems like I care a lot about hiking. But I don’t particularly identify as a hiker — so why did I do this all?
 
-Well, the first Blue Hills trip was intended as a way of relaxation and meditation; a time to be alone and disconnected, free to just think for a bit with some space away from the world. The second was a bit of a “prove to myself that I can”, given how long/difficult that it was, and also a time to hang out with my roommates. The final trip, I was invited by an economics friend, and I said yes because it seemed fun to explore hikes a bit further away and to hang out with new people in my department. When it comes down to it, I feel like I’ve been going on these hikes just because … I wanted to. And so long as I keep enjoying it, I can see myself continuing to hikes for the rest of my adult life.
+Well, the first Blue Hills trip was intended as a way of relaxation and meditation; a time to be alone and disconnected, free to just think for a bit with some space away from the world. The second was a bit of a “prove to myself that I can”, given how long/difficult that it was, and also a time to hang out with my roommates. The final trip, I was invited by an economics friend, and I said yes because it seemed fun to explore hikes a bit further away and to hang out with new people in my department. When it comes down to it, I feel like I’ve been going on these hikes just because … I wanted to. And so long as I keep enjoying it, I can see myself continuing to hike for the rest of my adult life.
 
 But there are a few things that have been nagging at me as I start turning hiking into a hobby.
 

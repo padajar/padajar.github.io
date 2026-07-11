@@ -19,7 +19,7 @@ I spent this summer in a relatively “chill” state. My [UROP](https://mitadmi
 
 
 
-Summers also nice because I get to do things that I wouldn’t have time for otherwise. I read books! Watched YouTube! Began Avatar: The Last Airbender! Played too much [SET](https://setwithfriends.com/)!
+Summer is also nice because I get to do things that I wouldn’t have time for otherwise. I read books! Watched YouTube! Began Avatar: The Last Airbender! Played too much [SET](https://setwithfriends.com/)!
 
 But summer is over; It is fall, and I’ve started wearing jackets outside and the leaves will soon stop being green. And also there’s this thing called being an MIT student that takes up a little bit of my time.
 
@@ -32,7 +32,7 @@ But summer is over; It is fall, and I’ve started wearing jackets outside and t
 
 This is a post about feeling hosed and wishing it would go away. The original draft of this post felt a bit too melodramatic, and that’s not what I want. I don’t feel completely overwhelmed. People always talk about [drinking from the firehose](http://hacks.mit.edu/Hacks/by_year/1991/fire_hydrant/) at MIT, but I don’t feel like I’m drowning in it. I’m not in [meltdown](https://mitadmissions.org/blogs/entry/meltdown/) mode yet. I still feel "fine".
 
-Life outside of classes has been messy, but it’s getting better. Lots of my time has been spent assembling furniture and trying to put things into square bins! My room is 95% set up (save for some wall decorations) and so I this area of life will hopefully much fewer hours going forward.
+Life outside of classes has been messy, but it’s getting better. Lots of my time has been spent assembling furniture and trying to put things into square bins! My room is 95% set up (save for some wall decorations) and so this area of life will hopefully take much fewer hours going forward.
 
 Besides that, there’s a laundry list of other things that are on my mind now. I’ve got extracurriculars to help out with by emceeing for fun events and running meetings. I have grad school apps that are being written much more slowly than I hoped they would be. There’s worrying about whether a singular cough is a dry throat or a certain virus. There’s trying to find time to blog, trying to find time to see friends, and so much more.
 

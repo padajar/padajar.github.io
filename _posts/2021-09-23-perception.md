@@ -60,7 +60,7 @@ Maybe I should read more philosophy. I’ve never been one to actually read Sart
 
 Each person that knows me has a different version of myself in their head. There are millions of Paolos out there, and they can never all be reconciled.
 
-Around different people, I tend to act very, very differently. It’s something that I’ve known for many different years, even back in middle school, when my older sister noted my code-switched.
+Around different people, I tend to act very, very differently. It’s something that I’ve known for many different years, even back in middle school, when my older sister noted my code-switching.
 
 I’ve never been one to have a strong, core friend group, instead preferring to “float” between different social spheres. There’s the people who see the ESP side of me, trying to be a semi-knowledgeable old person; or the people I meet in economics contexts, where I do research on X and Y and like teaching about Z; or the people I know from high school, who remember me as the science bowl kid (among other things). To others, I’m the (former) roommate, I’m the club member who disappeared after a while, I’m the person who started a tape mural, I’m the person who liked asking questions, I’m just the blogger you read on this website.
 

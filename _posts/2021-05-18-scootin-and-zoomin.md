@@ -68,7 +68,7 @@ what a cool kid amirite. (this is the only photo I can find with me and my scoot
 
 The A6 model has a few upgrades — anti-rattle technology, somewhat bigger, a refreshed paint design. Last year I used it for all of my daily commutes to the economics department. This year, it’s seen much more use as my grocery transportation device; imagine a canvas bag hanging on each side of the handle, and me scooting (very slowly) back home :)
 
-Scooters have their advantages over bikes. They’re much easier to store; I can just bring it inside classrooms, without needing to lock it up. They’re much lighter, easier to maintain, and can fold down really small. The biggest benefit of a bike is that they are much more professional than scooters and that travel faster than scooters. (But scooters are faster than you think! I usually travel about two to three times walking speed.)
+Scooters have their advantages over bikes. They’re much easier to store; I can just bring it inside classrooms, without needing to lock it up. They’re much lighter, easier to maintain, and can fold down really small. The biggest benefit of a bike is that they are much more professional than scooters and that they travel faster than scooters. (But scooters are faster than you think! I usually travel about two to three times walking speed.)
 
 A few weeks ago, I decided to [stay in Cambridge for the foreseeable future](https://mitadmissions.org/blogs/entry/leaning-in/). And so I started thinking about upgrading my transportation; after all, I *probably* shouldn’t be the grad student who scooters everywhere. With people graduating and leaving the area, I figured that there must be someone approximately my height who was selling their bike. I procrastinated on thesis work by scrolling through Craigslist and Facebook Marketplace to see what was for sale. And then, I found *the one*.
 
@@ -110,6 +110,6 @@ I do not claim to be an expert in bikes after my 2 weeks of having a bike. (Hope
 - MIT also has places to *fix* bikes on-campus, free for anyone to use. While the Fix-it stations aren’t all equally stocked (some have parts missing and/or broken), each is supposed to have a working pump, screwdrivers, wrenches, and tire levers.
 - If you don’t want the hassle of owning a bike, MIT offers subsidized passes to [Bluebikes](https://web-cert.mit.edu/facilities/transportation/bluebikes.html), a bike-sharing program that exists throughout Cambridge and Boston. These subscriptions cost $40/year, and there are many places to pick up/drop off these bikes throughout campus! While Bluebikes are much cheaper than owning a bike, especially for a few years, you are beholden to which stations have bikes available (which often isn’t a problem) and because you have to check bikes back into a station, you’re also beholden to where stations *are* (which can be somewhat annoying).
 
-My days of scootering aren’t totally behind me, though; I still I’ll use my A6 for getting around to places nearby without needing to take out my bike. But for now, here is on to new adventures, this time on an exciting orange bike :)
+My days of scootering aren’t totally behind me, though; I’ll still use my A6 for getting around to places nearby without needing to take out my bike. But for now, here is on to new adventures, this time on an exciting orange bike :)
 
  

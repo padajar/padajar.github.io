@@ -23,7 +23,7 @@ i play on hard mode! the restriction makes it a bit more fun i think
 
 a more normal day for me
 
-![wordle 231, greens squares look like w. text says ](https://mitadmissions.org/wp-content/uploads/2022/02/image-20220213120644769.png)
+![wordle 231, green squares look like w. text says ](https://mitadmissions.org/wp-content/uploads/2022/02/image-20220213120644769.png)
 
 a particularly hard day
 
@@ -68,7 +68,7 @@ The game roughly goes like this: someone thinks of a word, and then everyone tri
 … and so on, until the word is guessed.
 
 French Toast isn’t a completely novel idea. People at my high school played
-“Karl Mark or French Toast”. There’s a board game that is based on the same concept that is literally called [“French Toast”](https://www.kickstarter.com/projects/peterchayward/french-toast). In fact, the creator of Semantle, [David Turner](https://novalis.org/),⁠[02](https://mitadmissions.org/blogs/entry/on-wordle-french-toast-and-copyright-law/#annotation-2) links to [a page that describes French Toast](http://www.topped-with-meat.com/connector/frenchtoast.html) in a way very similar to above. 
+“Karl Marx or French Toast”. There’s a board game that is based on the same concept that is literally called [“French Toast”](https://www.kickstarter.com/projects/peterchayward/french-toast). In fact, the creator of Semantle, [David Turner](https://novalis.org/),⁠[02](https://mitadmissions.org/blogs/entry/on-wordle-french-toast-and-copyright-law/#annotation-2) links to [a page that describes French Toast](http://www.topped-with-meat.com/connector/frenchtoast.html) in a way very similar to above. 
 
 This last page is on a relatively amusing site — last updated in 1999, a relic of a bygone era of the internet. Some highlights:
 

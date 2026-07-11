@@ -1,9 +1,9 @@
 ---
 permalink: /secret/
-title: "The Secret Page"
+title: "the secret page"
 search: false
 ---
 
-Welcome to the secret page on my website. Kudos if you found this organically. Less kudos if you found this by stalking my site’s Github repo.
+welcome to the secret page on my website. kudos if you found this organically. less kudos if you found this by stalking my site’s github repo.
 
-Sorry though, I don’t have actually anything fun to share with you on this page. Maybe one day I’ll figure out something to put here. Let me know if you have suggestions…
+sorry though, i don’t actually have anything fun to share with you on this page. maybe one day i’ll figure out something to put here. let me know if you have suggestions…
