@@ -3,3 +3,8 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+_drafts/2024-09-08-mdrd-2.md
+_includes/author-profile-custom-links.html
+assets/papers/w26512.pdf
+favicon_old.ico
+.vscode/settings.json
