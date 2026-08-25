@@ -1,0 +1,24 @@
+{%- assign e = include.e -%}
+{%- assign eid = e.anchor -%}
+{%- if eid == nil or eid == "" %}{% assign eid = e.slug %}{% endif -%}
+{%- if eid == nil or eid == "" %}{% assign eid = e.path | split: "/" | last | split: "." | first %}{% endif -%}
+<div class="entry" id="{{ eid }}">
+<h3 class="entry__title">{{ e.title }}</h3>
+{%- if e.meta or e.links %}
+<p class="entry__meta">{{ e.meta | markdownify | remove: "<p>" | remove: "</p>" | strip }}
+{%- for l in e.links %}{% if e.meta or forloop.first == false %} · {% endif %}<a href="{{ l.url }}">{{ l.label }}</a>{% endfor %}</p>
+{%- endif %}
+{%- if e.summary %}
+<div class="entry__summary">{{ e.summary | markdownify | strip }}</div>
+{%- endif %}
+{%- if e.panels and e.panels.size > 0 %}
+<div class="entry__seg{% if e.panels.size == 1 %} entry__seg--one{% endif %}" role="group" aria-label="more about {{ e.title | escape }}">
+{%- for p in e.panels %}<button type="button" aria-pressed="false" aria-controls="{{ eid }}-p{{ forloop.index }}"{% if p.tone %} data-tone="{{ p.tone }}"{% endif %}>{{ p.label }}</button>{% endfor %}</div>
+{%- for p in e.panels %}
+<div class="entry__panel{% if p.tone %} entry__panel--{{ p.tone }}{% endif %}" id="{{ eid }}-p{{ forloop.index }}">
+<span class="entry__panel-label">{{ p.label }}</span>
+{{ p.body | markdownify | strip }}
+</div>
+{%- endfor %}
+{%- endif %}
+</div>

@@ -40,14 +40,22 @@ include:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# NOTE: defining exclude replaces jekyll's defaults, so the defaults are re-listed here.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - gemfiles
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .sass-cache
+  - .jekyll-cache
+  - package.json
+  - README.md
+  - _to_delete
+  - admin
 
 # Plugins (previously gems:)
 plugins:
@@ -60,6 +68,7 @@ plugins:
 
 head_scripts:
   - /assets/js/accordion.js
+  - /assets/js/entry.js
 
 author:
   name    : "phi adajar"
@@ -126,6 +135,8 @@ collections:
   posts:
     output: true
     permalink: /:year/:month/:day/:title/
+  entries:
+    output: false   # rendered only through _includes/entry.html
 
 # Feed settings
 feed:

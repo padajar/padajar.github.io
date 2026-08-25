@@ -1,0 +1,156 @@
+/* entry cards — used on /economics, /education, /more (see _includes/entry.html) */
+
+/* the theme sets `.page__content p, li, dl { font-size: 1em }`, which outranks a
+   lone class — so anything here that lands on a <p> needs two classes to win. */
+.page__content .entry-group {
+  margin: 2em 0 0.8em;
+  font-family: $monospace;
+  font-size: 0.6em;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  color: $gray;
+}
+
+.entry-list {
+  margin-bottom: 1.5em;
+}
+
+.entry {
+  padding: 1.1em 1.2em;
+  margin-bottom: 0.8em;
+  border: 1px solid mix(#fff, $gray, 80%);
+  border-radius: $border-radius;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+
+  &__title {
+    margin: 0 0 0.2em;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.3;
+  }
+
+  & &__meta {
+    margin: 0 0 0.5em;
+    font-size: 0.75em;
+    line-height: 1.45;
+    color: $gray;
+  }
+
+  &__summary {
+    p {
+      margin: 0 0 0.5em;
+      font-size: 0.8em;
+      line-height: 1.6;
+    }
+    p:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  /* the switch */
+  &__seg {
+    display: inline-flex;
+    margin-top: 0.75em;
+    border: 1px solid mix(#fff, $gray, 80%);
+    border-radius: 2em;
+    overflow: hidden;
+
+    button {
+      padding: 0.45em 1.1em;
+      border: 0;
+      background: none;
+      color: $gray;
+      font-family: $global-font-family;
+      font-size: 0.7em;
+      line-height: 1.4;
+      cursor: pointer;
+      transition: background 150ms ease, color 150ms ease;
+
+      + button {
+        border-left: 1px solid mix(#fff, $gray, 80%);
+      }
+
+      &:hover {
+        color: $link-color;
+      }
+
+      &[aria-pressed='true'] {
+        background: mix(#fff, $gray, 20%);
+        color: #fff;
+      }
+
+      &[aria-pressed='true'][data-tone='note'] {
+        background: $link-color;
+      }
+    }
+  }
+
+  /* the panels */
+  &__panel {
+    margin-top: 0.75em;
+    padding: 0.8em 0.9em;
+    border-radius: $border-radius;
+    background: mix(#fff, $gray, 94%);
+
+    &[hidden] {
+      display: none;
+    }
+
+    &--note {
+      background: mix(#fff, $link-color, 93%);
+    }
+
+    p, ul, ol {
+      font-size: 0.8em;
+      line-height: 1.6;
+    }
+    p {
+      margin: 0 0 0.6em;
+    }
+    p:last-child, ul:last-child, ol:last-child {
+      margin-bottom: 0;
+    }
+    ul, ol {
+      margin: 0 0 0.6em;
+      padding-left: 1.4em;
+    }
+  }
+
+  &__panel-label {
+    display: block;
+    margin-bottom: 0.4em;
+    font-family: $monospace;
+    font-size: 0.6em;
+    letter-spacing: 0.11em;
+    text-transform: uppercase;
+    color: $gray;
+  }
+
+  &__panel--note &__panel-label {
+    color: $link-color;
+  }
+}
+
+/* one panel: still a switch, just a lone chip */
+.entry__seg--one button {
+  padding-inline: 1.25em;
+}
+
+@media (max-width: $small) {
+  .entry {
+    padding: 0.9em 0.95em;
+
+    &__seg {
+      display: flex;
+      width: 100%;
+
+      button {
+        flex: 1 1 0;
+        padding: 0.6em 0.4em;
+      }
+    }
+  }
+}

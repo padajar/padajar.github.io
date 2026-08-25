@@ -227,6 +227,13 @@ GEM
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
+    minimal-mistakes-jekyll (4.28.1)
+      jekyll (>= 3.7, < 5.0)
+      jekyll-feed (~> 0.1)
+      jekyll-gist (~> 1.5)
+      jekyll-include-cache (~> 0.1)
+      jekyll-paginate (~> 1.1)
+      jekyll-sitemap (~> 1.3)
     minitest (5.27.0)
     net-http (0.9.1)
       uri (>= 0.11.1)
@@ -285,6 +292,7 @@ DEPENDENCIES
   jekyll-feed
   jekyll-include-cache
   jemoji (~> 0.13.0)
+  minimal-mistakes-jekyll
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1)
@@ -363,6 +371,7 @@ CHECKSUMS
   logger (1.7.0) sha256=196edec7cc44b66cfb40f9755ce11b392f21f7967696af15d274dde7edff0203
   mercenary (0.3.6) sha256=2a084b18f5692c86a633e185d5311ba6d11fc46c802eb414ae05368178078a82
   minima (2.5.1) sha256=520e52bc631fb16cbb8100660f6caa44f97859e2fa7e397d508deb18739567be
+  minimal-mistakes-jekyll (4.28.1) sha256=b3fb4e57888ab092bf06473b69beca869b1be0c8f943e80b9d7c7165e4884289
   minitest (5.27.0) sha256=2d3b17f8a36fe7801c1adcffdbc38233b938eb0b4966e97a6739055a45fa77d5
   net-http (0.9.1) sha256=25ba0b67c63e89df626ed8fac771d0ad24ad151a858af2cc8e6a716ca4336996
   nokogiri (1.19.4-x64-mingw-ucrt) sha256=051da97b8eccfdb5444fed40246a35e10d7298b9efe759b4cd25455ea04c587e

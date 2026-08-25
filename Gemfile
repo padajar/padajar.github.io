@@ -7,7 +7,7 @@ source "https://rubygems.org"
 #
 
 gem "github-pages", group: :jekyll_plugins
-gem "jekyll-include-cache", group: :`
+gem "jekyll-include-cache", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
@@ -27,7 +27,9 @@ gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
-# gem "minimal-mistakes-jekyll"
+# local-only theme copy, so `jekyll serve` stops downloading it from GitHub
+# every start. GitHub Pages ignores this and uses remote_theme (see _config.yml).
+gem "minimal-mistakes-jekyll"
 
 gem "jemoji", "~> 0.13.0"
 gem "fiddle", "~> 1.1"

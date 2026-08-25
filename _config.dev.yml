@@ -1,0 +1,18 @@
+# Local-only overrides. Nothing here ever reaches GitHub Pages — it only reads
+# _config.yml — so the live site keeps building exactly as it does today.
+#
+# Run it with:
+#   bundle exec jekyll serve --config _config.yml,_config.dev.yml --livereload --force_polling
+#
+# What this changes: the theme comes from the installed minimal-mistakes-jekyll gem
+# instead of being downloaded from GitHub on every server start.
+#
+# What it does NOT change: your customizations. Local _sass, _includes, _layouts and
+# assets always take precedence over the theme's copies, and that precedence is
+# identical for `theme:` and `remote_theme:` — remote_theme is just a downloader that
+# hands Jekyll a theme the normal way. The one real difference is WHICH VERSION sits
+# underneath: remote_theme tracks the master branch, the gem tracks the latest release.
+# If anything looks wrong locally, drop the --config flag and you're back to normal.
+
+remote_theme:
+theme: minimal-mistakes-jekyll

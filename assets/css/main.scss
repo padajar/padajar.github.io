@@ -35,3 +35,11 @@ $monospace  : "IBM Plex Mono", Monaco, Consolas, "Lucida Console", monospace;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* one tick down for page content only — .page is the article, .archive is the
+   blog listing. the sidebar, masthead and footer sit outside both, so they keep
+   their size. 0.9 = exactly one step down minimal mistakes own 16/18/20/22 ladder. */
+.page,
+.archive {
+  font-size: 0.9em;
+}

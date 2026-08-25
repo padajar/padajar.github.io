@@ -1,0 +1,8 @@
+{%- assign items = site.entries | where: "page", include.page | where: "group", include.group | sort: "order" | reverse -%}
+{%- if items.size > 0 -%}
+{%- if include.label %}<p class="entry-group">{{ include.label }}</p>
+{% endif -%}
+<div class="entry-list">
+{%- for e in items -%}{% include entry.html e=e %}{%- endfor %}
+</div>
+{%- endif -%}

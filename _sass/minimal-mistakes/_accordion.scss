@@ -96,11 +96,11 @@
     transition: opacity 200ms linear, max-height 200ms linear;
     will-change: opacity, max-height;
     p {
-      font-size: 0.8rem;
+      font-size: 0.8em;
       margin: 0.4rem 0 0.9rem; // answers sit flush left rather than indented 2rem
     }
     ul {
-      font-size: 0.8rem;
+      font-size: 0.8em;
       margin: 0.4rem 0 0.9rem;
       padding-left: 1.5rem; // Adjust padding to fit within the accordion content
     }
