@@ -19,12 +19,23 @@
   @include breakpoint($large) {
     float: left;
     width: calc(#{$right-sidebar-width-narrow} - 1em);
-    opacity: 0.75;
-    -webkit-transition: opacity 0.2s ease-in-out;
-    transition: opacity 0.2s ease-in-out;
+
+    /* the sidebar text recedes until hover; the photo never does.
+       this cannot live on .sidebar itself: opacity composites the whole
+       subtree, so a child can never be more opaque than its parent, and the
+       avatar had no way to opt out. */
+    .author__content,
+    .author__urls-wrapper {
+      opacity: 0.75;
+      -webkit-transition: opacity 0.2s ease-in-out;
+      transition: opacity 0.2s ease-in-out;
+    }
 
     &:hover {
-      opacity: 1;
+      .author__content,
+      .author__urls-wrapper {
+        opacity: 1;
+      }
     }
 
     &.sticky {
@@ -43,6 +54,13 @@
   > * {
     margin-top: 1em;
     margin-bottom: 1em;
+
+    /* below $large the author card stacks above the page content instead of
+       sitting beside it, and a full 1em underneath pushes everything down
+       further than it needs to. */
+    @media (max-width: #{$large - 1px}) {
+      margin-bottom: 0.25em;
+    }
   }
 
   h2,
@@ -124,15 +142,23 @@
     display: block;
     width: auto;
     height: auto;
+    text-align: center; /* the <a> around the img is inline, so this centers it */
   }
 
   img {
+    /* mobile keeps 72px: the avatar is a fixed-width table-cell there and
+       .sidebar img { width: 100% } governs, so these caps never bind. */
     max-width: 150px;
     border-radius: 50%;
 
     @include breakpoint($large) {
       padding: 0px;
       border: 0px solid $border-color;
+      max-width: 160px; /* column is only 180px between 1024 and 1279 */
+    }
+
+    @include breakpoint($x-large) {
+      max-width: 210px; /* column opens up to 278px at 1280+ */
     }
   }
 }

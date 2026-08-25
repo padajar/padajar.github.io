@@ -23,7 +23,8 @@
   </div>
 
   <div class="author__urls-wrapper">
-    <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
+    <!-- this button only appears below $large; on desktop the links list is always open -->
+    <button class="btn btn--inverse">links</button>
     <ul class="author__urls social-icons">
         {% if author.pronouns %}
         <li>
