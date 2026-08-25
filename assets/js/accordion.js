@@ -38,6 +38,6 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 
   items.forEach(item => item.addEventListener('click', toggleAccordion));
-  expandAllButton.addEventListener('click', expandAll); // Add event listener for expand all button
-  collapseAllButton.addEventListener('click', collapseAll); // Add event listener for collapse all button
+  if (expandAllButton) expandAllButton.addEventListener('click', expandAll); // may be absent on pages without the buttons
+  if (collapseAllButton) collapseAllButton.addEventListener('click', collapseAll); // may be absent on pages without the buttons
 });

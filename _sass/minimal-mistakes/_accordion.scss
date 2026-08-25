@@ -16,20 +16,17 @@
 
 .accordion {
   .accordion-item {
-    border-bottom: 1px solid $gray;
-    button[aria-expanded='true'] {
-      border-bottom: 1px solid $link-color; // Use link color
-    }
+    border-bottom: 1px solid mix(#fff, $gray, 80%); // hairline, not a full-strength rule
   }
   button {
     position: relative;
     display: block;
     text-align: left;
     width: 100%;
-    padding: 1em 2.5em 1em 0; // Add padding to the right to prevent text overlap
+    padding: 0.55em 2em 0.55em 0; // was 1em 2.5em 1em 0 — the main reason rows felt oversized
     color: $text-color;
-    font-size: 1em;
-    // font-weight: bold;
+    font-size: 0.9em;
+    line-height: 1.45; // buttons default to line-height: normal, so set it explicitly
     border: none;
     background: none;
     outline: none;
@@ -37,15 +34,10 @@
     &:hover, &:focus {
       cursor: pointer;
       color: $link-color; // Use link color
-      &::after {
-        cursor: pointer;
-        color: $link-color; // Use link color
-        border: 1px solid $link-color; // Use link color
-      }
     }
     .accordion-title {
-      padding: 1em 1.5em 1em 0;
-      margin-right: 30px; // Add margin to prevent text from overlapping icon
+      padding: 0; // was 1em 1.5em 1em 0, which reserved dead space beside every question
+      margin: 0;
     }
     .icon {
       display: inline-block;
@@ -53,29 +45,30 @@
       top: 50%; // Vertically center icon
       right: 0;
       transform: translateY(-50%); // Adjust for vertical centering
-      width: 22px;
-      height: 22px;
+      width: 17px;
+      height: 17px;
       border: 1px solid;
-      border-radius: 22px;
+      border-radius: 17px;
       &::before {
         display: block;
         position: absolute;
         content: '';
-        top: 9px;
-        left: 5px;
-        width: 10px;
-        height: 2px;
+        top: 7px;
+        left: 3.5px;
+        width: 8px;
+        height: 1.5px;
         background: currentColor;
       }
       &::after {
         display: block;
         position: absolute;
         content: '';
-        top: 5px;
-        left: 9px;
-        width: 2px;
-        height: 10px;
+        top: 3.5px;
+        left: 7px;
+        width: 1.5px;
+        height: 8px;
         background: currentColor;
+        transition: width 200ms ease;
       }
     }
   }
@@ -103,13 +96,12 @@
     transition: opacity 200ms linear, max-height 200ms linear;
     will-change: opacity, max-height;
     p {
-      font-size: 0.85rem;
-      // font-weight: 300;
-      margin: 0.5rem 2rem; // Update top margin to 0.5rem and bottom margin to 1.5rem
+      font-size: 0.8rem;
+      margin: 0.4rem 0 0.9rem; // answers sit flush left rather than indented 2rem
     }
     ul {
-      font-size: 0.85rem;
-      margin: 0.5rem 2rem 0.5rem 2rem; // Update top margin to 0.5rem and bottom margin to 1.5rem
+      font-size: 0.8rem;
+      margin: 0.4rem 0 0.9rem;
       padding-left: 1.5rem; // Adjust padding to fit within the accordion content
     }
   }
