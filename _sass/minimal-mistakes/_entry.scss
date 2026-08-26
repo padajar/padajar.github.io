@@ -73,17 +73,36 @@
         border-left: 1px solid mix(#fff, $gray, 80%);
       }
 
+      /* the container is a pill but each button is a rectangle, so anything
+         painted on a button — a focus ring, the pressed background — pokes out
+         at the rounded ends. give the end segments the matching corners. */
+      &:first-child { border-radius: 2em 0 0 2em; }
+      &:last-child  { border-radius: 0 2em 2em 0; }
+      &:only-child  { border-radius: 2em; }
+
       &:hover {
         color: $link-color;
       }
 
+      /* every open segment reads the same; the panel tint below is what still
+         separates reflections from an abstract. */
       &[aria-pressed='true'] {
-        background: mix(#fff, $gray, 20%);
+        background: $link-color;
         color: #fff;
       }
 
-      &[aria-pressed='true'][data-tone='note'] {
-        background: $link-color;
+      /* the theme sets `button:focus { outline: 5px auto; outline-offset: -2px }`.
+         that ring is rectangular, so it ignores the pill's rounded ends, and
+         outlines are never clipped by overflow: hidden — so it escapes the
+         container entirely. it also sticks around after a tap on mobile.
+         kill it, and put a keyboard-only ring inside the button instead. */
+      &:focus {
+        outline: none;
+      }
+
+      &:focus-visible {
+        outline: none;
+        box-shadow: inset 0 0 0 2px $link-color;
       }
     }
   }
@@ -143,13 +162,27 @@
   .entry {
     padding: 0.9em 0.95em;
 
+    /* six segments will not fit across a phone: sharing one pill squeezes every
+       label below its natural width and wraps the longest onto a second line.
+       break the pill into chips that wrap instead, so nothing is squeezed and
+       nothing is hidden. entries with one or two panels look much the same. */
     &__seg {
       display: flex;
-      width: 100%;
+      flex-wrap: wrap;
+      gap: 0.4em;
+      border: 0;
+      border-radius: 0;
+      overflow: visible;
 
-      button {
-        flex: 1 1 0;
-        padding: 0.6em 0.4em;
+      /* matching :first-child/:last-child specificity so these win the cascade */
+      button,
+      button:first-child,
+      button:last-child,
+      button:only-child {
+        flex: 0 1 auto;
+        padding: 0.5em 0.9em;
+        border: 1px solid mix(#fff, $gray, 80%);
+        border-radius: 2em;
       }
     }
   }
