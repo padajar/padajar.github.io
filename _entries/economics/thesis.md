@@ -7,7 +7,7 @@ meta: "Undergraduate thesis advised by Parag Pathak, 2021"
 links:
   - label: "PDF"
     url: "/assets/papers/esp-manipulations.pdf"
-summary: "Examination of mechanism manipulatity using ESP's lottery."
+summary: "Using some theory and some simulations, examined how manipulable ESP's lottery mechanism was."
 panels:
   - label: "reflections"
     tone: note
