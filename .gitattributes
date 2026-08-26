@@ -1,0 +1,54 @@
+# Line endings
+# ------------
+# The repo had heavy CRLF/LF churn — whole files showing as rewritten when only
+# a word changed. `text=auto` makes git store LF in the object database and
+# convert on checkout, so a diff only ever shows what actually changed.
+#
+# One-time cleanup after adding this file:
+#   git add --renormalize .
+#   git commit -m "normalize line endings"
+
+* text=auto
+
+# Be explicit for the formats this site is made of, so nothing is guessed.
+*.md        text diff=markdown
+*.markdown  text diff=markdown
+*.html      text diff=html
+*.xml       text
+*.yml       text
+*.yaml      text
+*.csv       text
+*.scss      text diff=css
+*.css       text diff=css
+*.js        text
+*.json      text
+*.txt       text
+*.svg       text
+*.rb        text diff=ruby
+Gemfile     text diff=ruby
+Gemfile.lock text
+CNAME       text
+.gitignore  text
+.gitattributes text
+
+# Shell scripts must keep LF even on Windows.
+*.sh        text eol=lf
+
+# Binaries — never convert, never diff as text.
+*.pdf   binary
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.ico   binary
+*.webp  binary
+*.mp4   binary
+*.zip   binary
+*.woff  binary
+*.woff2 binary
+*.ttf   binary
+*.otf   binary
+*.eot   binary
+
+# Vendored search index — keep it out of language stats and diffs.
+assets/js/lunr/** linguist-vendored=true
