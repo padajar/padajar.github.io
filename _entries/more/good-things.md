@@ -44,7 +44,7 @@ panels:
       fun games, both daily and one-time:
 
       - [Uncrossy](https://uncrossy.com/)
-      - [Squardle](https://squaredle.app/)
+      - [Squaredle](https://squaredle.app/)
       - [Clues By Sam](https://cluesbysam.com/)
       - [45x45 Connections](https://thomaswc.com/2025.html)
       - [Blue Prince](https://store.steampowered.com/app/1569580/Blue_Prince/)

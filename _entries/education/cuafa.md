@@ -12,5 +12,5 @@ panels:
   - label: "reflections"
     tone: note
     body: |
-      I've really enjoyed being a part of CUAFA, especially given my history of working with the MIT Admissions office through blogging. Beyond that, I'm glad that I can use my research in setting where it's directly relevant, and a setting that I care very personally about. Unfortunately I can't share most things about our discussions, so this section will be a bit more empty than I'd like --- but there's *so* many things happening in the world of higher education right now...
+      I've really enjoyed being a part of CUAFA, especially given my history of working with the MIT Admissions office through blogging. Beyond that, I'm glad that I can use my research in a setting where it's directly relevant, and a setting that I care very personally about. Unfortunately I can't share most things about our discussions, so this section will be a bit more empty than I'd like --- but there's *so* many things happening in the world of higher education right now...
 ---
