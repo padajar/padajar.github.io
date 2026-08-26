@@ -7,8 +7,6 @@ I think life is about finding joy. And while I do get lots of joy out of economi
 
 Anyways, here’s a compilation of stuff I like, ranging from somewhat-serious to definitely-not-serious.
 
-## interests
-
 {% include entries.html page="more" group="interests" %}
 
 {% include entries.html page="more" group="internet" %}
