@@ -50,6 +50,17 @@
     }
   }
 
+  /* kramdown puts footnotes in `.footnotes > ol > li > p`. the theme sizes that
+     ol at 0.75em and the marker inherits it, but the 0.8em above lands on the
+     <p> and shrinks the text a second time — so the number renders bigger than
+     its own footnote. size the li once, let the <p> inherit. two classes to
+     outrank `.page__content li` and the summary/panel rules above. */
+  .footnotes {
+    ol { font-size: 1em; }
+    li { font-size: 0.72em; }
+    p  { font-size: 1em; }
+  }
+
   /* the switch */
   &__seg {
     display: inline-flex;
