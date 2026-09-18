@@ -16,7 +16,7 @@
 title: phi adajar
 email: phiadajar@mit.edu
 description: >- # this means to ignore newlines until "baseurl:", description to show in Google search results
-  phd candidate at mit interested in the economics of education and much, much more. on the 2026-27 job market!
+  phd candidate at mit interested in the economics of education and much, much more. on the 2026–27 job market!
 # twitter_username: phiadajar
 github_username: padajar
 minimal_mistakes_skin: default
@@ -73,7 +73,7 @@ head_scripts:
 author:
   name    : "phi adajar"
   avatar  : "/assets/images/bio-photo.jpg"
-  bio     : "phd candidate at mit interested in the economics of education and much, much more."
+  bio     : "phd candidate at mit interested in the economics of education and much, much more. on the 2026–27 job market!"
   pronouns: they/them
   links:
     - label: "<i>fee ADD-uh-har</i>"
