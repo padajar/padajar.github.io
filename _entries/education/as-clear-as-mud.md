@@ -11,5 +11,5 @@ panels:
   - label: "reflections"
     tone: note
     body: |
-      I have a lot of feelings about how things get communicated both internally (i.e., code) and externally, and I'm glad I finally collected lots of them into one place where others can read them. (Suspect that lots of these thoughts come from having been in the consulting sphere for a while, which I have ... mixed feelings about.) I suspect that this presentation will be a perpetual work-in-progress, but I'll try to keep the latest version up at all times.
+      I have a lot of feelings about how things get communicated both internally (i.e., code) and externally, and I'm glad I finally collected lots of them into one place where others can read them. (Lots of these thoughts probably come from having been in the consulting sphere for a while, which I have ... mixed feelings about.) I suspect that this presentation will be a perpetual work-in-progress, but I'll try to keep the latest version up at all times.
 ---

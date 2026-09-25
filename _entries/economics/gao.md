@@ -9,5 +9,5 @@ panels:
   - label: "reflections"
     tone: note
     body: |
-      Worked here as part of the [MIT Washington Summer Internship Program](https://summerwash.mit.edu/); deeply appreciated to hear from PhDs about their experiences and why they chose to work in the public sector.
+      Worked here as part of the [MIT Washington Summer Internship Program](https://summerwash.mit.edu/); deeply appreciated hearing from PhDs about their experiences and why they chose to work in the public sector.
 ---

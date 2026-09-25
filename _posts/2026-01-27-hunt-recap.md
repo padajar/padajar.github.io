@@ -73,7 +73,7 @@ after several false starts on this (gloucester sea monster, town of salem, …) 
 
 buzz buzz.
 
-the round gets unlocked at 12:37 fri, and i start working on this at 7:20pm sat, hanging out in vc with friends and trying to decipher what the bees are trying to say to us. we slowly churn our way through different mini-puzzles, sharing our dictionaries back and forth, and i head to bed at about 9:30pm. overnight, there’s a good amount of progress, including getting to the “meta” at 11:26pm, but some incorrect words in our dictionary throw us off. in the morning, we come back and try to clean up dictionaries, but to no avail; we grab a hint from HQ at 10:54am sun. we try to clean things up a bit from the galadriel/frodo conversation, decide it has to be a (13 7) enumeration from reading order. honestly, i’ll just share some messages:
+the round gets unlocked at 12:37pm fri, and i start working on this at 7:20pm sat, hanging out in vc with friends and trying to decipher what the bees are trying to say to us. we slowly churn our way through different mini-puzzles, sharing our dictionaries back and forth, and i head to bed at about 9:30pm. overnight, there’s a good amount of progress, including getting to the “meta” at 11:26pm, but some incorrect words in our dictionary throw us off. in the morning, we come back and try to clean up dictionaries, but to no avail; we grab a hint from HQ at 10:54am sun. we try to clean things up a bit from the galadriel/frodo conversation, decide it has to be a (13 7) enumeration from reading order. honestly, i’ll just share some messages:
 
 > ok ok so british flying vehicle something 13 7 <br>aaaaaa <br>-me, 11:53am
 >
@@ -114,7 +114,7 @@ we unlock this puzzle at 2:02pm sat. i hop over here at 9:34pm; in the meantime,
 
 #### connect the clans (kingdom of the puzzmon, metameta)
 
-i’ve been keeping the little “capstone stickers” in my pocket this whole time, and when we unlock this because we solved *filial pie tree*, i rush over. our team quickly has the right series of ahas: games of thrones, making the cycle of animals, and then putting them onto the map. a lot of sheets squinting later (and after failing to place north facing north), we solve this at 10:56pm. not too bad for a metameta :) solving this unlocks terminus, but i get shooed off to bed before i can take a good close look. our runaround for this gets scheduled for 9:30am sunday, which provides a fun little break for those who were up early :)
+i’ve been keeping the little “capstone stickers” in my pocket this whole time, and when we unlock this because we solved *filial pie tree*, i rush over. our team quickly has the right series of ahas: game of thrones, making the cycle of animals, and then putting them onto the map. a lot of sheets squinting later (and after failing to place north facing north), we solve this at 10:56pm. not too bad for a metameta :) solving this unlocks terminus, but i get shooed off to bed before i can take a good close look. our runaround for this gets scheduled for 9:30am sunday, which provides a fun little break for those who were up early :)
 
 #### mixed media (terminus, meta)
 
@@ -184,13 +184,13 @@ this is only the second year that NES has had strategy captains, and there’s c
 
   in hindsight, we likely could have finished the hunt without hints on those two puzzles, and so the fact that we encouraged hinting when those hints might otherwise not have been taken doesn’t feel great. i do think that, on net, taking those hints was a right decision in that moment. not necessarily the only one, of course. but so goes trying to make any choice.
 
-* where does NES go from here? like i said above — i’ve heard multiple people (not on NES) say that they’re rooting for NES to win hunt sometime in the next several years. we’re somewhere near the top (if not first)[^7] on a ranking that’s a combination of {recent mit graduates/low in age, does well in hunts}. about half of the people that filled out our census poll were a class of 2020/2021/2022. 
+* where does NES go from here? like i said above — i’ve heard multiple people (not on NES) say that they’re rooting for NES to win hunt sometime in the next several years. we’re somewhere near the top (if not first)[^7] on a ranking that’s a combination of {recent mit graduates/low in age, does well in hunts}. about half of the people that filled out our census poll were in the class of 2020/2021/2022. 
 
   for the first time ever, our sign-up form had a survey to collect people’s thoughts on winning. by and large, people don’t feel ready yet, but are excited to do the things that would help them feel ready (i.e., writing more puzzles) — a few years ago, we started writing a NES hunt, and though momentum sputtered, we’re planning to get back on that this year with some internal potlucks and whatnot. 
 
-  there seems to be a decent amount of excitement to someday actually win. if all goes well, of starting to actively try and win come 2028+. of course, this is all thinking years in advance, and we’ll see how trying to write potlucks and hunts goes, and people would have to want to do things when we get there, and we’d have to actually *win* (certainly no guarantees on that), but there are worlds where we win in the next 5–10 years that aren’t very farfetched.
+  there seems to be a decent amount of excitement to someday actually win. if all goes well, starting to actively try and win come 2028+. of course, this is all thinking years in advance, and we’ll see how trying to write potlucks and hunts goes, and people would have to want to do things when we get there, and we’d have to actually *win* (certainly no guarantees on that), but there are worlds where we win in the next 5–10 years that aren’t very farfetched.
   
-  it’s a bit weird to think about it all. people make such a big deal about winning hunt, and writing the next one, in a way that feels a bit unsustainable as a practice. (i’ve heard some stories of people that took a year sabbatical from their jobs just to write hunt, though i doubt that’s something i’ll be able to do.) sure, it’s incredibly grand in scale and there are thousands and thousands of people hours needed to write and test hundreds of puzzles. but also, between the ESP and theater backgrounds of our leadership team, i feel like we’d be able to figure it out.
+  it’s a bit weird to think about it all. people make such a big deal about winning hunt, and writing the next one, in a way that feels a bit unsustainable as a practice. (i’ve heard some stories of people that took a year sabbatical from their jobs just to write hunt, though i doubt that’s something i’ll be able to do.) sure, it’s incredibly grand in scale and there are thousands and thousands of person-hours needed to write and test hundreds of puzzles. but also, between the ESP and theater backgrounds of our leadership team, i feel like we’d be able to figure it out.
 
 as always, shoutouts to all the sheriffs (Katie, Mary, Michael, Mihir, Mindren, Zach) for being such great people to run NES with, and for putting so much into this team (non-exhaustive list of things done this year: swag, NESbot, thinking about running hunts/helping people practice writing puzzles, hauling snacks around, discussions on strategies and team goals, having a crate of NES items year-round in their house, coordinating subteams on NES to help with other things, and making NES a lovely place). 
 
@@ -200,7 +200,7 @@ here’s to more NES. no end (in) sight :)
 
 various other observations on this year’s hunt. 
 
-- so many cool physical objects. *puzzmon the card game* was incredible, both as a game and in terms of production value. so was the faux-tamagotchi and the hot sauce puzzle (while not for me, i’m sure it’s somebody’s idea of fun)
+- so many cool physical objects. *puzzmon the card game* was incredible, both as a game and in terms of production value. so were the faux-tamagotchi and the hot sauce puzzle (while not for me, i’m sure it’s somebody’s idea of fun)
 
 - the scavenger hunt giving RP which was used to unlock puzzles was a great way of making scavenger tasks feel more organic and necessary, rather than something that you only use once. they certainly fell off in terms of usefulness as time went on, but i think that is ok
 
@@ -219,9 +219,9 @@ various other observations on this year’s hunt.
 
 - apparently, flame-grilled steak chips are not so bad. jalapeno candy canes are, though
 
-- “i assume you are-“ <br>“yeah i'm one of the she-“<br>“capable of opening that bag”
+- “i assume you are-” <br>“yeah i'm one of the she-”<br>“capable of opening that bag”
 
-- how upsetting to see so many people wrong![img]({{ site.url }}{{ site.baseurl }}/assets/images/2026-01-27-phi.png)
+- how upsetting to see so many people wrong! ![img]({{ site.url }}{{ site.baseurl }}/assets/images/2026-01-27-phi.png)
 
 very excited for next year’s providence hunt! i don’t quite know how next year’s hunt will be for me, though — i’ll unfortunately be on the econ job market, and interview/flyout season is right around January, so i might need to take a step back out of necessity. but i hope that if i do, it won’t be a big step, because after all, hunt is *fun*.  
 

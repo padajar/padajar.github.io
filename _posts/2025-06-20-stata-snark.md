@@ -18,7 +18,7 @@ Stata’s manual is, in various nooks and crannies, snarky, playful, and enterta
 
 > Be sure that the data are in the order of the x variable, or specify line's sort option.  If you do neither, you will get something that looks like the scribblings of a child.
 
-##### help memory
+##### `help memory`
 
 > Niceness 10 corresponds to being totally nice.  Niceness 0 corresponds to being an inconsiderate, self-centered, totally selfish jerk.
 

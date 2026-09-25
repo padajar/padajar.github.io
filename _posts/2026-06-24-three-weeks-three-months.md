@@ -56,7 +56,7 @@ gallery3:
   - url: /assets/images/mit-grad-4.png
     image_path: /assets/images/mit-grad-4.png
     alt: "52% employed, 43% to grad school"
-    title: "and of the people that don't go to employment. they all go to grad school"
+    title: "and of the people that don't go to employment, they all go to grad school"
 ---
 
 i’m writing this post from england [once again](https://mitadmissions.org/blogs/entry/throughlines/), this time in an apartment up in london. it’s in a really nice area, and i’m walking distance from hampstead heath, which is a really lovely place to walk around, introspect, and recharge a bit. 
@@ -75,7 +75,7 @@ amidst the backdrop of all of this academic writing looms one big question: what
 
 it’s funny, you know. almost exactly six years ago, i was in a very similar boat, thinking about what i wanted to do after undergrad — grad school, work for a while, and many, many other options. i started blogging the summer before my senior year of college, and [on choices, arbitrariness, and storytelling](https://padajar.com/2020/07/29/choices-arbitraryness-storytelling/) was the first post i felt really proud of. it’s the first part of a (spiritual) trilogy[^4] of posts documenting my eventual choice of being in grad school, followed up by [on success, meaning, and time](https://mitadmissions.org/blogs/entry/on-success-meaning-and-time/) and [leaning in](https://mitadmissions.org/blogs/entry/leaning-in/), in which i actually choose to go to grad school. rereading these posts, it’s so interesting to see the thoughtfulness that past me put into these decisions (though of course, with some amount of wide-eyed naivete[^5]), the values i was using to choose lives, the things i was unsure about that since have come to pass. all of the ways that the person i was back then has led to the person that i am now.
 
-of course, there’s many ways in which i have changed, too. a lot more understanding about myself and my values. lots of new thoughts about identity, particularly surrounding gender. the ways in which i spend time alone and with others takes on different forms. i’m doing *way* better at prioritizing having a work-life balance (which to be honest, i don’t think i really had in college). to be clear, i’m still doing so many things, and that’s also a way in which i’ve changed — i’ve picked up so many new hobbies, including dnd, puzzles, acting, musicals, and much more.
+of course, there’s many ways in which i have changed, too. a lot more understanding about myself and my values. lots of new thoughts about identity, particularly surrounding gender. the ways in which i spend time alone and with others take on different forms. i’m doing *way* better at prioritizing having a work-life balance (which to be honest, i don’t think i really had in college). to be clear, i’m still doing so many things, and that’s also a way in which i’ve changed — i’ve picked up so many new hobbies, including dnd, puzzles, acting, musicals, and much more.
 
 but it’s six years later, and it’s time for yet another round of introspecting about what i want to come next for me. much like several years ago, a few things hold true:
 
@@ -92,7 +92,7 @@ the photos up top come in part from today — saturday, june 20. a really lovely
 throughout college and grad school i’ve had a lot of thoughts about intentionality and focus. again, i think a few things hold true:
 
 - there’s many things in life that it’s easy for me to end up *not* doing, even if i want to, just because if i don’t prioritize them, they don’t happen. everything from hanging out with friends, to taking alone time, time disconnected from the digital world. 
-- when it comes to work, i would not describe myself as a very *disciplined* person. i find it extraordinarily difficult to do things that i’m not intrinsically motivated in doing. not to say that this doesn’t happen, of course; i have lots of feelings on “taking my medicine” that made up [an entirely separate blog post](https://padajar.com/2026/01/21/taking-your-medicine/). 
+- when it comes to work, i would not describe myself as a very *disciplined* person. i find it extraordinarily difficult to do things that i’m not intrinsically motivated to do. not to say that this doesn’t happen, of course; i have lots of feelings on “taking my medicine” that made up [an entirely separate blog post](https://padajar.com/2026/01/21/taking-your-medicine/). 
 - conversely, when i hit flow states in work (though also for non-work things), the time just flies by. i’ve enjoyed many evenings over the last few weeks trying to figure out how to make this structural model work. at other times, it’s been “i really want to make this LaTeX template” to “let me obsessively update the wiki i maintain for this dnd campaign” to “oh, it’s time to write a blog”.[^6]
 
 one of the things i’ve appreciated about grad school is the fact that i can structure my life as these waves hit. there are times where i fall asleep thinking about this cool problem i’ve been working on, or will sit in front of a whiteboard looking at squares. and there are also times where my focus takes me elsewhere, and i’m doing a musical, or writing puzzles, and so many other things.
@@ -121,7 +121,7 @@ it’s one of the reasons i so deeply appreciate having so many people in my lif
 
 and all of them, in different ways, are happy. no one can ever have everything perfect, but i think the people i’m around have found joy in the choices they’ve made. 
 
-i have been really, really lucky to be at mit for the last several years. but one major shortcoming of this institution is that, for many people, the world *narrows* by being at this place. of course, people do so many incredible things. they become professors, they make startups, they found NGOs, they change the world. your horizons are expanded, yes. the depth that you can go is incredible. but the ways in which people do so is … very small. take these graphs from the [mit graduating student survey](https://ir.mit.edu/projects/graduating-student-survey/):
+i have been really, really lucky to be at mit for the last several years. but one major shortcoming of this institution is that, for many people, the world *narrows* by being at this place. of course, people do so many incredible things. they become professors, they make startups, they found NGOs, they change the world. your horizons are expanded, yes. the depth that you can go is incredible. but the ways in which people do so are … very small. take these graphs from the [mit graduating student survey](https://ir.mit.edu/projects/graduating-student-survey/):
 
 {% include gallery id="gallery3" caption="graphs from the mit graduating student survey for the class of 2021" %}
 
@@ -137,7 +137,7 @@ it’s weird being a person who has preferences over places. i think this wasn�
 
 that’s not to say that it’s still true — i still find home in the many, many places that are filled with my people — but boston is now [the longest i’ve lived anywhere](https://mitadmissions.org/blogs/entry/ten/). it stands to reason there’s a lot of those connections here: the high school and college friends still in the area, the friends i’ve made through them, the theater communities i’ve joined. beyond that, boston has grown on me as a *place*. filled with people who care about community and each other (while cities are filled with people, i think boston truly feels like people *live* there in a way that stands out). there’s the fact that i know this place in and out, and can get to anywhere on a bike. silly things, like having “ice cream crawls” between all the specialty ice cream stores.
 
-this of course, isn’t to say i can’t find other communities in other places that i wouldn’t get this level of familiarity with somewhere else — but when my thoughts wander to the idea of living in a different place, it inevitably becomes a comparison of what i’d miss about boston. 
+this, of course, isn’t to say i can’t find other communities elsewhere, or that i couldn’t get this level of familiarity somewhere else — but when my thoughts wander to the idea of living in a different place, it inevitably becomes a comparison of what i’d miss about boston. 
 
 when i was choosing to go to grad school, i did think about the fact that it would be good for me to spend time as an adult living somewhere *other* than boston. now that it’s time to make that choice, i’m not sure that i want that anymore. 
 
@@ -159,8 +159,8 @@ but for now, back off to [running some regressions](https://bsky.app/profile/pad
 
 [^1]: of course, your jmp isn’t just for applying to academic jobs — non-academic jobs also want to see it
 [^2]: at the end of the day, this ends up being 1 of the 3 chapters of your dissertation[^3]
-[^3]: also, in what i think is a very interesting move, mit econ doesn’t actually have any form of thesis defense — you submit these three chapters, some professors read over it and give comments, and then you kinda just . graduate? feels weird to graduate without something along those lines. [so…](https://bsky.app/profile/padajar.bsky.social/post/3mmci2p4kxc23)
-[^4]: good things come in threes, of course. i have only just remembered the fact that the first two posts also both revolve around this structure of three. and also the title of this post. how apt, as three is the highest number i can count 
+[^3]: also, in what i think is a very interesting move, mit econ doesn’t actually have any form of thesis defense — you submit these three chapters, some professors read over them and give comments, and then you kinda just… graduate? feels weird to graduate without something along those lines. [so…](https://bsky.app/profile/padajar.bsky.social/post/3mmci2p4kxc23)
+[^4]: good things come in threes, of course. i have only just remembered the fact that the first two posts also both revolve around this structure of three. and also the title of this post. how apt, as three is the highest number i can count to.
 [^5]: i’ve been on a taskmaster binge again, and mostly i am thinking about jason mantzoukas’ one-liner in the middle of [this](https://youtube.com/shorts/YEl7WtcQoZ8?si=F0GS-HrkCSOAa6aY)
 [^6]: see, eg, the fact that my last two blogs were written a week apart
 [^7]: of course, this also applies beyond boston, too. the status of lgbtq+ individuals in many states means that i have broader preferences over what states and communities i live in. and i need to figure out the answer to these questions for those places, too.

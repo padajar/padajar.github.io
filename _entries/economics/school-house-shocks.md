@@ -3,7 +3,7 @@ page: economics
 group: drafts
 order: 90
 title: "School-House Shocks: The Effect of Neighborhood-based School Assignment Policies on Intracity Migration"
-summary: "Examining Chicago's location-based affirmation action --- how do admissions policies influence migration and housing prices?"
+summary: "Examining Chicago's location-based affirmative action --- how do admissions policies influence migration and housing prices?"
 panels:
   - label: "abstract"
     body: |

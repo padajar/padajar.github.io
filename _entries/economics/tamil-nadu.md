@@ -17,5 +17,5 @@ panels:
   - label: "reflections"
     tone: note
     body: |
-      My coauthors and I are running an RCT with 2,400 gifted 7th-grade students in Tamil Nadu and an online self-paced pre-algebra class from [AoPS](https://artofproblemsolving.com/). We're currently in the middle of Phase 2, and are excited to see the long-term effects. Presented at the [NBER Economics of Talent Meeting (Fall 2025)](https://www.nber.org/conferences/economics-talent-meeting-fall-2025), [NBER Economics of Education Meeting (Spring 2026)](https://www.nber.org/conferences/economics-education-program-meeting-spring-2026).
+      My coauthors and I are running an RCT with 2,400 gifted 7th-grade students in Tamil Nadu and an online self-paced prealgebra class from [AoPS](https://artofproblemsolving.com/). We're currently in the middle of Phase 2, and are excited to see the long-term effects. Presented at the [NBER Economics of Talent Meeting (Fall 2025)](https://www.nber.org/conferences/economics-talent-meeting-fall-2025), [NBER Economics of Education Meeting (Spring 2026)](https://www.nber.org/conferences/economics-education-program-meeting-spring-2026).
 ---

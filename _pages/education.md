@@ -17,7 +17,7 @@ Other past teaching
 
 ## things i’ve made
 
-There are a few teaching-related things that i’ve put out into the world, things that hopefully will do good for at least _one_ person. A collection of these resources below! Feedback on any of them *happily* taken.
+There are a few teaching-related things that I’ve put out into the world, things that hopefully will do good for at least _one_ person. A collection of these resources below! Feedback on any of them *happily* taken.
 
 {% include entries.html page="education" group="made" %}
 
