@@ -1,4 +1,6 @@
 main:
+  - title: "cv"
+    url: /cv/
   - title: "blog"
     url: /blog/
   - title: "econ"
@@ -9,5 +11,3 @@ main:
     url: /more/
   - title: "iaq"
     url: /iaq/
-  - title: "cv"
-    url: /cv/
