@@ -3,7 +3,7 @@ page: economics
 group: degrees
 order: 100
 title: "Massachusetts Institute of Technology · PhD in Economics, 2021–2027 (exp.)"
-meta: "NSF Graduate Research Fellow, 2021–2026 · NBER Global Math Talent Fellow, 2025–2026"
+meta: "NSF Graduate Research Fellowship, 2021–2026 · NBER Doctoral Dissertation Fellowship, Global Math Talent, 2025–2026 · Jerry A. Hausman Dissertation Fellowship, 2025–2026"
 panels:
   - label: "reflections"
     tone: note
