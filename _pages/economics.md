@@ -18,6 +18,7 @@ works in “progress” (just thinking about ‘em for now)
 : where does motivation come from?
 : early decision/action as a form of market power
 : alternative pathways to college/besides college
+{: .entry-group-list}
 
 ## education
 
