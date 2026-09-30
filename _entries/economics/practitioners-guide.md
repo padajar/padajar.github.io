@@ -3,7 +3,7 @@ page: economics
 group: drafts
 order: 95
 title: "A Practitioner's Guide to Estimating School Effects in Centralized Assignment Systems"
-summary: "Lotteries in centralized school assignment identify school effects, but what if we don't observe the lottery numbers? Which data from the match do we actually need?"
+summary: "We can identify school effects from lotteries in centralized school assignment. But what parts of the lottery do we actually need to do so?"
 panels:
   - label: "abstract"
     body: |

@@ -7,7 +7,7 @@ meta: "2025"
 links:
   - label: "my syllabus"
     url: "/assets/misc/padajar-ktcp-syllabus.pdf"
-summary: "Interactive workshop series to teach students about evidence-based teaching techniques grounded in the scholarship of teaching and learning."
+summary: "Interactive workshop series to teach grad students and postdocs about evidence-based teaching techniques grounded in the scholarship of teaching and learning."
 panels:
   - label: "reflections"
     tone: note

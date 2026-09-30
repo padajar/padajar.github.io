@@ -1,10 +1,10 @@
 ---
 page: economics
-group: active
-order: 100
+group: drafts
+order: 110
 title: "The Winner's Curse in Test-Blind Admissions"
-meta: "with [Nagisa Tadjfar](https://economics.mit.edu/people/phd-students/nagisa-tadjfar) and [Kartik Vira](https://economics.mit.edu/people/phd-students/kartikeya-vira)"
-summary: "My job market paper! Should universities admit students without considering performance on their final exams?"
+meta: "with [Nagisa Tadjfar](https://nagisatadjfar.github.io/) and [Kartik Vira](https://www.kartikvira.com/)"
+summary: "My job market paper! What information should universities use to admit students?"
 panels:
   - label: "abstract"
     body: |

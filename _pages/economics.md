@@ -3,7 +3,7 @@ permalink: /economics/
 title: "economics"
 ---
 
-My work centers around the economics of education. While this makes me a labor economist at my core, I filter in and out of many other fields (development, market design, IO, metrics, behavioral, theory) to use their tools for the questions I want to answer.
+I'm an applied microeconomist who thinks about gaps in access in opportunity, application systems, and supporting students' growth. While I am a labor and education economist at my core, I also filter in and out of many other fields --- like market design, IO, econometrics, development, theory, and behavioral --- using their tools for the questions I want to answer.
 
 ## research
 
@@ -11,11 +11,9 @@ My work centers around the economics of education. While this makes me a labor e
 
 {% include entries.html page="economics" group="active" label="works in progress (as in, actually in progress)" %}
 
-works in “progress” (just thinking about ‘em for now)
-: iterations on [MDRD1](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA13925) and [MDRD2](https://onlinelibrary.wiley.com/doi/full/10.3982/ECTA17125)
-: how to assign teachers to students
-: the role of gifted education in the system as a whole
-: where does motivation come from?
+works in “progress” (ideas i hope to foment going forward)
+: the role of gifted programs in the education system
+: where does motivation come from? how does one decide they “like” school?
 : early decision/action as a form of market power
 : alternative pathways to college/besides college
 {: .entry-group-list}
