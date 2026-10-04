@@ -48,4 +48,9 @@ panels:
       - [Clues By Sam](https://cluesbysam.com/)
       - [45x45 Connections](https://thomaswc.com/2025.html)
       - [Blue Prince](https://store.steampowered.com/app/1569580/Blue_Prince/)
+      - [The Artisan of Glimmith](https://store.steampowered.com/app/4160210/The_Artisan_of_Glimmith/)
+  - label: "friends' websites"
+    body: |
+      - [alan](https://www.alanwhyz.com/)
+      - [cj](https://cjquines.com/)
 ---
