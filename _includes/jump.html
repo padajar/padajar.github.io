@@ -1,0 +1,12 @@
+{%- comment -%}
+  "jump to" bar for a page's main (##) sections, styled after the entry-card switch.
+  usage: {% include jump.html sections="label=anchor-id|label=anchor-id" %}
+  anchor ids are kramdown's auto ids for the ## headings (e.g. "things i’ve made" -> things-ive-made).
+{%- endcomment -%}
+<nav class="jump" aria-label="jump to section">
+<span class="jump__label">jump to</span>
+<span class="jump__seg">
+{%- assign pairs = include.sections | split: "|" -%}
+{%- for p in pairs -%}{%- assign kv = p | split: "=" -%}<a href="#{{ kv[1] | strip }}">{{ kv[0] | strip }}</a>{%- endfor -%}
+</span>
+</nav>

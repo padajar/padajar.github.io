@@ -5,6 +5,8 @@ title: "education"
 
 My education work began with teaching competition math to elementary and middle-school students. Many years and winding turns later, I’m now interested in expanding educational opportunities and educational policy. Of course, I still really, really enjoy teaching, and always try to find outlets to get people excited about things I think are cool and interesting. Some highlights below!
 
+{% include jump.html sections="teaching=teaching|things i’ve made=things-ive-made|miscellany=teaching-adjacent" %}
+
 ## teaching
 
 {% include entries.html page="education" group="teaching" %}

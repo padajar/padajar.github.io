@@ -1,13 +1,13 @@
 main:
   - title: "cv"
     url: /cv/
-  - title: "blog"
-    url: /blog/
   - title: "econ"
     url: /economics/
   - title: "educ"
     url: /education/
   - title: "more"
     url: /more/
+  - title: "blog"
+    url: /blog/
   - title: "iaq"
     url: /iaq/

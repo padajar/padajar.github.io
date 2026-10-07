@@ -106,3 +106,14 @@
     }
   }
 }
+
+/* honor the system "reduce motion" setting, like the entry cards (assets/js/entry.js):
+   open/close instantly instead of sliding. */
+@media (prefers-reduced-motion: reduce) {
+  .accordion,
+  .accordion *,
+  .accordion *::before,
+  .accordion *::after {
+    transition: none !important;
+  }
+}

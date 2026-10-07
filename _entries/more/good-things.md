@@ -3,6 +3,7 @@ page: more
 group: internet
 order: 100
 title: "good things on the internet"
+panel_labels: false  # open panels skip repeating the button name
 panels:
   - label: "entertainment"
     body: |

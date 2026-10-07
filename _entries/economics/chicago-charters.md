@@ -2,6 +2,7 @@
 page: economics
 group: active
 order: 90
+anchor: chicago-charters
 title: "From Cubs to Bears: The Evolution of Charter Effectiveness in Chicago"
 summary: "How effective are charters? How has that effectiveness changed over time, and why?"
 panels:

@@ -2,8 +2,10 @@
 page: economics
 group: drafts
 order: 95
+anchor: practitioners-guide
 title: "A Practitioner's Guide to Estimating School Effects in Centralized Assignment Systems"
-summary: "We can identify school effects from lotteries in centralized school assignment. But what parts of the lottery do we actually need to do so?"
+title_link: "/assets/papers/practitioners-guide-causal-da.pdf"
+summary: "We can identify school effects from lotteries in centralized school assignment. But what parts of the lottery do we actually need to do so? I show when and how propensity scores and causal estimates can be identified." 
 panels:
   - label: "abstract"
     body: |

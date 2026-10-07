@@ -5,13 +5,19 @@ title: "economics"
 
 I'm an applied microeconomist who thinks about gaps in access in opportunity, application systems, and supporting students' growth. While I am a labor and education economist at my core, I also filter in and out of many other fields --- like market design, IO, econometrics, development, theory, and behavioral --- using their tools for the questions I want to answer.
 
-## research
+{% include jump.html sections="job market paper=job-market-paper|other research=other-research|education=education|prior work=prior-work" %}
 
-{% include entries.html page="economics" group="drafts" label="works in progress (with drafts)" %}
+## job market paper
 
-{% include entries.html page="economics" group="active" label="works in progress (as in, actually in progress)" %}
+{% include entries.html page="economics" group="jmp" %}
 
-works in “progress” (ideas i hope to foment going forward)
+## other research
+
+{% include entries.html page="economics" group="drafts" label="working papers (with drafts)" %}
+
+{% include entries.html page="economics" group="active" label="works in progress" %}
+
+works in “progress” (still marinating on these)
 : the role of gifted programs in the education system
 : where does motivation come from? how does one decide they “like” school?
 : early decision/action as a form of market power
@@ -22,7 +28,7 @@ works in “progress” (ideas i hope to foment going forward)
 
 {% include entries.html page="economics" group="degrees" %}
 
-## pre-history
+## prior work
 
 {% include entries.html page="economics" group="undergrad" label="undergraduate work" %}
 

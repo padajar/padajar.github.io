@@ -43,3 +43,10 @@ $monospace  : "IBM Plex Mono", Monaco, Consolas, "Lucida Console", monospace;
 .archive {
   font-size: 0.9em;
 }
+
+/* h2 underline in the same gray as the entry-card borders (.entry in
+   _sass/minimal-mistakes/_entry.scss). .archive__subtitle is the h2 on blog listings. */
+.page__content h2,
+.archive__subtitle {
+  border-bottom-color: mix(#fff, $gray, 80%);
+}

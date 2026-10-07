@@ -2,11 +2,9 @@
 page: economics
 group: undergrad
 order: 90
-title: "A Rising Tide for All or Wave for One?: The Effect of Charter School Competition on District Achievement"
-meta: "Written for 14.33. MIT Undergraduate Journal of Economics, Vol. 20. 2021"
-links:
-  - label: "PDF"
-    url: "/assets/papers/charters.pdf"
+title: "A Rising Tide for All or Wave for One? The Effect of Charter School Competition on District Achievement"
+title_link: "/assets/papers/charters.pdf"
+meta: "Written for 14.33. MIT Undergraduate Journal of Economics, Vol. 20, 2021"
 summary: "Using favorableness of state laws, I analyzed how charter entry affected non-attending students."
 panels:
   - label: "reflections"

@@ -2,7 +2,9 @@
 page: economics
 group: drafts
 order: 100
+anchor: tamil-nadu
 title: "Identifying and Nurturing Math Talent: Evidence from Tamil Nadu"
+title_link: "https://conference.nber.org/conf_papers/f236732.pdf"
 meta: "with Esther Duflo, Glenn Ellison, Sara Fisher Ellison, and Harini Kannan"
 links:
   - label: "AEA pre-registry"

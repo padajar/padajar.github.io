@@ -8,5 +8,5 @@ summary: >
   A summer RA project where I developed a pipeline to process 60 million riders' data.
   My work helped contribute to research on
   [lockdown mobility](https://histecon.fas.harvard.edu/climate-loss/indonesia/index.html)
-  and the [optimal network design](https://www.nber.org/papers/w31369).
+  and the [optimal network design](https://www.aeaweb.org/articles?id=10.1257/aer.20230768).
 ---

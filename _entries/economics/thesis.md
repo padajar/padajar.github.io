@@ -3,10 +3,8 @@ page: economics
 group: undergrad
 order: 100
 title: "Evaluating Strategic Play: Manipulations with Symmetric Information in the Boston Mechanism"
+title_link: "/assets/papers/esp-manipulations.pdf"
 meta: "Undergraduate thesis advised by Parag Pathak, 2021"
-links:
-  - label: "PDF"
-    url: "/assets/papers/esp-manipulations.pdf"
 summary: "Using some theory and some simulations, examined how manipulable ESP's lottery mechanism was."
 panels:
   - label: "reflections"
