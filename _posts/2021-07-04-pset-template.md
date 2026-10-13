@@ -13,11 +13,7 @@ tags:
 
 This summer, I’m trying to do non-academic preparation for grad school. This means that I’m not trying to read papers, or study ahead in textbooks, etc. Instead, I’m doing things like cleaning up my digital life, setting up apps for reading papers, and making a nice looking problem set template![^1]
 
-<object data="https://padajar.com/assets/docs/pset.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://padajar.com/assets/docs/pset.pdf">
-        <p>Looks like you can't see this PDF in-browser for some reason. Click <a href="https://padajar.com/assets/docs/pset.pdf">this link</a> to download the PDF.</p>
-    </embed>
-</object>
+{% include pdf.html src="/assets/docs/pset.pdf" title="problem set template example" link="open the pdf in a new tab" %}
 
 
 

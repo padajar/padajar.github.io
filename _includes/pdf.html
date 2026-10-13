@@ -1,0 +1,10 @@
+{%- comment -%}
+  inline pdf viewer with an always-visible link (mobile browsers often can't show pdfs inline).
+  usage: {% include pdf.html src="/assets/cv.pdf" %}
+  optional: ratio="16 / 9" (default "8.5 / 11", us letter), title="...", link="..." (link text)
+{%- endcomment -%}
+{%- assign pdf_url = include.src | relative_url -%}
+<div class="pdf-embed" style="aspect-ratio: {{ include.ratio | default: '8.5 / 11' }};">
+  <iframe src="{{ pdf_url }}#view=FitH" title="{{ include.title | default: 'PDF viewer' }}" loading="lazy"></iframe>
+</div>
+<p class="pdf-embed__link"><small><a href="{{ pdf_url }}" target="_blank" rel="noopener">{{ include.link | default: "Open the PDF in a new tab" }}</a></small></p>

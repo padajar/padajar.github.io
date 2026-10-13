@@ -15,11 +15,7 @@ but as someone who’s no longer taking classes, most $\LaTeX$ documents i write
 
 after some work (much of which was procrasti-productivity when i had to be doing other stuff), i have *finally* created some new templates that supersede my old template — introducing, [padajar-templates](https://github.com/padajar/padajar-templates/tree/main)!
 
-<object data="https://padajar.com/assets/docs/padajar-templates.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://padajar.com/assets/docs/padajar-templates.pdf">
-        <p>looks like you can't see this PDF in-browser for some reason. Click <a href="https://padajar.com/assets/docs/padajar-templates.pdf">this link</a> to download the PDF.</p>
-    </embed>
-</object>
+{% include pdf.html src="/assets/docs/padajar-templates.pdf" title="padajar-templates examples" link="open the pdf in a new tab" %}
 
 these templates are now available on github under a mit license. a few extra design notes of interest that i didn’t include in the above pdf:
 

@@ -7,8 +7,4 @@ This page will always contain the latest version of my “as clear as mud” pre
 
 
 
-<object data="https://padajar.com/assets/presentations/as-clear-as-mud.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://padajar.com/assets/presentations/as-clear-as-mud.pdf">
-        <p>Looks like you can't see this PDF in-browser for some reason. Click <a href="https://padajar.com/assets/presentations/as-clear-as-mud.pdf">this link</a> to download the PDF.</p>
-    </embed>
-</object>
+{% include pdf.html src="/assets/presentations/as-clear-as-mud.pdf" ratio="16 / 9" title="as clear as mud slides" %}
