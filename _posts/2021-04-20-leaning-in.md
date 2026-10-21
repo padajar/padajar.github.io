@@ -84,8 +84,6 @@ if you squint and tilt your head, it kind of looks like a thought bubble
 
 ![clouds 3](https://mitadmissions.org/wp-content/uploads/2021/04/20210410_142434-800x1067.jpg)
 
-Previous Next
-
 About a year ago, there was a [ruckus on Twitter](https://ryanandrewlangdon.wordpress.com/2020/01/28/today-i-learned-that-not-everyone-has-an-internal-monologue-and-it-has-ruined-my-day/) when someone pointed out that some people have inner monologues, while some people don’t. I fall into the latter camp. When I think about something, my brain is filled with vague, amorphous thoughts, that only become coherent when I attempt to verbalize them or put them down in writing.⁠[03](https://mitadmissions.org/blogs/entry/leaning-in/#annotation-3) The fact that we often draw inner thoughts as clouds, hovering above someone’s head, is not lost on me.
 
 Partially as a result of this, I like thinking about frameworks: conscious ways to organize thoughts, things like [80,000 hours](https://80000hours.org/key-ideas/) or [Wait But Why’s guide to choosing a career](https://waitbutwhy.com/2018/04/picking-career.html). During grad school visit days, a Ph.D. candidate recommended that I take a peek at [Designing Your Life](https://designingyour.life/the-book/), written by two people who teach about design at Stanford, and have created a class where students apply design principles towards crafting a life. Chapter 2 of this book is called “Building a Compass”, identifying the values important in your work and values important for your life, and that those values can guide you through big decisions.

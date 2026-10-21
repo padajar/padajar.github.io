@@ -27,7 +27,7 @@ proof that this is the post number i claim it was
 
 *Note: This section gives an introduction to tau from the ground up. The only thing needed to understand everything is calculus, but if you haven’t taken that yet, this section* *should still be accessible*⁠[01](https://mitadmissions.org/blogs/entry/in-honor-of-tau/#annotation-1) *even with just algebra/geometry (hopefully). Much of the material from this section is drawn from Michael Hartl’s [The Tau Manifesto](https://tauday.com/tau-manifesto). I encourage you to read it for a deeper, more involved read about tau!*
 
-Pi, or 3.14159…, or π, is perhaps the single most iconic mathematical object. From the [t-shirts with pi](https://www.google.com/search?q=pi+t+shirt&sxsrf=ALeKk02JIJcS0ehMSq2pOpkYEegALobM9g:1612835777753&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjy4_O82dvuAhUJJt8KHWIHBhYQ_AUoAnoECBUQBA&cshid=1612835784144157&biw=1745&bih=852) to [Pi Day](https://www.piday.org/) celebrations on March 14th to [the Simpsons](https://www.youtube.com/watch?v=L1eegVTwDS0), even. Pi is a number that relates two important parts of circles: their circumference (length around the circle) and diameter (length across the circle). The ratio of every circle’s circumference to its diameter is exactly pi: in other words, π=Cd.
+Pi, or 3.14159…, or π, is perhaps the single most iconic mathematical object. From the [t-shirts with pi](https://www.google.com/search?q=pi+t+shirt&sxsrf=ALeKk02JIJcS0ehMSq2pOpkYEegALobM9g:1612835777753&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjy4_O82dvuAhUJJt8KHWIHBhYQ_AUoAnoECBUQBA&cshid=1612835784144157&biw=1745&bih=852) to [Pi Day](https://www.piday.org/) celebrations on March 14th to [the Simpsons](https://www.youtube.com/watch?v=L1eegVTwDS0), even. Pi is a number that relates two important parts of circles: their circumference (length around the circle) and diameter (length across the circle). The ratio of every circle’s circumference to its diameter is exactly pi: in other words, $$\pi = \frac{C}{d}$$.
 
 ![circle with circumference and diameter labeled: pi = c/d = 3.14...](https://mitadmissions.org/wp-content/uploads/2021/02/pic1.png)
 
@@ -45,7 +45,7 @@ So perhaps it’s better to use a different circle constant: one that relates a 
 
 Doing a bit of algebra on the definition of π, and using the fact that a diameter d is twice the radius r (and so d/2=r) we get
 
-2π=2Cd=Cd/2=Cr.
+$$2\pi = \frac{2C}{d} = \frac{C}{d/2} = \frac{C}{r}.$$
 
 And so 2π gets at an *even more fundamental relationship* that is present in circles — the relationship between the circumference and the radius. For convenience, let’s denote 2π as τ.
 
@@ -57,17 +57,17 @@ This idea that pi isn’t truly “fundamental” has been talked about for a lo
 
 If you’re familiar with geometry, you might be incredibly hesitant about τ because of the formula for a circle’s area:
 
-A=πr2=12τr2.
+$$A = \pi r^2 = \frac{1}{2} \tau r^2.$$
 
-This formula, at first glance, looks much uglier with tau than with pi, with a constant factor of 12 sticking out front.
+This formula, at first glance, looks much uglier with tau than with pi, with a constant factor of $$\frac12$$ sticking out front.
 
 If you’re taking a physics class right now, the form of the area equation with tau might look quite familiar to you. A few examples:
 
-- Δx=12at2 is the formula for the distance traveled Δx by an object that starts at rest and accelerates at a rate of a for a time of t.
-- Ek=12mv2 is the kinetic energy Ek possessed by an object with mass m traveling with velocity v.
-- Es=12k(Δx)2 is the potential energy Es stored in a spring with a spring constant of k that is displaced from equilibrium by a distance of Δx.
+- $$\Delta x = \frac12 at^2$$ is the formula for the distance traveled Δx by an object that starts at rest and accelerates at a rate of a for a time of t.
+- $$E_k = \frac12 mv^2$$ is the kinetic energy $$E_k$$ possessed by an object with mass m traveling with velocity v.
+- $$E_s = \frac12 k (\Delta x)^2$$ is the potential energy $$E_s$$ stored in a spring with a spring constant of k that is displaced from equilibrium by a distance of Δx.
 
-With these in mind, the factor of 12 looks a lot less weird in front of there. But it’s not just a surface similarity: the 12 exists in front of all of these equations for the same reason: the integral⁠[02](https://mitadmissions.org/blogs/entry/in-honor-of-tau/#annotation-2) ∫xdx=12x2.
+With these in mind, the factor of $$\frac12$$ looks a lot less weird in front of there. But it’s not just a surface similarity: the $$\frac12$$ exists in front of all of these equations for the same reason: the integral⁠[02](https://mitadmissions.org/blogs/entry/in-honor-of-tau/#annotation-2) $$\int x \, dx = \frac12 x^2$$.
 
 One way to “derive” the formula for the area of a circle is by taking the areas of thin rings in the circle (imagine an [onion with many layers](https://www.youtube.com/watch?v=-FtCTW2rVFM)). If we find the area of each of these rings, and add them all up together, we can get the area of the circle!
 
@@ -77,17 +77,17 @@ But what’s the area of one of these rings? If some ring that’s r′ out from
 
 ![unrolling of one ring to a rectangle](https://mitadmissions.org/wp-content/uploads/2021/02/pic4.png)
 
-So, we can add up each of these areas (τr′idr for each ring i, and so ∑iτr′idr in total), and we’ll get the area of the circle! However, this sum is an approximation — but it’ll get more exact when the rings get smaller: i.e., dr′→0. When we do that, calculus students may realize that our sum turns into an integral, and we simply need to evaluate
+So, we can add up each of these areas ($$\tau r'_i \, dr$$ for each ring $$i$$, and so $$\sum_i \tau r'_i \, dr$$ in total), and we’ll get the area of the circle! However, this sum is an approximation — but it’ll get more exact when the rings get smaller: i.e., dr′→0. When we do that, calculus students may realize that our sum turns into an integral, and we simply need to evaluate
 
-∫r0τr′dr′=12τr2
+$$\int_0^r \tau r' \, dr' = \frac12 \tau r^2$$
 
-and the 12 pops out — not by magic, but because of the power rule for integrals and the relationship of the area of a circle and its circumference.
+and the $$\frac12$$ pops out — not by magic, but because of the power rule for integrals and the relationship of the area of a circle and its circumference.
 
-Each of the equations above with factors of 12 can be represented as some integral, a sum of “smaller things”:
+Each of the equations above with factors of $$\frac12$$ can be represented as some integral, a sum of “smaller things”:
 
-- Integrating velocity v=at with respect to time gives Δx=∫vdt=∫atdt=12at2
-- Integrating momentum p=mv with respect to velocity gives Ek=∫pdv=∫mvdv=12mv2
-- Integrating spring force F=kΔx with respect to the Δx gives Es=∫kdΔx=∫kΔxdΔx=12k(Δx)2
+- Integrating velocity v=at with respect to time gives $$\Delta x = \int v \, dt = \int at \, dt = \frac12 at^2$$
+- Integrating momentum p=mv with respect to velocity gives $$E_k = \int p \, dv = \int mv \, dv = \frac12 mv^2$$
+- Integrating spring force F=kΔx with respect to the Δx gives $$E_s = \int k \, d\Delta x = \int k \Delta x \, d \Delta x = \frac12 k(\Delta x)^2$$
 
 And so now we have a second piece of evidence for tau: its use in the area formula.
 
@@ -95,23 +95,23 @@ Reason number 3⁠[03](https://mitadmissions.org/blogs/entry/in-honor-of-tau/#an
 
 ![unit circle with degrees and unit circle with pi](https://mitadmissions.org/wp-content/uploads/2021/02/pic5.png)
 
-Radians are often troubling pedagogically; whenever you learn them, it’s often very hard to wrap your head intuitively around degree-to-radian conversions, what a radian actually means,⁠[04](https://mitadmissions.org/blogs/entry/in-honor-of-tau/#annotation-4) and other general confusion. If someone tells you that something is π/3 radians, how many is that? It’s a third of a semicircle, 180∘, which makes it a sixth of a circle, or 360∘/6=60∘. Lots of steps, lots of room for silly mistakes, lots of room for head-scratching.
+Radians are often troubling pedagogically; whenever you learn them, it’s often very hard to wrap your head intuitively around degree-to-radian conversions, what a radian actually means,⁠[04](https://mitadmissions.org/blogs/entry/in-honor-of-tau/#annotation-4) and other general confusion. If someone tells you that something is π/3 radians, how many is that? It’s a third of a semicircle, 180°, which makes it a sixth of a circle, or 360°/6 = 60°. Lots of steps, lots of room for silly mistakes, lots of room for head-scratching.
 
 Now consider a unit circle, but with the angles denoted as multiple of τ:
 
 ![unit circle with tau and unit circle with pi](https://mitadmissions.org/wp-content/uploads/2021/02/pic6.png)
 
-Now, the numbers make much more sense. Since tau is symbolized by a Greek “t”, we can imagine that τ stands for “turn”; one turn around the circle is exactly τ radians! Now, conversions between angles and degrees are easy: one-eighth of a circle, or 45∘, is exactly 18τ. Boom, angles and radians much easier. (I still sometimes convert radian angles given in terms of π to τ so that I can work with them more easily.)
+Now, the numbers make much more sense. Since tau is symbolized by a Greek “t”, we can imagine that τ stands for “turn”; one turn around the circle is exactly τ radians! Now, conversions between angles and degrees are easy: one-eighth of a circle, or 45°, is exactly $$\frac18 \tau$$. Boom, angles and radians much easier. (I still sometimes convert radian angles given in terms of π to τ so that I can work with them more easily.)
 
 Not only is this helpful for understanding unit circle mechanics and conversions, but the usefulness of tau here extends to all trigonometric functions (sine, cosine, secant, cosecant all have periods of τ). So useful indeed c:
 
 This section is already going on a bit longer than I anticipated,⁠[05](https://mitadmissions.org/blogs/entry/in-honor-of-tau/#annotation-5) so here’s a hodgepodge of various other places where you can use tau!
 
-- The probability density function for the normal distribution with mean 0 and standard deviation 1 (the classic “bell curve”) is given by 1τ√e−12x2.
-- Euler’s identity (eiπ=−1) becomes much more elegant if we square both sides, which then can be expressed in terms of tau: eiτ=1.
-- The reduced Planck constant ℏ is given by ℏ=hτ.
-- Stirling’s approximation for the factorial function is given by n!∼τn−−√(ne)n .
-- Cauchy’s integral formula states that given a holomorphic function f on the complex plane C and a disc D which has positively oriented boundary of γ, every point a in the interior of D satisfies f(a)=1τi∫γf(z)z−adz.
+- The probability density function for the normal distribution with mean 0 and standard deviation 1 (the classic “bell curve”) is given by $$\frac{1}{\sqrt{\tau}} e^{-\frac12 x^2}$$.
+- Euler’s identity ($$e^{i\pi} = -1$$) becomes much more elegant if we square both sides, which then can be expressed in terms of tau: $$e^{i\tau} = 1$$.
+- The reduced Planck constant ℏ is given by $$\hbar = \frac{h}{\tau}$$.
+- Stirling’s approximation for the factorial function is given by $$n! \sim \sqrt{\tau n} \left( \frac{n}{e} \right)^n$$.
+- Cauchy’s integral formula states that given a holomorphic function f on the complex plane C and a disc D which has positively oriented boundary of γ, every point a in the interior of D satisfies $$f(a)=\frac{1}{\tau i}\int_\gamma\frac{f(z)}{z-a}\, dz$$.
 
 If you’re interested in more: as I stated above, the material here is largely drawn from [The Tau Manifesto](https://tauday.com/tau-manifesto) by Michael Hartl. I highly encourage reading through it for more tau-related arguments (with math that is deeper than this post) and rebuttals to counterarguments proposed by the [Pi Manifesto](https://web.archive.org/web/20200926221249/http:/www.thepimanifesto.com/) (which was written in response to The Tau Manifesto :P).
 
@@ -127,13 +127,7 @@ That last bullet point transitions nicely into…
 
 As one might expect, an institution like MIT, home to many a math nerd, has a few fans of the superior circle constant.⁠[06](https://mitadmissions.org/blogs/entry/in-honor-of-tau/#annotation-6) Here’s a few ways in which tau has made an appearance at MIT.
 
-- MIT students are known for their
-
-   
-
-  hacks
-
-  : pranks and jokes that students pull, often by putting objects in places that they shouldn’t be. In 1979, some MIT students stuck a (plastic) cow on top of the Great Dome.
+- MIT students are known for their [hacks](http://hacks.mit.edu/): pranks and jokes that students pull, often by putting objects in places that they shouldn’t be. In 1979, some MIT students stuck a (plastic) cow on top of the Great Dome.
 
   ![cow on dome](https://mitadmissions.org/wp-content/uploads/2021/02/cowdome.png)
 

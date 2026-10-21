@@ -252,8 +252,6 @@ part one of my room -- many things to pack up :(
 
 part two of my messy dorm room, with a to-do list of so many things i needed to do
 
-Previous Next
-
 Wednesday try to play the piano before ESP’s meeting. It’s hard. I can’t. The songs I was playing just fine last week I now just can’t seem to focus on. Every time I try to get into the music I keep thinking about all that’s been happening.
 
 ESP meets to talk about how we’ll virtualize our operations, and revises all of the plans that we made on Saturday, just 4 days ago. But it seems like forever. I also make plans with some ESP people on Saturday to sit on the steps of DuPont Gymnasium, in case some people didn’t get our memo about Spark being canceled. So that we can talk to people and say how much we wished we could run it.

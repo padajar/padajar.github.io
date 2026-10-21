@@ -62,8 +62,6 @@ the view looking back on the ammonoosuc ravine trail (heading up to mount washin
 
 at the top!
 
-Previous Next
-
 These trips took up a lot (if not all) of my weekends, and so on the surface, it seems like I care a lot about hiking. But I don’t particularly identify as a hiker — so why did I do this all?
 
 Well, the first Blue Hills trip was intended as a way of relaxation and meditation; a time to be alone and disconnected, free to just think for a bit with some space away from the world. The second was a bit of a “prove to myself that I can”, given how long/difficult that it was, and also a time to hang out with my roommates. The final trip, I was invited by an economics friend, and I said yes because it seemed fun to explore hikes a bit further away and to hang out with new people in my department. When it comes down to it, I feel like I’ve been going on these hikes just because … I wanted to. And so long as I keep enjoying it, I can see myself continuing to hike for the rest of my adult life.
@@ -177,8 +175,6 @@ me + freshman year roommates, recreating our ring delivery pic before heading to
 ![people gathered around an ice cream cake](https://mitadmissions.org/wp-content/uploads/2022/09/281503008_1056693228565038_9194783274798052570_n-1-800x605.jpg)
 
 many esp alumni got tosci's together c:
-
-Previous Next
 
 Like a normal graduation ceremony, there were speeches, and they were *wonderful*.
 

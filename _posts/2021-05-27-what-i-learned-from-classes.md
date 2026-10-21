@@ -68,11 +68,7 @@ To show this idea in action, I’ve reflected on every class I’ve taken at MIT
 
    
 
-  The Meaning of Life (
-
-  MIT News Article
-
-  )
+  The Meaning of Life ([MIT News Article](https://news.mit.edu/2017/anthropology-course-meaning-of-life-0615))
 
   **Course catalog description:** Examines how a variety of cultural traditions propose answers to the question of how to live a meaningful life. Considers the meaning of life, not as a philosophical abstraction, but as a question that individuals grapple with in their daily lives, facing difficult decisions between meeting and defying cultural expectations. Provides tools for thinking about moral decisions as social and historical practices, and permits students to compare and contextualize the ways people in different times and places approach fundamental ethical concerns.
 

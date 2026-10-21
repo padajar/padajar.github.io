@@ -3,7 +3,7 @@ permalink: /economics/
 title: "economics"
 ---
 
-I'm an applied microeconomist who thinks about gaps in access in opportunity, application systems, and supporting students' growth. While I am a labor and education economist at my core, I also filter in and out of many other fields --- like market design, IO, econometrics, development, theory, and behavioral --- using their tools for the questions I want to answer.
+I'm an applied microeconomist who thinks about gaps in access to opportunity, application systems, and supporting students' growth. While I am a labor and education economist at my core, I also filter in and out of many other fields --- like market design, IO, econometrics, development, theory, and behavioral --- using their tools for the questions I want to answer.
 
 {% include jump.html sections="job market paper=job-market-paper|other research=other-research|education=education|prior work=prior-work" %}
 

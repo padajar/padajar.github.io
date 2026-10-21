@@ -35,8 +35,6 @@ another sad day for hard mode. reflect this over y=x and it looks like an F? pat
 
 overall wordle stats! i have lots of 4s
 
-Previous Next
-
 There are also a *million* other Wordle clones that I’ve enjoyed (though don’t keep up with them like Wordle):
 
 - [Worldle](https://worldle.teuteuf.fr/), guessing countries/territories using their shape and how far off you are geographically (or for a harder mode, without any shapes)

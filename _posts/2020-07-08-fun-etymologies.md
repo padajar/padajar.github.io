@@ -28,7 +28,7 @@ gauche
 : In French, *gauche* simply means "left". It has a meaning in French of "awkward", and derives from older roots meaning "to veer" and older roots meaning "to trample". Even older roots in Proto-Indo-European meaning "bend" or "curve" also led to the word *wink*.
 
 blandishment
-: *Blandishment* is related to the word *bland*, but have quite different meanings. They both come from the Latin word *blandus* meaning "soft" or "smooth". *Bland* got the "dull, uninteresting" side of *blandus*, whereas *blandishment* now means flattery, or "smoothing over".
+: *Blandishment* is related to the word *bland*, but they have quite different meanings. They both come from the Latin word *blandus* meaning "soft" or "smooth". *Bland* got the "dull, uninteresting" side of *blandus*, whereas *blandishment* now means flattery, or "smoothing over".
 
 cozen
 : The background on this word meaning "to cheat or defraud" is ambiguous. One interpretation suggests that it is related to the word *cousin* and the French word *cousiner* meaning "to cheat on the pretext of being a cousin." Another theory suggests that it is related to the Middle English word *cosyn* (with the same meaning), which itself derives from *coçon*, a word in Old French meaning "trader". This, in turn, derives from *cocionem*, a Latin word meaning "horse dealer". 
@@ -49,7 +49,7 @@ If you'd like to read more fun etymologies, I suggest [The Word Detective](https
 
 [^1]: However, the GRE does allow you to send 4 free score reports. How generous.
 
-[^2]: Since them, some graduate programs have decided to not accept the GRE at all, the most prominent being [UC Berkeley](https://web.archive.org/web/20200620165217/https://www.econ.berkeley.edu/grad/admissions). It remains to be seen whether all of my studying was for nothing...
+[^2]: Since then, some graduate programs have decided to not accept the GRE at all, the most prominent being [UC Berkeley](https://web.archive.org/web/20200620165217/https://www.econ.berkeley.edu/grad/admissions). It remains to be seen whether all of my studying was for nothing...
 
 [^3]: From my understanding, top programs seem to expect a perfect score on math; that corresponds to the 96th percentile. Perhaps the GRE General isn't the best way to differentiate math skill levels at high levels. Math graduate schools have the GRE Math Subject Test, and economics graduate schools do look for other signals of math ability (math classes taken, particularly real analysis), so I'm not sure why they'd give any weight to a test like this.
 

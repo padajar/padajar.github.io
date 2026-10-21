@@ -28,7 +28,7 @@ In [A Guide for the Young Economist](https://mitpress.mit.edu/books/guide-young-
 
 In the same way, these same issues plague me, whenever I write a paper and put it out to the world. I *will* be judged, inevitably, if I put out a shoddy paper, even if it is just a work in progress.
 
-I read the above paragraph on August 2nd. I[annotation note="yes, i use my calendar as a todolist sometimes, yes, i know it’s bad, no, i will not stop"]set a calendar event for August 5th[/annotation] to remove my papers from undergrad from my website. It hasn’t happened yet because I don’t know if I should. Maybe I’ll talk to some of my professors about it. I’m sure they’ll have thoughts.
+I read the above paragraph on August 2nd. I set a calendar event for August 5th[^cal] to remove my papers from undergrad from my website. It hasn’t happened yet because I don’t know if I should. Maybe I’ll talk to some of my professors about it. I’m sure they’ll have thoughts.
 
 About a year ago, a few months into quarantine, I finally published my personal website. I’d started writing some text for it during IAP 2020, but it only really came together when I set aside a few weeks to type up things about my life. My website is an attempt to talk about the thought and intent behind many things that people might know about me from my resume, like "here's what I got out of this research project" or "here's something fun I enjoyed" or "here's what I wish I did differently". A quote from my first blog post:
 
@@ -44,7 +44,7 @@ To be clear, nothing was graded, and there were no tests. In the end, math camp 
 
 Over the course of math camp, which happened the last few weeks of August, I realized that math camp, first and foremost, was a *social* experience; all of the new students got together to solve problems, hang out after class, and just get to know each other. In the last 1.5 years, I met approximately three new people — until math camp started, when 20-something new 20-somethings all plopped into my life.
 
-I’d forgotten what it was like to come into [annotation note="well, kinda new. i wasn't a participant in the graduate community at mit econ before this year, but had seen lots of faces before"]a new environment[/annotation] and to have to meet new people. There’s always the awkward small talk of “What’s your name again?” and “What do you think you’re interested in?” and “What field classes are you taking this fall?”. And it's a weird back-and-forth of trying to figure out who everyone *really* is— and of trying to show everyone who *you* are.
+I’d forgotten what it was like to come into a new environment[^new] and to have to meet new people. There’s always the awkward small talk of “What’s your name again?” and “What do you think you’re interested in?” and “What field classes are you taking this fall?”. And it's a weird back-and-forth of trying to figure out who everyone *really* is— and of trying to show everyone who *you* are.
 
 I’d like to think that I’m a decently perceptive person, observant enough about what people say, the way they say it, and what they don’t say. But I do feel out-of-practice after a year in quarantine, struggling to find the right questions to get to know someone better. It just used to come so naturally. It’s only been a few weeks, of course, but I wish I knew the right way to skip past the “casual acquaintance from class” level of knowing someone.
 
@@ -54,7 +54,7 @@ I had a tough time adjusting to college my first semester. Things were tough —
 
 I’m worried that I’ll fall into the same pitfall this year, with grad school starting. I haven’t had many conversations yet about mental health, or what people are worried about, or the like. I hope they come in time.
 
-[This comic](https://existentialcomics.com/comic/235). Yes, that’s basically the entirety of this section. Thanks, [annotation note="cj actually linked me a different existential comic which i will not link here. sorry @cj"]@CJ.[/annotation]
+[This comic](https://existentialcomics.com/comic/235). Yes, that’s basically the entirety of this section. Thanks, @CJ.[^cj]
 
 Maybe I should read more philosophy. I’ve never been one to actually read Sartre or whoever, but I feel like I might enjoy doing it.
 
@@ -73,3 +73,7 @@ But no one can perceive and understand all of those facets, no one can see me in
 In some ways, this is all contradictory. Even when I try to blog like this, showing the messy parts and the things I’m not sure of, there will always be things that are missing. There's the parts that I don't know how to phrase or that I forget to talk about or that I don't realize are actually important. There's also the fact that I’m still trying to portray some image of myself subconsciously. There will always be some amount of posturing, some amount of curating an image. To talk about myself with you *is* to alter your perception of me. Blogging is, in many ways, parasocial — a medium where you try to perceive me only through the image of myself that I display to the world.
 
 But of course, the difficulty of understanding someone isn't caused by the fact that I'm blogging. It's something that's always hard. It's hard to share yourself with people, hard to really know who others are. And there's never any getting around that.
+
+[^cal]: yes, i use my calendar as a todolist sometimes, yes, i know it’s bad, no, i will not stop
+[^new]: well, kinda new. i wasn't a participant in the graduate community at mit econ before this year, but had seen lots of faces before
+[^cj]: cj actually linked me a different existential comic which i will not link here. sorry @cj

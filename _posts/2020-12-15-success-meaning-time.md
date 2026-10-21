@@ -97,11 +97,11 @@ The song for this section is “[Vienna](https://www.youtube.com/watch?v=wccRif2
 
 *This section is structured as a Q+A, haphazardly jumping around different ways that one can interpret meaning, especially as it relates to my thoughts on graduate school, blogging, and my values.* 
 
-**what does “meaning” mean?
-**Many, many things.
+**what does “meaning” mean?**
+Many, many things.
 
-**does my research matter (or will it, once i start doing “real” research)?
-**The other day, I was talking to my girlfriend about her experiences in 14.03 (Microeconomic Theory and Public Policy) an introduction to ways that (micro)economists view the world. Her primary critique of economics was that many models were very abstracted and separated from the world, and that many of the frameworks, such as [the market for lemons](https://www.wikiwand.com/en/The_Market_for_Lemons), really had little significance beyond economists noting “oh hm, that’s an interesting model”.
+**does my research matter (or will it, once i start doing “real” research)?**
+The other day, I was talking to my girlfriend about her experiences in 14.03 (Microeconomic Theory and Public Policy) an introduction to ways that (micro)economists view the world. Her primary critique of economics was that many models were very abstracted and separated from the world, and that many of the frameworks, such as [the market for lemons](https://www.wikiwand.com/en/The_Market_for_Lemons), really had little significance beyond economists noting “oh hm, that’s an interesting model”.
 
 I view economics as having two separate “paths”. Path one is a path with research like the lemons paper, made by economists who stay much more in the so-called “ivory tower” of academia. These economists try to deeply understand how the world works, but the things they study are only useful within the field of economics (allowing others to build on your work, perhaps) or helping professors get tenure.
 
@@ -109,13 +109,13 @@ On the other hand, there’s a path of economics research where people focus muc
 
 Straddling the line between these two paths is difficult — but at least it’s possible. And so here’s to making sure my research has meaning.
 
-**why do i blog?
-**I started blogging this summer after reading Alexey Guzey’s post “[Why You Should Start a Blog Right Now](https://guzey.com/personal/why-have-a-blog/)”. I’m usually a person that thinks about things by talking about them with other people.⁠[06](https://mitadmissions.org/blogs/entry/on-success-meaning-and-time/#annotation-6) That was much harder once the pandemic began, and I talked to exceedingly few people on a daily basis. And so to help articulate my thoughts better to myself, I started a blog (after many failed attempts across the years).
+**why do i blog?**
+I started blogging this summer after reading Alexey Guzey’s post “[Why You Should Start a Blog Right Now](https://guzey.com/personal/why-have-a-blog/)”. I’m usually a person that thinks about things by talking about them with other people.⁠[06](https://mitadmissions.org/blogs/entry/on-success-meaning-and-time/#annotation-6) That was much harder once the pandemic began, and I talked to exceedingly few people on a daily basis. And so to help articulate my thoughts better to myself, I started a blog (after many failed attempts across the years).
 
 Another way of phrasing this is that I want my blogs to have meaning to me. Looking back at my admissions blogs from this year, I’ve tried to make my posts purposeful, not just to the outside world, but to *me*, whether that is [reflecting on the busyness of MIT that I may soon forget](https://mitadmissions.org/blogs/entry/in-search-of-a-reset-day/), [a place to remember cool projects I worked on](https://mitadmissions.org/blogs/entry/dormspam-the-game-part-3/) or [my thoughts on applying to graduate school](https://mitadmissions.org/blogs/entry/17707-words/). As Guzey mentions in the blog post that inspired me, actually making yourself write is useful for figuring out your thoughts and for telling people “hey, I wrote this, let me know what you think”. Maybe I’ll look back at these posts and just see an angsty college student trying to figure out their place in the world. Or maybe I’ll look back and see tiny, little things that have grown into things that future-me cares about. Who knows.
 
-**what gives me meaning?
-**I care about people. The people in my life have inspired me, pushed me to grow, and helped me define how I go through the world. I care about bettering others’ lives, whether through the work I do or the conversations I have with others. I would not be who I am or have succeeded half as much without the people in my life.
+**what gives me meaning?**
+I care about people. The people in my life have inspired me, pushed me to grow, and helped me define how I go through the world. I care about bettering others’ lives, whether through the work I do or the conversations I have with others. I would not be who I am or have succeeded half as much without the people in my life.
 
 I really, really value the connections I have with others, especially when those connections are more than superficial. The first time that I was able to define “things that I value” in a way that didn’t feel superficial and fake was at [LeaderShape](https://www.leadershape.org/), whose name sounds like it is a superficial and fake leadership retreat. But when I went to LeaderShape my freshman year,⁠[07](https://mitadmissions.org/blogs/entry/on-success-meaning-and-time/#annotation-7) it was this wonderful 4-day period of introspecting and figuring out difficult questions with others while trying to figure out how to impact the world. (Fun fact: [Sal Khan](https://thetech.com/2013/05/10/khan-v133-n25) went to LeaderShape, and it was there that he first conceived of Khan Academy. Regardless of what college you are at, I *highly* suggest looking into if they have a LeaderShape program and attending c: )
 
@@ -125,8 +125,8 @@ Beyond that, even if I know what my values are, it’s hard to take this abstrac
 
 So what gives me meaning? I have some ideas. But figuring out how to use that knowledge in my own life is hard.
 
-**will i find research meaningful?
-**One of my readings for 8.225 (Physics in the 20th Century) was an essay in “Working It Out” by Evelyn Fox Keller, who wrote about her experiences in a physics doctorate at Harvard in the early 1960s, an incredibly sexist and isolating time. I cannot begin to describe her experiences in a paragraph or two, so I’ll quote the end results: “After two years of virtually continuous denial of my perceptions, my values, and my ambitions — an experience that might have then been described as brainwashing, and ought now be called schizophrenogenic — my demoralization was complete … my commitment to physics was over.”
+**will i find research meaningful?**
+One of my readings for 8.225 (Physics in the 20th Century) was an essay in “Working It Out” by Evelyn Fox Keller, who wrote about her experiences in a physics doctorate at Harvard in the early 1960s, an incredibly sexist and isolating time. I cannot begin to describe her experiences in a paragraph or two, so I’ll quote the end results: “After two years of virtually continuous denial of my perceptions, my values, and my ambitions — an experience that might have then been described as brainwashing, and ought now be called schizophrenogenic — my demoralization was complete … my commitment to physics was over.”
 
 Despite this all, Keller has done amazing things since, researching the links between gender and science and language and more. In the same reading, she writes:
 
@@ -136,8 +136,8 @@ This particular passage hit me hard. (It’s highlighted in orange, rather than 
 
 In applying to graduate programs in economics, I’ve had to articulate goals about what I want to achieve in a graduate program. And I’ve been able to articulate something reasonable about doing applied microeconomics research to study the impacts of interpersonal connections in labor markets, social networks, education, and more. But while others may ask for these goals, what really matters is if they’re goals *I* want to pursue. Is this a life that I would find fulfilling and meaningful? It remains to be seen.
 
-**what does “vienna” mean to me?
-**As I mentioned in [Nisha’s end-of-year-Spotify-wrapped-blog](https://mitadmissions.org/blogs/entry/blogger-wrapped-2020/), I’ve been making playlists of what I’m listening to every semester (and summer) since coming to college. I strongly associate the music I listen to with memories and people and places and times, so I can sometimes recall the exact moment or feelings I had when first listening to the song. A few examples:
+**what does “vienna” mean to me?**
+As I mentioned in [Nisha’s end-of-year-Spotify-wrapped-blog](https://mitadmissions.org/blogs/entry/blogger-wrapped-2020/), I’ve been making playlists of what I’m listening to every semester (and summer) since coming to college. I strongly associate the music I listen to with memories and people and places and times, so I can sometimes recall the exact moment or feelings I had when first listening to the song. A few examples:
 
 - “[All I Want For Christmas Is You](https://www.youtube.com/watch?v=yXQViqx6GMY)” on my freshman fall playlist: Blasting it with my roommates (who I live with again this year!) out our window to unsuspecting Nexties
 - “[Forbidden Friendship](https://www.youtube.com/watch?v=96NgGuKQcmo)” on my freshman summer playlist: watching fireworks over the Charles during my first (and only) 4th of July in Boston

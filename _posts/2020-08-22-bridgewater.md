@@ -16,7 +16,7 @@ Last Friday, I finished up my internship at [Bridgewater Associates](https://www
 
 ## the work
 
-One of my big worries was how much work I could reasonably do in 4 weeks. To give you as much of an overview that I can[^1], here's approximately what happened week-by-week:
+One of my big worries was how much work I could reasonably do in 4 weeks. To give you as much of an overview as I can[^1], here's approximately what happened week-by-week:
 
 * **Week 1: Markets Overview.** We spent a lot of time in small group discussions talking about the nature of markets, business cycles, and more. We ended the week with an exercise where we tried to predict what would happen with stocks, equities, and FX using just 2 pages of graphs of "what's been happening in an unknown economy at an unknown time".
 * **Week 2: Market Analytics.** This week was spent diving very deeply into the math behind how bond pricing works and all of the information that can be inferred from the prices of different types of bonds. 

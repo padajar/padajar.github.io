@@ -94,8 +94,6 @@ midnight ihop trip, freshman year at mit. the all-orange getup as described in m
 
 me dressing up as a pumpkin for halloween, mit junior year
 
-Previous Next
-
 I met up with the seller, who had used the bike for commuting for the past few years. It wasn’t in the best shape, in part because it wasn’t used much during quarantine. But it fit me, seemed very sturdy and dependable, and I decided to buy it. I walked it back to a bike shop near campus to figure out what needed replacement, (it turns out, >$100⁠[04](https://mitadmissions.org/blogs/entry/scootin-and-zoomin/#annotation-4) in new tires, new chain, replacing the rear bearing), and voila! A bike for commuting around Cambridge!
 
 ![an orange bike!](https://mitadmissions.org/wp-content/uploads/2021/05/20210518_175834-1000x750.jpg)

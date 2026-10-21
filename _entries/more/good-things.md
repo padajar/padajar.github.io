@@ -21,7 +21,7 @@ panels:
       rabbit holes I've been meaning to explore:
 
       - The website of [bill wurtz](https://billwurtz.com/), maker of [history of the entire world, i guess](https://www.youtube.com/watch?v=xuCn8ux2gbs)
-      - [Wikipedia's list of list of lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists)
+      - [Wikipedia's list of lists of lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists)
       - [this blog](https://zyxyvy.wordpress.com/)
       - [Google Patents](https://patents.google.com/) (try searching random nouns, like [football](https://patents.google.com/patent/US7156762B1/en?q=football&oq=football+) or [pasta](https://patents.google.com/patent/US5030462A/en?q=pasta&oq=pasta), and read the actual patent for entertaining content)
   - label: "wholesome"

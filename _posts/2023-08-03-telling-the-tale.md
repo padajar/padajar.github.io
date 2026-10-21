@@ -198,13 +198,10 @@ though it may not turn out this time, it is still worth telling again. because w
 ## Post Tagged
 
 - [#changes](https://mitadmissions.org/blogs/tag/changes/)
--  
 
 - [#i'm old](https://mitadmissions.org/blogs/tag/im-old/)
--  
 
 - [#the meaning of life](https://mitadmissions.org/blogs/tag/the-meaning-of-life/)
--  
 
 - [#theater](https://mitadmissions.org/blogs/tag/theater/)
 

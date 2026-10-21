@@ -52,9 +52,7 @@ i keep three fingers around the chalk like so
 
 side view of grab. there are still 3 fingers around the chalk
 
-Previous Next
-
-**Step 2.** Angle your chalk at a small angle θ down from the perpendicular. The correct angle is somewhere between 0∘ and 45∘, but you may need to experiment with what works.
+**Step 2.** Angle your chalk at a small angle θ down from the perpendicular. The correct angle is somewhere between 0° and 45°, but you may need to experiment with what works.
 
 **Step 3.** Touch the chalk to the board, and pull the chalk downwards, while holding it at the same angle θ. You should feel your chalk “bounce” or “vibrate” along the surface of the board, creating a dotted line!
 

@@ -5,7 +5,7 @@ author_profile: true
 classes: wide
 ---
 
-I’ve got a lot of posts on this website. Here's a collection of some my personal favorites.
+I’ve got a lot of posts on this website. Here's a collection of some of my personal favorites.
 
 - **the grad school experience:** read a post on [doing difficult things]({{site.baseurl}}/2026/01/21/taking-your-medicine/), [thoughts before the job market]({{site.baseurl}}/2026/06/24/three-weeks-three-months/), or [motivation](https://mitadmissions.org/blogs/entry/motivation-2/).
 

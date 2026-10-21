@@ -71,8 +71,6 @@ yes, this is my actual storage unit in my actual bedroom. yes, i do look at sexy
 
 but is it a fridge or a television?
 
-Previous Next
-
 (if any b1ners are reading this, this is a secret SECRET announcement that my next study break is going to be T themed. as in, MBTA, tea i’m bringing back from Southampton. a giant T spoon that i made over the holidays. brought to you by the letter T. also lots of British snacks send me your requests :P)
 
 (if you’re not a b1ner, you are *not* allowed to spill the beans to them. shh.)
