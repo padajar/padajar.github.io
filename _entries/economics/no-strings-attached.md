@@ -6,7 +6,7 @@ anchor: winners-curse
 title: "The Winner's Curse in Test-Blind Admissions"
 title_link: "/assets/papers/adajar-jmp.pdf"
 meta: "with [Nagisa Tadjfar](https://nagisatadjfar.github.io/) and [Kartik Vira](https://www.kartikvira.com/)"
-summary: "When universities admit students without considering exam scores, how does this impact test effort? How well can universities screen students? The overall match? We examine these with evidence from the UK."
+summary: "When universities admit students without considering exam scores, how does this impact test effort? How universities screen students? The overall match? We examine these with evidence from the UK."
 panels:
   - label: "abstract"
     body: |
@@ -14,6 +14,6 @@ panels:
   - label: "reflections"
     tone: note
     body: |
-      This paper's come a long way from its beginnings, and I'm very happy with how it's turned out. There's a lot more I'm now interested in studying in the UK, but I think this work answers some important questions about how university admissions should be designed.
+      This paper's come a long way from its beginnings, and I'm very happy with how it's turned out. There's a lot more I'm now interested in studying in the UK, but I think this work answers some important questions about how university admissions should be designed. Excited for this to be my Job Market Paper!
 ---
 
